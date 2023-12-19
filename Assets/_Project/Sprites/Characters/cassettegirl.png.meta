@@ -1,0 +1,2147 @@
+fileFormatVersion: 2
+guid: 1aa954d36519c40aab7a74ee87193c47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5234967170325379375
+    second: cassettegirl down0000
+  - first:
+      213: -6094004073934382546
+    second: cassettegirl down0001
+  - first:
+      213: 3464276945804445250
+    second: cassettegirl down0002
+  - first:
+      213: 6321127333446490655
+    second: cassettegirl down0003
+  - first:
+      213: -2511467530383432357
+    second: cassettegirl down0004
+  - first:
+      213: 6984000380464479731
+    second: cassettegirl down0005
+  - first:
+      213: -9155731431052414271
+    second: cassettegirl down0006
+  - first:
+      213: -4114934918181184801
+    second: cassettegirl down0007
+  - first:
+      213: -821948385867353941
+    second: cassettegirl down0008
+  - first:
+      213: -8325546183297311900
+    second: cassettegirl down0009
+  - first:
+      213: 1839732381661285651
+    second: cassettegirl down0010
+  - first:
+      213: -1275841235710463946
+    second: cassettegirl down0011
+  - first:
+      213: 3515266053086337898
+    second: cassettegirl down0012
+  - first:
+      213: -7215801257681894554
+    second: cassettegirl down0013
+  - first:
+      213: -1959788187980837649
+    second: cassettegirl down0014
+  - first:
+      213: 2140179332860601257
+    second: cassettegirl down0015
+  - first:
+      213: -1676859086824924807
+    second: cassettegirl down0016
+  - first:
+      213: -8996959473910977508
+    second: cassettegirl idle0000
+  - first:
+      213: 7434343024829861126
+    second: cassettegirl idle0001
+  - first:
+      213: 6328413982143754296
+    second: cassettegirl idle0002
+  - first:
+      213: 8310822902213851540
+    second: cassettegirl idle0003
+  - first:
+      213: 1005567723046626124
+    second: cassettegirl idle0004
+  - first:
+      213: 3894374661024411253
+    second: cassettegirl idle0005
+  - first:
+      213: -3763449727232296018
+    second: cassettegirl idle0006
+  - first:
+      213: -7437924379967475222
+    second: cassettegirl idle0007
+  - first:
+      213: -1933370843783061245
+    second: cassettegirl idle0008
+  - first:
+      213: 2332043935893899924
+    second: cassettegirl idle0009
+  - first:
+      213: 906757124287506792
+    second: cassettegirl idle0010
+  - first:
+      213: -7496337995555560641
+    second: cassettegirl idle0011
+  - first:
+      213: 8818466572129345554
+    second: cassettegirl idle0012
+  - first:
+      213: 7345696965438351055
+    second: cassettegirl idle0013
+  - first:
+      213: -2376989110677925460
+    second: cassettegirl left0000
+  - first:
+      213: -2938804171851286951
+    second: cassettegirl left0001
+  - first:
+      213: 7401371282106211203
+    second: cassettegirl left0002
+  - first:
+      213: 2462102506132494546
+    second: cassettegirl left0003
+  - first:
+      213: 1044664194448259831
+    second: cassettegirl left0004
+  - first:
+      213: -5080730816723567476
+    second: cassettegirl left0005
+  - first:
+      213: 49525456849450206
+    second: cassettegirl left0006
+  - first:
+      213: -8911302908827295612
+    second: cassettegirl left0007
+  - first:
+      213: -2568270430263218791
+    second: cassettegirl left0008
+  - first:
+      213: 2195048370369168622
+    second: cassettegirl left0009
+  - first:
+      213: -4439876051766072071
+    second: cassettegirl left0010
+  - first:
+      213: 3082474813952116661
+    second: cassettegirl left0011
+  - first:
+      213: -5118337498862593035
+    second: cassettegirl left0012
+  - first:
+      213: -2064802603119063172
+    second: cassettegirl right0000
+  - first:
+      213: 1394016410278644839
+    second: cassettegirl right0001
+  - first:
+      213: 1590324594138959648
+    second: cassettegirl right0002
+  - first:
+      213: 4897218120151411246
+    second: cassettegirl right0003
+  - first:
+      213: 5840770476327042087
+    second: cassettegirl right0004
+  - first:
+      213: 8181883437886206244
+    second: cassettegirl right0005
+  - first:
+      213: 7171326914753332808
+    second: cassettegirl right0006
+  - first:
+      213: 1020667296509984879
+    second: cassettegirl right0007
+  - first:
+      213: 7768227726296819319
+    second: cassettegirl right0008
+  - first:
+      213: -8518471180849742637
+    second: cassettegirl right0009
+  - first:
+      213: -8816534555893359267
+    second: cassettegirl right0010
+  - first:
+      213: 1503236372463041
+    second: cassettegirl right0011
+  - first:
+      213: 982060588501545620
+    second: cassettegirl right0012
+  - first:
+      213: -8140698583549658987
+    second: cassettegirl right0013
+  - first:
+      213: 4744253833081485079
+    second: cassettegirl right0014
+  - first:
+      213: -1918149046133137104
+    second: cassettegirl right0015
+  - first:
+      213: -7430174401392416199
+    second: cassettegirl up0000
+  - first:
+      213: -4169135212204996034
+    second: cassettegirl up0001
+  - first:
+      213: -5813380730248928595
+    second: cassettegirl up0002
+  - first:
+      213: 3583812138647296136
+    second: cassettegirl up0003
+  - first:
+      213: 2497382452250815431
+    second: cassettegirl up0004
+  - first:
+      213: -8637420935710383821
+    second: cassettegirl up0005
+  - first:
+      213: 6757769417705801559
+    second: cassettegirl up0006
+  - first:
+      213: 3122544118616053527
+    second: cassettegirl up0007
+  - first:
+      213: -2853964348173078593
+    second: cassettegirl up0008
+  - first:
+      213: -4568999903059099244
+    second: cassettegirl up0009
+  - first:
+      213: -7959369506520460990
+    second: cassettegirl up0010
+  - first:
+      213: -4920043690901246121
+    second: cassettegirl up0011
+  - first:
+      213: 2225486606000755455
+    second: cassettegirl up0012
+  - first:
+      213: 1586357535488792826
+    second: cassettegirl up0013
+  - first:
+      213: -2487968770304909094
+    second: cassettegirl up0014
+  - first:
+      213: -2177052974029322751
+    second: cassettegirl up0015
+  - first:
+      213: -2030587364748352657
+    second: cassettegirl up0016
+  - first:
+      213: -7145976129654694647
+    second: cassettegirl up0017
+  - first:
+      213: -6971290855669532125
+    second: cassettegirl up0018
+  - first:
+      213: -7496462560275561306
+    second: cassettegirl up0019
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cassettegirl down0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d68ce93819a957b0800000000000000
+      internalID: -5234967170325379375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a9b59059fbd6ba0800000000000000
+      internalID: -6094004073934382546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0002
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246cf361785931030800000000000000
+      internalID: 3464276945804445250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0003
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a171aa1d729b750800000000000000
+      internalID: 6321127333446490655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0004
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5561926699752dd0800000000000000
+      internalID: -2511467530383432357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0005
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd37ccd7572ce060800000000000000
+      internalID: 6984000380464479731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0006
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2fd39c5ce40f080800000000000000
+      internalID: -9155731431052414271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0007
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda95f76e70d4e6c0800000000000000
+      internalID: -4114934918181184801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0008
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0bba44c4ad794f0800000000000000
+      internalID: -821948385867353941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0009
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b547f5bd7b57c80800000000000000
+      internalID: -8325546183297311900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0010
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d44b29ada088910800000000000000
+      internalID: 1839732381661285651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0011
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630bea3e72d4b4ee0800000000000000
+      internalID: -1275841235710463946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0012
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b5331c9dbb8c030800000000000000
+      internalID: 3515266053086337898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0013
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663cd02bcf25cdb90800000000000000
+      internalID: -7215801257681894554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0014
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec4564c60f6dc4e0800000000000000
+      internalID: -1959788187980837649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0015
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3e9ca93c173bd10800000000000000
+      internalID: 2140179332860601257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl down0016
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9791a6f7b899ab8e0800000000000000
+      internalID: -1676859086824924807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl idle0000
+      rect:
+        serializedVersion: 2
+        x: 4102
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c63f2c601642380800000000000000
+      internalID: -8996959473910977508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl idle0001
+      rect:
+        serializedVersion: 2
+        x: 4102
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d036d97971c2760800000000000000
+      internalID: 7434343024829861126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl idle0002
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8303b45ccfa03d750800000000000000
+      internalID: 6328413982143754296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl idle0003
+      rect:
+        serializedVersion: 2
+        x: 5274
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49933ad9569f55370800000000000000
+      internalID: 8310822902213851540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl idle0004
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43eac1348e74fd00800000000000000
+      internalID: 1005567723046626124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl idle0005
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e64a4fe199b0630800000000000000
+      internalID: 3894374661024411253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl idle0006
+      rect:
+        serializedVersion: 2
+        x: 6446
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab3746a96a85cbc0800000000000000
+      internalID: -3763449727232296018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl idle0007
+      rect:
+        serializedVersion: 2
+        x: 6446
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae132d92f2f27c890800000000000000
+      internalID: -7437924379967475222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl idle0008
+      rect:
+        serializedVersion: 2
+        x: 7032
+        y: 3343
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301a63506794b25e0800000000000000
+      internalID: -1933370843783061245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl idle0009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a4f8f9a951d5020800000000000000
+      internalID: 2332043935893899924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl idle0010
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86926b2ecc2759c00800000000000000
+      internalID: 906757124287506792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl idle0011
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33a5a27f48a7f790800000000000000
+      internalID: -7496337995555560641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl idle0012
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2102d6700ac716a70800000000000000
+      internalID: 8818466572129345554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl idle0013
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc62e9c887821f560800000000000000
+      internalID: 7345696965438351055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl left0000
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca112176ffc330fd0800000000000000
+      internalID: -2376989110677925460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl left0001
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9563e581d254737d0800000000000000
+      internalID: -2938804171851286951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl left0002
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bd7b887f3f6b660800000000000000
+      internalID: 7401371282106211203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl left0003
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d850ae3f252b2220800000000000000
+      internalID: 2462102506132494546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl left0004
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa78abcc846f7e00800000000000000
+      internalID: 1044664194448259831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl left0005
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cbfc5bd3e9d79b0800000000000000
+      internalID: -5080730816723567476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl left0006
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4b9def323ffa000800000000000000
+      internalID: 49525456849450206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl left0007
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480a171f731b45480800000000000000
+      internalID: -8911302908827295612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl left0008
+      rect:
+        serializedVersion: 2
+        x: 4102
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d6505a6abab5cd0800000000000000
+      internalID: -2568270430263218791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl left0009
+      rect:
+        serializedVersion: 2
+        x: 4102
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee487acecd0667e10800000000000000
+      internalID: 2195048370369168622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl left0010
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc28bf11446262c0800000000000000
+      internalID: -4439876051766072071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl left0011
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b744baf28627ca20800000000000000
+      internalID: 3082474813952116661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl left0012
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbdbb3b92308f8b0800000000000000
+      internalID: -5118337498862593035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0000
+      rect:
+        serializedVersion: 2
+        x: 5274
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f49c5e8f85853e0800000000000000
+      internalID: -2064802603119063172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0001
+      rect:
+        serializedVersion: 2
+        x: 5274
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c49b11a8a885310800000000000000
+      internalID: 1394016410278644839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0002
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f483fdac7f11610800000000000000
+      internalID: 1590324594138959648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0003
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a2b370fe966f340800000000000000
+      internalID: 4897218120151411246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0004
+      rect:
+        serializedVersion: 2
+        x: 6446
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cff007dc59e0150800000000000000
+      internalID: 5840770476327042087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0005
+      rect:
+        serializedVersion: 2
+        x: 7032
+        y: 2590
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421fbd423a3eb8170800000000000000
+      internalID: 8181883437886206244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846021a65dba58360800000000000000
+      internalID: 7171326914753332808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60065a9f732a2e00800000000000000
+      internalID: 1020667296509984879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0008
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776234095f94ecb60800000000000000
+      internalID: 7768227726296819319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0009
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc7c04089f48c980800000000000000
+      internalID: -8518471180849742637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0010
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d150e888065a580800000000000000
+      internalID: -8816534555893359267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0011
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd7efd7f27550000800000000000000
+      internalID: 1503236372463041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0012
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492bb8de6eaf0ad00800000000000000
+      internalID: 982060588501545620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0013
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5983ffff4cd660f80800000000000000
+      internalID: -8140698583549658987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0014
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7177b1d99b9f6d140800000000000000
+      internalID: 4744253833081485079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl right0015
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031eaf6fa9d5165e0800000000000000
+      internalID: -1918149046133137104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0000
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93aedc9afb7b2e890800000000000000
+      internalID: -7430174401392416199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0001
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ac2ff0d914426c0800000000000000
+      internalID: -4169135212204996034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0002
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da26965c609b25fa0800000000000000
+      internalID: -5813380730248928595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0003
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8881ec9f6224cb130800000000000000
+      internalID: 3583812138647296136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0004
+      rect:
+        serializedVersion: 2
+        x: 4102
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb24becb1c78a220800000000000000
+      internalID: 2497382452250815431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0005
+      rect:
+        serializedVersion: 2
+        x: 4102
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331e5770c67b12880800000000000000
+      internalID: -8637420935710383821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0006
+      rect:
+        serializedVersion: 2
+        x: 4102
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7574a503b7b68cd50800000000000000
+      internalID: 6757769417705801559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0007
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7175899f451855b20800000000000000
+      internalID: 3122544118616053527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0008
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfa389db8ea468d0800000000000000
+      internalID: -2853964348173078593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0009
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4914e57bbc6a790c0800000000000000
+      internalID: -4568999903059099244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0010
+      rect:
+        serializedVersion: 2
+        x: 5274
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24195c7ba93aa8190800000000000000
+      internalID: -7959369506520460990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0011
+      rect:
+        serializedVersion: 2
+        x: 5274
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fed64a45e78bbb0800000000000000
+      internalID: -4920043690901246121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0012
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2901be64482ee10800000000000000
+      internalID: 2225486606000755455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0013
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8d29d06cfd30610800000000000000
+      internalID: 1586357535488792826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0014
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0e5b1d595f87dd0800000000000000
+      internalID: -2487968770304909094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0015
+      rect:
+        serializedVersion: 2
+        x: 6446
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10646c9cadd89c1e0800000000000000
+      internalID: -2177052974029322751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0016
+      rect:
+        serializedVersion: 2
+        x: 6446
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6327cedc87e1d3e0800000000000000
+      internalID: -2030587364748352657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0017
+      rect:
+        serializedVersion: 2
+        x: 6446
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dd282329464dc90800000000000000
+      internalID: -7145976129654694647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0018
+      rect:
+        serializedVersion: 2
+        x: 7032
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a73e9f6eff04f90800000000000000
+      internalID: -6971290855669532125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cassettegirl up0019
+      rect:
+        serializedVersion: 2
+        x: 7032
+        y: 1837
+        width: 586
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a482c6f40737f790800000000000000
+      internalID: -7496462560275561306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cassettegirl right0007: 1020667296509984879
+      cassettegirl up0013: 1586357535488792826
+      cassettegirl right0014: 4744253833081485079
+      cassettegirl idle0010: 906757124287506792
+      cassettegirl left0008: -2568270430263218791
+      cassettegirl idle0009: 2332043935893899924
+      cassettegirl down0010: 1839732381661285651
+      cassettegirl right0004: 5840770476327042087
+      cassettegirl right0009: -8518471180849742637
+      cassettegirl idle0011: -7496337995555560641
+      cassettegirl right0001: 1394016410278644839
+      cassettegirl down0001: -6094004073934382546
+      cassettegirl idle0004: 1005567723046626124
+      cassettegirl right0002: 1590324594138959648
+      cassettegirl idle0008: -1933370843783061245
+      cassettegirl right0003: 4897218120151411246
+      cassettegirl up0002: -5813380730248928595
+      cassettegirl up0003: 3583812138647296136
+      cassettegirl down0009: -8325546183297311900
+      cassettegirl down0002: 3464276945804445250
+      cassettegirl down0007: -4114934918181184801
+      cassettegirl right0015: -1918149046133137104
+      cassettegirl left0010: -4439876051766072071
+      cassettegirl up0001: -4169135212204996034
+      cassettegirl down0006: -9155731431052414271
+      cassettegirl down0012: 3515266053086337898
+      cassettegirl idle0005: 3894374661024411253
+      cassettegirl idle0013: 7345696965438351055
+      cassettegirl right0005: 8181883437886206244
+      cassettegirl idle0000: -8996959473910977508
+      cassettegirl down0015: 2140179332860601257
+      cassettegirl left0004: 1044664194448259831
+      cassettegirl right0006: 7171326914753332808
+      cassettegirl down0013: -7215801257681894554
+      cassettegirl left0000: -2376989110677925460
+      cassettegirl down0016: -1676859086824924807
+      cassettegirl idle0003: 8310822902213851540
+      cassettegirl right0012: 982060588501545620
+      cassettegirl down0003: 6321127333446490655
+      cassettegirl up0000: -7430174401392416199
+      cassettegirl up0012: 2225486606000755455
+      cassettegirl down0004: -2511467530383432357
+      cassettegirl down0011: -1275841235710463946
+      cassettegirl left0001: -2938804171851286951
+      cassettegirl idle0002: 6328413982143754296
+      cassettegirl left0009: 2195048370369168622
+      cassettegirl up0016: -2030587364748352657
+      cassettegirl up0009: -4568999903059099244
+      cassettegirl up0017: -7145976129654694647
+      cassettegirl right0010: -8816534555893359267
+      cassettegirl right0008: 7768227726296819319
+      cassettegirl up0007: 3122544118616053527
+      cassettegirl up0005: -8637420935710383821
+      cassettegirl left0012: -5118337498862593035
+      cassettegirl down0000: -5234967170325379375
+      cassettegirl right0013: -8140698583549658987
+      cassettegirl up0006: 6757769417705801559
+      cassettegirl up0018: -6971290855669532125
+      cassettegirl left0006: 49525456849450206
+      cassettegirl right0000: -2064802603119063172
+      cassettegirl up0015: -2177052974029322751
+      cassettegirl up0014: -2487968770304909094
+      cassettegirl up0019: -7496462560275561306
+      cassettegirl idle0001: 7434343024829861126
+      cassettegirl right0011: 1503236372463041
+      cassettegirl left0011: 3082474813952116661
+      cassettegirl up0010: -7959369506520460990
+      cassettegirl idle0007: -7437924379967475222
+      cassettegirl down0008: -821948385867353941
+      cassettegirl up0004: 2497382452250815431
+      cassettegirl left0002: 7401371282106211203
+      cassettegirl left0003: 2462102506132494546
+      cassettegirl left0007: -8911302908827295612
+      cassettegirl up0011: -4920043690901246121
+      cassettegirl idle0012: 8818466572129345554
+      cassettegirl idle0006: -3763449727232296018
+      cassettegirl down0005: 6984000380464479731
+      cassettegirl up0008: -2853964348173078593
+      cassettegirl left0005: -5080730816723567476
+      cassettegirl down0014: -1959788187980837649
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

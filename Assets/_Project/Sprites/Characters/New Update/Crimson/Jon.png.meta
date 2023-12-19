@@ -1,0 +1,1984 @@
+fileFormatVersion: 2
+guid: 2775ef61556614884b8ee42b669ee50e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8797857679117975218
+    second: Jon Idle0000
+  - first:
+      213: 7656618991404799302
+    second: Jon Idle0001
+  - first:
+      213: 8942449981626164813
+    second: Jon Idle0002
+  - first:
+      213: 7462458578660071164
+    second: Jon Idle0003
+  - first:
+      213: -3530290294235647101
+    second: Jon Idle0004
+  - first:
+      213: 5580027491579620696
+    second: Jon Idle0005
+  - first:
+      213: -7188337090043097410
+    second: Jon Idle0006
+  - first:
+      213: 8710162602035562149
+    second: Jon Idle0007
+  - first:
+      213: 7271130032420862797
+    second: Jon Idle0008
+  - first:
+      213: -4374396500824218432
+    second: Jon Idle0009
+  - first:
+      213: -2106383469008190297
+    second: Jon Idle0010
+  - first:
+      213: 3719570848730710422
+    second: Jon Idle0011
+  - first:
+      213: 6387520278370293723
+    second: Jon Idle0012
+  - first:
+      213: -3020761621646362265
+    second: Jon Idle0013
+  - first:
+      213: -8805871900180042602
+    second: Jon Idle0014
+  - first:
+      213: 1316451830756414994
+    second: Jon Idle0015
+  - first:
+      213: 1874008906382273866
+    second: Jon Idle0016
+  - first:
+      213: -8516321442099742872
+    second: Jon M DOWN0000
+  - first:
+      213: 2246226970829132153
+    second: Jon M DOWN0001
+  - first:
+      213: -5238363615044245220
+    second: Jon M DOWN0002
+  - first:
+      213: 1391544724830455762
+    second: Jon M DOWN0003
+  - first:
+      213: 3899906806855778707
+    second: Jon M DOWN0004
+  - first:
+      213: -7703157745116873824
+    second: Jon M DOWN0005
+  - first:
+      213: -3043669075465735805
+    second: Jon M DOWN0006
+  - first:
+      213: -4953207977766443782
+    second: Jon M DOWN0007
+  - first:
+      213: 5895585598125248241
+    second: Jon M DOWN0008
+  - first:
+      213: -1355290462703946618
+    second: Jon M DOWN0009
+  - first:
+      213: 8802419707006394312
+    second: Jon M DOWN0010
+  - first:
+      213: 1466689755629724873
+    second: Jon M DOWN0011
+  - first:
+      213: -1624394187762976241
+    second: Jon M DOWN0012
+  - first:
+      213: 1316930066660936682
+    second: Jon M DOWN0013
+  - first:
+      213: 8883180610535700826
+    second: Jon M RIGHT0000
+  - first:
+      213: -7609866178897324387
+    second: Jon M RIGHT0001
+  - first:
+      213: 2680190969083593265
+    second: Jon M RIGHT0002
+  - first:
+      213: -2594084187272559296
+    second: Jon M RIGHT0003
+  - first:
+      213: 968064954418581315
+    second: Jon M RIGHT0004
+  - first:
+      213: -4710730619578420860
+    second: Jon M RIGHT0005
+  - first:
+      213: -9146931567390660398
+    second: Jon M RIGHT0006
+  - first:
+      213: 6090304758070126986
+    second: Jon M RIGHT0007
+  - first:
+      213: -7751265734543873985
+    second: Jon M RIGHT0008
+  - first:
+      213: 9071401590351571388
+    second: Jon M RIGHT0009
+  - first:
+      213: 533559419155993750
+    second: Jon M RIGHT0010
+  - first:
+      213: -5662441476300078845
+    second: Jon M RIGHT0011
+  - first:
+      213: 6859286092815774445
+    second: Jon M RIGHT0012
+  - first:
+      213: 2441794274924975149
+    second: Jon M RIGHT0013
+  - first:
+      213: 1921848982608875742
+    second: Jon M UP0000
+  - first:
+      213: 2858155046428714233
+    second: Jon M UP0001
+  - first:
+      213: -8489537345397758928
+    second: Jon M UP0002
+  - first:
+      213: 7141831344666466034
+    second: Jon M UP0003
+  - first:
+      213: -2427784134622772527
+    second: Jon M UP0004
+  - first:
+      213: -6144538375445974484
+    second: Jon M UP0005
+  - first:
+      213: 1750662780021141102
+    second: Jon M UP0006
+  - first:
+      213: 7170671874916627904
+    second: Jon M UP0007
+  - first:
+      213: 7780982877045547704
+    second: Jon M UP0008
+  - first:
+      213: -2471314202149563865
+    second: Jon M UP0009
+  - first:
+      213: 6056600321682852002
+    second: Jon M UP0010
+  - first:
+      213: -300893556307370234
+    second: Jon M UP0011
+  - first:
+      213: -3081302122858745891
+    second: Jon M UP0012
+  - first:
+      213: -343252242832736371
+    second: Jon M UP0013
+  - first:
+      213: -8665642719957765309
+    second: jon M left0000
+  - first:
+      213: 3331089552842604211
+    second: jon M left0001
+  - first:
+      213: 890627675969135681
+    second: jon M left0002
+  - first:
+      213: -1740477955923479318
+    second: jon M left0003
+  - first:
+      213: 7243649203570179465
+    second: jon M left0004
+  - first:
+      213: 739289614686437739
+    second: jon M left0005
+  - first:
+      213: -2299434262186612617
+    second: jon M left0006
+  - first:
+      213: -5161517869162089649
+    second: jon M left0007
+  - first:
+      213: 4345213668811045751
+    second: jon M left0008
+  - first:
+      213: 9198582369646575503
+    second: jon M left0009
+  - first:
+      213: -8738487051061315188
+    second: jon M left0010
+  - first:
+      213: 3158453393377901184
+    second: jon M left0011
+  - first:
+      213: -8630178313402570123
+    second: jon M left0012
+  - first:
+      213: 9216178900547644071
+    second: jon M left0013
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jon Idle0000
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bef44432f4481a70800000000000000
+      internalID: 8797857679117975218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0001
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645513bf766c14a60800000000000000
+      internalID: 7656618991404799302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0002
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46a68011e6f91c70800000000000000
+      internalID: 8942449981626164813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0003
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6991c1a8aff8760800000000000000
+      internalID: 7462458578660071164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0004
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38333128ea3e10fc0800000000000000
+      internalID: -3530290294235647101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0005
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d6488707d307d40800000000000000
+      internalID: 5580027491579620696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0006
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe47368085ed3c90800000000000000
+      internalID: -7188337090043097410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0007
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6c836fcb6b0e870800000000000000
+      internalID: 8710162602035562149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0008
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bbe1a8d3e38e460800000000000000
+      internalID: 7271130032420862797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0009
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c429ad1f850b43c0800000000000000
+      internalID: -4374396500824218432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0010
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a40301256f94c2e0800000000000000
+      internalID: -2106383469008190297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0011
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6910e73daf19e9330800000000000000
+      internalID: 3719570848730710422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0012
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd79dd3c9d705a850800000000000000
+      internalID: 6387520278370293723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0013
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769b2ae4f491416d0800000000000000
+      internalID: -3020761621646362265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0014
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cac2c89224bc580800000000000000
+      internalID: -8805871900180042602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0015
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216162817f9f44210800000000000000
+      internalID: 1316451830756414994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon Idle0016
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3306
+        width: 600
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d65d2eb21d10a10800000000000000
+      internalID: 1874008906382273866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M DOWN0000
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2761
+        width: 640
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8673a9215c2ffc980800000000000000
+      internalID: -8516321442099742872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M DOWN0001
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2761
+        width: 640
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9711c2967833c2f10800000000000000
+      internalID: 2246226970829132153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M DOWN0002
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 2761
+        width: 640
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19e4f0db089d47b0800000000000000
+      internalID: -5238363615044245220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M DOWN0003
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 2761
+        width: 640
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d78694fd82cf4310800000000000000
+      internalID: 1391544724830455762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M DOWN0004
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2761
+        width: 640
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39144c704904f1630800000000000000
+      internalID: 3899906806855778707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M DOWN0005
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2761
+        width: 640
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab728908d2e81590800000000000000
+      internalID: -7703157745116873824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M DOWN0006
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2761
+        width: 640
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381f5071a17b2c5d0800000000000000
+      internalID: -3043669075465735805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M DOWN0007
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2761
+        width: 640
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4a992669ba24bb0800000000000000
+      internalID: -4953207977766443782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M DOWN0008
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2761
+        width: 640
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe0a278dd351d150800000000000000
+      internalID: 5895585598125248241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M DOWN0009
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2761
+        width: 640
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6847e0b318a013de0800000000000000
+      internalID: -1355290462703946618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M DOWN0010
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2761
+        width: 640
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf9308161a782a70800000000000000
+      internalID: 8802419707006394312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M DOWN0011
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2761
+        width: 640
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4a308df8aba5410800000000000000
+      internalID: 1466689755629724873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M DOWN0012
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2761
+        width: 640
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0abd27b71ef479e0800000000000000
+      internalID: -1624394187762976241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M DOWN0013
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2761
+        width: 640
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb4b511beca64210800000000000000
+      internalID: 1316930066660936682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M RIGHT0000
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 2676
+        width: 690
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a593e9e33b5674b70800000000000000
+      internalID: 8883180610535700826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M RIGHT0001
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2046
+        width: 690
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96d0927703546690800000000000000
+      internalID: -7609866178897324387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M RIGHT0002
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2046
+        width: 690
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13200727c73f13520800000000000000
+      internalID: 2680190969083593265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M RIGHT0003
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 2046
+        width: 690
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045492cfc26fffbd0800000000000000
+      internalID: -2594084187272559296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M RIGHT0004
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2046
+        width: 690
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fcf9f62f14f6d00800000000000000
+      internalID: 968064954418581315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M RIGHT0005
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2046
+        width: 690
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481f873c57f10aeb0800000000000000
+      internalID: -4710730619578420860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M RIGHT0006
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2046
+        width: 690
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d86fd4b3329f0180800000000000000
+      internalID: -9146931567390660398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M RIGHT0007
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2046
+        width: 690
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8924aed8eb158450800000000000000
+      internalID: 6090304758070126986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M RIGHT0008
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2046
+        width: 690
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38ead4e1e8fd6490800000000000000
+      internalID: -7751265734543873985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M RIGHT0009
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2046
+        width: 690
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9a1df1fa714ed70800000000000000
+      internalID: 9071401590351571388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M RIGHT0010
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2046
+        width: 690
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6945b5df675976700800000000000000
+      internalID: 533559419155993750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M RIGHT0011
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2046
+        width: 690
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30102bb6a77fa61b0800000000000000
+      internalID: -5662441476300078845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M RIGHT0012
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2046
+        width: 690
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2bf0ffb54113f50800000000000000
+      internalID: 6859286092815774445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M RIGHT0013
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2046
+        width: 690
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d245c73b4fef2e120800000000000000
+      internalID: 2441794274924975149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M UP0000
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 1756
+        width: 508
+        height: 910
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed01950a777cbaa10800000000000000
+      internalID: 1921848982608875742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M UP0001
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1756
+        width: 508
+        height: 910
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4af5f1fd43aa720800000000000000
+      internalID: 2858155046428714233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M UP0002
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 836
+        width: 508
+        height: 910
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034672c83ca1f2a80800000000000000
+      internalID: -8489537345397758928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M UP0003
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 836
+        width: 508
+        height: 910
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f65898d4c1ec1360800000000000000
+      internalID: 7141831344666466034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M UP0004
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 836
+        width: 508
+        height: 910
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d20b784137ce4ed0800000000000000
+      internalID: -2427784134622772527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M UP0005
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 836
+        width: 508
+        height: 910
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2279c617e63abaa0800000000000000
+      internalID: -6144538375445974484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M UP0006
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 836
+        width: 508
+        height: 910
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e68a4e58a9b4810800000000000000
+      internalID: 1750662780021141102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M UP0007
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 836
+        width: 508
+        height: 910
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c53a411418538360800000000000000
+      internalID: 7170671874916627904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M UP0008
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 836
+        width: 508
+        height: 910
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b262b583ba9bfb60800000000000000
+      internalID: 7780982877045547704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M UP0009
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 836
+        width: 508
+        height: 910
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7225f74a3d024bdd0800000000000000
+      internalID: -2471314202149563865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M UP0010
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 836
+        width: 508
+        height: 910
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a84c6047ed5d0450800000000000000
+      internalID: 6056600321682852002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M UP0011
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 836
+        width: 508
+        height: 910
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f581d97e203dbf0800000000000000
+      internalID: -300893556307370234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M UP0012
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 836
+        width: 508
+        height: 910
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfe8517b040d35d0800000000000000
+      internalID: -3081302122858745891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jon M UP0013
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 836
+        width: 508
+        height: 910
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f399d57e58c3bf0800000000000000
+      internalID: -343252242832736371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jon M left0000
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1066
+        width: 610
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343b776dbd37db780800000000000000
+      internalID: -8665642719957765309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jon M left0001
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1066
+        width: 610
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3beb238ac486a3e20800000000000000
+      internalID: 3331089552842604211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jon M left0002
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 1066
+        width: 610
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144a54d07252c5c00800000000000000
+      internalID: 890627675969135681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jon M left0003
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 1066
+        width: 610
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae478c1458498d7e0800000000000000
+      internalID: -1740477955923479318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jon M left0004
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 146
+        width: 610
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d7758729c968460800000000000000
+      internalID: 7243649203570179465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jon M left0005
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 146
+        width: 610
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b614585dcfb724a00800000000000000
+      internalID: 739289614686437739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jon M left0006
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 146
+        width: 610
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7782102b8b4c610e0800000000000000
+      internalID: -2299434262186612617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jon M left0007
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 146
+        width: 610
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4333ca48da9e58b0800000000000000
+      internalID: -5161517869162089649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jon M left0008
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 146
+        width: 610
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b77a25fcc4d4c30800000000000000
+      internalID: 4345213668811045751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jon M left0009
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 146
+        width: 610
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f74f3ddede7af70800000000000000
+      internalID: 9198582369646575503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jon M left0010
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 146
+        width: 610
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89b3275358aab680800000000000000
+      internalID: -8738487051061315188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jon M left0011
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 146
+        width: 610
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08abae780a415db20800000000000000
+      internalID: 3158453393377901184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jon M left0012
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 146
+        width: 610
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a2c517c827b3880800000000000000
+      internalID: -8630178313402570123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jon M left0013
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 146
+        width: 610
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaa79171e176ef70800000000000000
+      internalID: 9216178900547644071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jon Idle0016: 1874008906382273866
+      Jon Idle0004: -3530290294235647101
+      Jon Idle0008: 7271130032420862797
+      Jon M UP0001: 2858155046428714233
+      Jon Idle0003: 7462458578660071164
+      Jon M RIGHT0005: -4710730619578420860
+      Jon Idle0006: -7188337090043097410
+      jon M left0011: 3158453393377901184
+      Jon M UP0002: -8489537345397758928
+      jon M left0008: 4345213668811045751
+      Jon Idle0013: -3020761621646362265
+      Jon M UP0010: 6056600321682852002
+      Jon Idle0001: 7656618991404799302
+      Jon M DOWN0006: -3043669075465735805
+      Jon Idle0005: 5580027491579620696
+      Jon M DOWN0002: -5238363615044245220
+      Jon M RIGHT0007: 6090304758070126986
+      Jon M DOWN0007: -4953207977766443782
+      Jon M RIGHT0011: -5662441476300078845
+      Jon Idle0000: 8797857679117975218
+      Jon M RIGHT0013: 2441794274924975149
+      Jon M RIGHT0012: 6859286092815774445
+      Jon M UP0004: -2427784134622772527
+      Jon Idle0009: -4374396500824218432
+      Jon M UP0011: -300893556307370234
+      Jon M DOWN0003: 1391544724830455762
+      Jon M DOWN0011: 1466689755629724873
+      jon M left0005: 739289614686437739
+      Jon M RIGHT0004: 968064954418581315
+      Jon M DOWN0013: 1316930066660936682
+      jon M left0000: -8665642719957765309
+      jon M left0003: -1740477955923479318
+      Jon M DOWN0008: 5895585598125248241
+      Jon M DOWN0005: -7703157745116873824
+      Jon Idle0012: 6387520278370293723
+      Jon M DOWN0000: -8516321442099742872
+      Jon M DOWN0009: -1355290462703946618
+      Jon M DOWN0010: 8802419707006394312
+      Jon M RIGHT0008: -7751265734543873985
+      Jon M DOWN0012: -1624394187762976241
+      Jon M RIGHT0003: -2594084187272559296
+      Jon Idle0002: 8942449981626164813
+      Jon M UP0012: -3081302122858745891
+      Jon M RIGHT0002: 2680190969083593265
+      jon M left0007: -5161517869162089649
+      jon M left0001: 3331089552842604211
+      jon M left0004: 7243649203570179465
+      jon M left0006: -2299434262186612617
+      Jon Idle0010: -2106383469008190297
+      Jon M DOWN0004: 3899906806855778707
+      Jon Idle0014: -8805871900180042602
+      Jon M UP0006: 1750662780021141102
+      Jon M RIGHT0010: 533559419155993750
+      Jon M UP0007: 7170671874916627904
+      Jon M UP0003: 7141831344666466034
+      Jon M UP0005: -6144538375445974484
+      Jon M RIGHT0009: 9071401590351571388
+      Jon M DOWN0001: 2246226970829132153
+      Jon M RIGHT0000: 8883180610535700826
+      Jon M UP0013: -343252242832736371
+      jon M left0012: -8630178313402570123
+      Jon M UP0009: -2471314202149563865
+      Jon Idle0015: 1316451830756414994
+      jon M left0009: 9198582369646575503
+      Jon Idle0007: 8710162602035562149
+      jon M left0013: 9216178900547644071
+      Jon M UP0000: 1921848982608875742
+      jon M left0010: -8738487051061315188
+      Jon M RIGHT0006: -9146931567390660398
+      Jon Idle0011: 3719570848730710422
+      Jon M RIGHT0001: -7609866178897324387
+      Jon M UP0008: 7780982877045547704
+      jon M left0002: 890627675969135681
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

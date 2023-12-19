@@ -1,0 +1,3095 @@
+fileFormatVersion: 2
+guid: a525a35e0d0564b179fa5e94456688bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1644213041959152735
+    second: GF Cheer0000
+  - first:
+      213: 6547882529146864147
+    second: GF Cheer0001
+  - first:
+      213: 8070147598253171500
+    second: GF Cheer0002
+  - first:
+      213: -7304584843667211479
+    second: GF Cheer0003
+  - first:
+      213: -5222965179918496963
+    second: GF Cheer0004
+  - first:
+      213: 1989331161416899330
+    second: GF Cheer0005
+  - first:
+      213: -8646794091360489036
+    second: GF Cheer0006
+  - first:
+      213: -1634306397215357587
+    second: GF Cheer0007
+  - first:
+      213: 3920332488092552212
+    second: GF Cheer0008
+  - first:
+      213: 252034035162487722
+    second: GF Cheer0009
+  - first:
+      213: -3449838134729855524
+    second: GF Cheer0010
+  - first:
+      213: 5967108845458388927
+    second: GF Cheer0011
+  - first:
+      213: 6268227664805730566
+    second: GF Cheer0012
+  - first:
+      213: 2994328030799963367
+    second: GF Cheer0013
+  - first:
+      213: -5768111785082120232
+    second: GF Cheer0014
+  - first:
+      213: 5019510424499291244
+    second: GF Cheer0015
+  - first:
+      213: 8524734399946162316
+    second: GF Cheer0016
+  - first:
+      213: 2511581419414685390
+    second: GF Cheer0017
+  - first:
+      213: 6242803540438692109
+    second: GF Cheer0018
+  - first:
+      213: -5616129041101623178
+    second: GF Cheer0019
+  - first:
+      213: 2834888955841276475
+    second: GF Cheer0004
+  - first:
+      213: 8431491585289067547
+    second: GF Cheer0005
+  - first:
+      213: 507675685231954259
+    second: GF Cheer0006
+  - first:
+      213: -596126566302624776
+    second: GF Cheer0007
+  - first:
+      213: -2383955118868007816
+    second: GF Cheer0008
+  - first:
+      213: 2714379920886763045
+    second: GF Cheer0009
+  - first:
+      213: -354780311428995609
+    second: GF Cheer0010
+  - first:
+      213: 5164553723620047186
+    second: GF Cheer0011
+  - first:
+      213: -7984360189194582129
+    second: GF Dancing Beat0007
+  - first:
+      213: -4956381509003010039
+    second: GF Cheer0012
+  - first:
+      213: 4991422022584990784
+    second: GF Dancing Beat0009
+  - first:
+      213: 5472692160989668421
+    second: GF Dancing Beat0010
+  - first:
+      213: 8523446957222227587
+    second: GF Dancing Beat0011
+  - first:
+      213: -1582771184706457556
+    second: GF Dancing Beat0012
+  - first:
+      213: -1123246982362888112
+    second: GF Dancing Beat0013
+  - first:
+      213: -7627325898237102684
+    second: GF Dancing Beat0014
+  - first:
+      213: 1432318458517178182
+    second: GF Cheer0015
+  - first:
+      213: 1984457963037603380
+    second: GF Cheer0016
+  - first:
+      213: 8987765548381212989
+    second: GF Cheer0017
+  - first:
+      213: -3483798151942384453
+    second: GF Cheer0018
+  - first:
+      213: 4130838593685828216
+    second: GF Cheer0019
+  - first:
+      213: 9039553671764181339
+    second: GF Cheer0020
+  - first:
+      213: 6517645871253457386
+    second: GF Cheer0021
+  - first:
+      213: -6513707782935327436
+    second: GF Dancing Beat0022
+  - first:
+      213: -243989687499934242
+    second: GF Dancing Beat0023
+  - first:
+      213: 3311495455627697062
+    second: GF Dancing Beat0024
+  - first:
+      213: 3997475860103918226
+    second: GF Dancing Beat0025
+  - first:
+      213: 886396277679432950
+    second: GF Dancing Beat0026
+  - first:
+      213: 1410718190305895925
+    second: GF Dancing Beat0027
+  - first:
+      213: 5774133415231388400
+    second: GF Dancing Beat0028
+  - first:
+      213: 2502626369080856047
+    second: GF Dancing Beat0029
+  - first:
+      213: 500386043611740374
+    second: GF Dancing Beat Hair Landing0000
+  - first:
+      213: -4492171580128219848
+    second: GF Dancing Beat Hair Landing0001
+  - first:
+      213: -7665241443707310177
+    second: GF Dancing Beat Hair Landing0002
+  - first:
+      213: 1304686791506205283
+    second: GF Dancing Beat Hair Landing0003
+  - first:
+      213: -5856121710656884521
+    second: GF Dancing Beat Hair Landing0004
+  - first:
+      213: -3798359154661588358
+    second: GF Dancing Beat Hair Landing0005
+  - first:
+      213: -1103539436141413220
+    second: GF Dancing Beat Hair Landing0006
+  - first:
+      213: 756262912882126962
+    second: GF Dancing Beat Hair Landing0007
+  - first:
+      213: 5276226337309843988
+    second: GF Dancing Beat Hair Landing0008
+  - first:
+      213: 6593041684920082631
+    second: GF Dancing Beat Hair Landing0009
+  - first:
+      213: 7775887918853806437
+    second: GF Dancing Beat Hair Landing0010
+  - first:
+      213: -156109966928804684
+    second: GF Dancing Beat Hair Landing0011
+  - first:
+      213: -8620109495274417452
+    second: GF Cheer0013
+  - first:
+      213: 2793848654418529915
+    second: GF Dancing Beat Hair Landing0013
+  - first:
+      213: 3519849755114822848
+    second: GF Cheer0014
+  - first:
+      213: 3359602878336634274
+    second: GF Dancing Beat Hair Landing0015
+  - first:
+      213: -6217718626025077819
+    second: GF Dancing Beat Hair Landing0016
+  - first:
+      213: -5523361009675805495
+    second: GF Dancing Beat Hair Landing0017
+  - first:
+      213: -4537077225695801451
+    second: GF Dancing Beat Hair Landing0018
+  - first:
+      213: 4034480045055103269
+    second: GF Dancing Beat Hair Landing0019
+  - first:
+      213: 8740901224813358679
+    second: GF Dancing Beat Hair Landing0020
+  - first:
+      213: 3512929564528796620
+    second: GF Dancing Beat Hair Landing0021
+  - first:
+      213: -6826352562818240990
+    second: GF Dancing Beat Hair Landing0022
+  - first:
+      213: 8899494912344780803
+    second: GF Dancing Beat Hair Landing0023
+  - first:
+      213: -7653772350342951852
+    second: GF Cheer0022
+  - first:
+      213: 8342964547895180826
+    second: GF Dancing Beat Hair Landing0025
+  - first:
+      213: -230256169813529293
+    second: GF Dancing Beat Hair Landing0026
+  - first:
+      213: 6204661745730105099
+    second: GF Cheer0023
+  - first:
+      213: -6239321434566408215
+    second: GF Dancing Beat Hair Landing0028
+  - first:
+      213: 8858255837359013121
+    second: GF Cheer0024
+  - first:
+      213: 5613899370739134245
+    second: GF Dancing Beat Hair blowing0000
+  - first:
+      213: 6303986227118762598
+    second: GF Dancing Beat Hair blowing0001
+  - first:
+      213: 6738952634182121728
+    second: GF Dancing Beat Hair blowing0002
+  - first:
+      213: -8825035881622896695
+    second: GF Dancing Beat Hair blowing0003
+  - first:
+      213: -8376704337277856401
+    second: GF Dancing Beat Hair blowing0004
+  - first:
+      213: -6536676093365266370
+    second: GF Dancing Beat Hair blowing0005
+  - first:
+      213: -5970184147251778777
+    second: GF Dancing Beat Hair blowing0006
+  - first:
+      213: -5388779959710535807
+    second: GF Dancing Beat Hair blowing0007
+  - first:
+      213: 4834447104815798443
+    second: GF Dancing Beat Hair blowing0008
+  - first:
+      213: -4421270732022266890
+    second: GF Dancing Beat Hair blowing0009
+  - first:
+      213: -8525198764480161044
+    second: GF Dancing Beat Hair blowing0010
+  - first:
+      213: -3077565695536391422
+    second: GF Dancing Beat Hair blowing0011
+  - first:
+      213: 5580398269765917745
+    second: GF Dancing Beat Hair blowing0012
+  - first:
+      213: -4943430763644480484
+    second: GF Dancing Beat Hair blowing0013
+  - first:
+      213: 5533001237890087316
+    second: GF Dancing Beat Hair blowing0014
+  - first:
+      213: 6632305635838965384
+    second: GF Dancing Beat Hair blowing0015
+  - first:
+      213: -3268730528186174940
+    second: GF Dancing Beat Hair blowing0016
+  - first:
+      213: 3962821557059874760
+    second: GF Dancing Beat Hair blowing0017
+  - first:
+      213: 1567329601203457712
+    second: GF Dancing Beat Hair blowing0018
+  - first:
+      213: 3623410431808931421
+    second: GF Dancing Beat Hair blowing0019
+  - first:
+      213: 2041984222580071354
+    second: GF Dancing Beat Hair blowing0020
+  - first:
+      213: -5245827099258870670
+    second: GF Dancing Beat Hair blowing0021
+  - first:
+      213: 8619743427007411175
+    second: GF Dancing Beat Hair blowing0022
+  - first:
+      213: 2289681317654024069
+    second: GF Dancing Beat Hair blowing0023
+  - first:
+      213: -6099439048324477647
+    second: GF Dancing Beat Hair blowing0024
+  - first:
+      213: -628324297177235859
+    second: GF Dancing Beat Hair blowing0025
+  - first:
+      213: 6305882782789081582
+    second: GF Dancing Beat Hair blowing0026
+  - first:
+      213: 949634724425703450
+    second: GF Dancing Beat Hair blowing0027
+  - first:
+      213: -4402898624039394131
+    second: GF Dancing Beat Hair blowing0028
+  - first:
+      213: -961702535531056227
+    second: GF Dancing Beat Hair blowing0029
+  - first:
+      213: -5627521831688481217
+    second: GF Down Note0001
+  - first:
+      213: -7244752250908475254
+    second: GF Down Note0002
+  - first:
+      213: -4997413123696015046
+    second: GF Down Note00035
+  - first:
+      213: -7510070575880401720
+    second: GF Down Note0004
+  - first:
+      213: -6870358722264409236
+    second: GF Down Note0005
+  - first:
+      213: 7405413410879838996
+    second: GF Dancing Beat Hair blowing CAR0005
+  - first:
+      213: -7312776122347977335
+    second: GF Dancing Beat Hair blowing CAR0006
+  - first:
+      213: 8510791069499318582
+    second: GF Dancing Beat Hair blowing CAR0007
+  - first:
+      213: -4974761937904410207
+    second: GF Dancing Beat Hair blowing CAR0008
+  - first:
+      213: -3440121379387117706
+    second: GF Left Note0001
+  - first:
+      213: 1721710023457533687
+    second: GF Left Note0002
+  - first:
+      213: 3074574510973632158
+    second: GF Dancing Beat Hair blowing CAR0011
+  - first:
+      213: 3762085158164780258
+    second: GF Left Note0003
+  - first:
+      213: 2941639385630564732
+    second: GF Left Note0004
+  - first:
+      213: -5799646879138627083
+    second: GF Left Note0005
+  - first:
+      213: -7079161000309433512
+    second: GF Left Note0006
+  - first:
+      213: 4425330012673212091
+    second: GF Left Note0007
+  - first:
+      213: 1538314238134877232
+    second: GF Left Note0008
+  - first:
+      213: 3214390646094473445
+    second: GF Up Note0001
+  - first:
+      213: 4531950430145917963
+    second: GF Up Note0002
+  - first:
+      213: -3989390542895671223
+    second: GF Up Note0003
+  - first:
+      213: -4895874232578162926
+    second: GF Up Note0004
+  - first:
+      213: 4168813963071421889
+    second: GF Up Note0005
+  - first:
+      213: -4674948554094037270
+    second: GF Dancing Beat Hair blowing CAR0023
+  - first:
+      213: -3912969932156825649
+    second: GF Right Note0001
+  - first:
+      213: 4596127390690082744
+    second: GF Right Note0002
+  - first:
+      213: 8912775143220828700
+    second: GF Right Note0003
+  - first:
+      213: -4658023437309220201
+    second: GF Right Note0004
+  - first:
+      213: -9073573800199999282
+    second: GF Right Note0005
+  - first:
+      213: -877757101127810507
+    second: GF Dancing Beat Hair blowing CAR0029
+  - first:
+      213: -1930587889914387834
+    second: GF Right Note0006
+  - first:
+      213: -1957841566656746521
+    second: GF Right Note0007
+  - first:
+      213: -6443741990911527048
+    second: GF Right Note0008
+  - first:
+      213: -1240088041168297755
+    second: GF Down Note00035
+  - first:
+      213: -8200682088805558800
+    second: GF Down Note00045
+  - first:
+      213: 7386862432856500094
+    second: GF Down Note0005
+  - first:
+      213: -62842507927835692
+    second: GF Down Note0006
+  - first:
+      213: 6820148041817662059
+    second: GF Down Note0007
+  - first:
+      213: 148638672971573855
+    second: GF Down Note0008
+  - first:
+      213: 8793593365973324368
+    second: GF Down Note0009
+  - first:
+      213: -5749273165235353970
+    second: GF Down Note0010
+  - first:
+      213: 1589469568281164498
+    second: GF Down Note0011
+  - first:
+      213: -6367926429999352041
+    second: GF Down Note0012
+  - first:
+      213: -3260410490159277615
+    second: GF Down Note0013
+  - first:
+      213: 8295007234319290650
+    second: GF Down Note0014
+  - first:
+      213: -9043614964349250149
+    second: GF Down Note0015
+  - first:
+      213: -2157770340836990786
+    second: GF Down Note0016
+  - first:
+      213: -603701173086661870
+    second: GF Down Note0017
+  - first:
+      213: -1389881960040547712
+    second: GF Down Note0018
+  - first:
+      213: -8786297376489239807
+    second: GF Down Note0019
+  - first:
+      213: 753481122976393896
+    second: GF Duck0000
+  - first:
+      213: -2774043307166203775
+    second: GF Duck0001
+  - first:
+      213: -5577363867581718574
+    second: GF Duck0002
+  - first:
+      213: -5520580786703951281
+    second: GF Duck0003
+  - first:
+      213: -1588656392919305959
+    second: GF Right Note0000
+  - first:
+      213: -5908343204575711778
+    second: GF Right Note0001
+  - first:
+      213: -2980462025788543770
+    second: GF Right Note0002
+  - first:
+      213: -1627679751270547635
+    second: GF Right Note0003
+  - first:
+      213: 786669398208213814
+    second: GF Right Note0004
+  - first:
+      213: 508620945821085195
+    second: GF Right Note0005
+  - first:
+      213: -1031268295671648665
+    second: GF Right Note0006
+  - first:
+      213: 3123607382369022533
+    second: GF Right Note0007
+  - first:
+      213: 1372430444015317240
+    second: GF Right Note0008
+  - first:
+      213: -4931132938385904034
+    second: GF Right Note0009
+  - first:
+      213: 1699911793692294519
+    second: GF Right Note0010
+  - first:
+      213: -7081440680489110082
+    second: GF Right Note0011
+  - first:
+      213: 552513223334982321
+    second: GF Right Note0012
+  - first:
+      213: -6114991276791864741
+    second: GF Right Note0013
+  - first:
+      213: 830630672639098713
+    second: GF Right Note0014
+  - first:
+      213: -1831916671315312466
+    second: GF Up Note0000
+  - first:
+      213: 2922938992741466482
+    second: GF Up Note0001
+  - first:
+      213: 5782540937991116348
+    second: GF Up Note0002
+  - first:
+      213: 4589803789188290038
+    second: GF Up Note0003
+  - first:
+      213: 825828730781879724
+    second: GF Up Note0004
+  - first:
+      213: 1376918163023969926
+    second: GF Up Note0005
+  - first:
+      213: -6775914233758736210
+    second: GF Up Note0006
+  - first:
+      213: -5987536504692733219
+    second: GF left note0000
+  - first:
+      213: 2860671250260218411
+    second: GF left note0001
+  - first:
+      213: 9170116477037703339
+    second: GF left note0002
+  - first:
+      213: 8392866419362100648
+    second: GF left note0003
+  - first:
+      213: -7191807242692423666
+    second: GF left note0004
+  - first:
+      213: 2319346459441496142
+    second: GF left note0005
+  - first:
+      213: -9089934807157603628
+    second: GF left note0006
+  - first:
+      213: -1607570537103363062
+    second: GF left note0007
+  - first:
+      213: -5066406937682836980
+    second: GF left note0008
+  - first:
+      213: -2333246753316028893
+    second: GF left note0009
+  - first:
+      213: -2983796652814792234
+    second: GF left note0010
+  - first:
+      213: 7878820001092616234
+    second: GF left note0011
+  - first:
+      213: 7542318238801260107
+    second: GF left note0012
+  - first:
+      213: 7600796799752727401
+    second: GF left note0013
+  - first:
+      213: 3629496913340969234
+    second: GF left note0014
+  - first:
+      213: 6590216790120176737
+    second: gf sad0000
+  - first:
+      213: -4596642329007709451
+    second: gf sad0001
+  - first:
+      213: -6353022253628965603
+    second: gf sad0002
+  - first:
+      213: -4656779894331079380
+    second: gf sad0003
+  - first:
+      213: -6703674925077879095
+    second: gf sad0004
+  - first:
+      213: 5141874912443600223
+    second: gf sad0005
+  - first:
+      213: -2962720531117737737
+    second: gf sad0006
+  - first:
+      213: 8980991100489487467
+    second: gf sad0007
+  - first:
+      213: -4463047063883496
+    second: gf sad0008
+  - first:
+      213: -5392565705171518072
+    second: gf sad0009
+  - first:
+      213: 7036833202230361790
+    second: gf sad0010
+  - first:
+      213: -4468044826686014245
+    second: gf sad0011
+  - first:
+      213: -3868579810022563034
+    second: gf sad0012
+  - first:
+      213: 3612882734433897378
+    second: gf sad0013
+  - first:
+      213: -6656100578170245483
+    second: gf sad0014
+  - first:
+      213: 3237636209963077824
+    second: gf sad0015
+  - first:
+      213: -5381223198942753674
+    second: gf sad0016
+  - first:
+      213: -6635853233413975637
+    second: gf sad0017
+  - first:
+      213: 7396582742900874108
+    second: gf sad0018
+  - first:
+      213: 2701612260222218200
+    second: gf sad0019
+  - first:
+      213: -7857561220935609855
+    second: gf sad0020
+  - first:
+      213: 2707762204025272679
+    second: gf sad0021
+  - first:
+      213: -8802389749088812947
+    second: gf sad0022
+  - first:
+      213: 2944370711852446196
+    second: gf sad0023
+  - first:
+      213: 8514325683078830186
+    second: gf sad0024
+  - first:
+      213: 1374339242823214248
+    second: gf sad0025
+  - first:
+      213: -4768996817806371130
+    second: gf sad0026
+  - first:
+      213: 4192149501332087327
+    second: gf sad0027
+  - first:
+      213: -3499655098588396931
+    second: gf sad0028
+  - first:
+      213: 4896411626845407556
+    second: gf sad0029
+  - first:
+      213: 2141939844578658083
+    second: gf sad0030
+  - first:
+      213: 2519326589324160617
+    second: gf sad0031
+  - first:
+      213: 1269500967463178222
+    second: gf sad0032
+  - first:
+      213: 7826360970610589977
+    second: gf sad0033
+  - first:
+      213: -4130222000437912121
+    second: gf sad0034
+  - first:
+      213: 1908883471024534708
+    second: gf sad0035
+  - first:
+      213: -5160408912084221435
+    second: gf sad0036
+  - first:
+      213: -3270723773076414905
+    second: gf sad0037
+  - first:
+      213: 7576687602057283872
+    second: gf sad0038
+  - first:
+      213: 4605245060283849671
+    second: gf sad0039
+  - first:
+      213: 5893477533881114973
+    second: gf sad0040
+  - first:
+      213: -3638062077156904826
+    second: gf sad0041
+  - first:
+      213: 1198387591785286412
+    second: gf sad0042
+  - first:
+      213: -2048016363890065752
+    second: gf sad0043
+  - first:
+      213: 4919796553082541627
+    second: gf sad0044
+  - first:
+      213: 851106719348697861
+    second: gf sad0045
+  - first:
+      213: -5323901491041619179
+    second: gf sad0046
+  - first:
+      213: 2745140342122787539
+    second: gf sad0047
+  - first:
+      213: -6038904714865296612
+    second: gf sad0048
+  - first:
+      213: 6796996229905594464
+    second: gf sad0049
+  - first:
+      213: -8137836303068959119
+    second: gf sad0050
+  - first:
+      213: 952758159767365085
+    second: gf sad0051
+  - first:
+      213: 418876083239855314
+    second: gf sad0052
+  - first:
+      213: 1640941689864750819
+    second: gf sad0053
+  - first:
+      213: 4400447590224651829
+    second: gf sad0054
+  - first:
+      213: 4759499330257856474
+    second: gf sad0055
+  - first:
+      213: -6497318188547136350
+    second: gf sad0056
+  - first:
+      213: 8617572184649469770
+    second: gf sad0057
+  - first:
+      213: 142930513451150289
+    second: gf sad0058
+  - first:
+      213: -2915297827364951964
+    second: gf sad0059
+  - first:
+      213: 6355956813354262276
+    second: gf sad0060
+  - first:
+      213: -1836145115176104707
+    second: gf sad0061
+  - first:
+      213: 3609484080734713554
+    second: gf sad0062
+  - first:
+      213: 4591963848231086431
+    second: gf sad0063
+  - first:
+      213: -4774408001214305063
+    second: gf sad0064
+  - first:
+      213: -6065940020288867509
+    second: gf sad0065
+  - first:
+      213: -2234286625216479592
+    second: gf sad0066
+  - first:
+      213: -8241702422944240312
+    second: gf sad0067
+  - first:
+      213: -3841865718862985275
+    second: gf sad0068
+  - first:
+      213: -5765340694470358030
+    second: gf sad0069
+  - first:
+      213: -841572117831179876
+    second: gf sad0070
+  - first:
+      213: 5832199330512414278
+    second: gf sad0071
+  - first:
+      213: -512405946014418184
+    second: gf sad0072
+  - first:
+      213: -6099254298681733559
+    second: gf sad0073
+  - first:
+      213: -1666183820876920436
+    second: gf sad0074
+  - first:
+      213: 4258586503425902884
+    second: gf sad0075
+  - first:
+      213: 6932585326036664003
+    second: gf sad0076
+  - first:
+      213: -5416869510697631535
+    second: gf sad0077
+  - first:
+      213: -6531320544702911349
+    second: gf sad0078
+  - first:
+      213: 8837554686427374370
+    second: gf sad0079
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GF Cheer0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7531
+        width: 699
+        height: 661
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c2a0ddc0b61d610800000000000000
+      internalID: 1644213041959152735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0001
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 7532
+        width: 709
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31209c4d770ceda50800000000000000
+      internalID: 6547882529146864147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0002
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 7530
+        width: 710
+        height: 661
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c232adeab7ceeff60800000000000000
+      internalID: 8070147598253171500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0003
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 7531
+        width: 707
+        height: 661
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b738939c6e0aa90800000000000000
+      internalID: -7304584843667211479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0004
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 7529
+        width: 704
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ae8964c7c875720800000000000000
+      internalID: -5222965179918496963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0005
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 7525
+        width: 704
+        height: 661
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c99d3cceca20570800000000000000
+      internalID: 1989331161416899330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0006
+      rect:
+        serializedVersion: 2
+        x: 4258
+        y: 7531
+        width: 709
+        height: 661
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3598a5f8850ab0700800000000000000
+      internalID: -8646794091360489036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0007
+      rect:
+        serializedVersion: 2
+        x: 4970
+        y: 7530
+        width: 709
+        height: 662
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3db5edb022ab7f0800000000000000
+      internalID: -1634306397215357587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0008
+      rect:
+        serializedVersion: 2
+        x: 5683
+        y: 7530
+        width: 709
+        height: 662
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874f56b337d7aeed0800000000000000
+      internalID: 3920332488092552212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0009
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 7529
+        width: 701
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e88e9182a6ba520800000000000000
+      internalID: 252034035162487722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0010
+      rect:
+        serializedVersion: 2
+        x: 7103
+        y: 7529
+        width: 705
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5e8fbbf21931bf0800000000000000
+      internalID: -3449838134729855524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6877
+        width: 699
+        height: 651
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2593bc7af3e2ca740800000000000000
+      internalID: 5967108845458388927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat0007
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 6877
+        width: 699
+        height: 1
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87494cf5bad13190800000000000000
+      internalID: -7984360189194582129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0012
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 6877
+        width: 705
+        height: 651
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900af801745673bb0800000000000000
+      internalID: 6268227664805730566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0015
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 6886
+        width: 705
+        height: 634
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647c62d9c0e90e310800000000000000
+      internalID: 5019510424499291244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0016
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 6886
+        width: 709
+        height: 634
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4363d86d0063a8b10800000000000000
+      internalID: 8524734399946162316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0017
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 6892
+        width: 709
+        height: 633
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3191c3a525fabc70800000000000000
+      internalID: 2511581419414685390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0018
+      rect:
+        serializedVersion: 2
+        x: 4967
+        y: 6892
+        width: 705
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4df4ce90017afc0800000000000000
+      internalID: 6242803540438692109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0019
+      rect:
+        serializedVersion: 2
+        x: 5675
+        y: 6893
+        width: 707
+        height: 628
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8723e1990dfa35930800000000000000
+      internalID: -5616129041101623178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0020
+      rect:
+        serializedVersion: 2
+        x: 6385
+        y: 6885
+        width: 704
+        height: 637
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51059dbb22f27d70800000000000000
+      internalID: 9039553671764181339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0021
+      rect:
+        serializedVersion: 2
+        x: 7095
+        y: 6877
+        width: 704
+        height: 651
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae98adf4364537a50800000000000000
+      internalID: 6517645871253457386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair Landing0000
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 6219
+        width: 702
+        height: 651
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d87a0c947ab1f600800000000000000
+      internalID: 500386043611740374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair Landing0001
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 6231
+        width: 710
+        height: 644
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d2a589fb998a1c0800000000000000
+      internalID: -4492171580128219848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair Landing0002
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 6242
+        width: 709
+        height: 639
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f2936e4879f9590800000000000000
+      internalID: -7665241443707310177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair Landing0003
+      rect:
+        serializedVersion: 2
+        x: 4258
+        y: 6239
+        width: 704
+        height: 646
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a1fde69bd2b1210800000000000000
+      internalID: 1304686791506205283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair Landing0004
+      rect:
+        serializedVersion: 2
+        x: 4967
+        y: 6238
+        width: 704
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0f7dac450eabea0800000000000000
+      internalID: -5856121710656884521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair Landing0005
+      rect:
+        serializedVersion: 2
+        x: 5677
+        y: 6239
+        width: 704
+        height: 654
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a720b013974894bc0800000000000000
+      internalID: -3798359154661588358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair Landing0006
+      rect:
+        serializedVersion: 2
+        x: 6386
+        y: 6226
+        width: 708
+        height: 657
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cf729cab07fa0f0800000000000000
+      internalID: -1103539436141413220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0013
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 6872
+        width: 707
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d25239d5183f5880800000000000000
+      internalID: 2994328030799963367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0014
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 6875
+        width: 706
+        height: 652
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc5d5c04b409d030800000000000000
+      internalID: -5768111785082120232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0022
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6219
+        width: 699
+        height: 651
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c0a1a499658c590800000000000000
+      internalID: -7653772350342951852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0023
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 6222
+        width: 706
+        height: 654
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fa2b9ebf26b1650800000000000000
+      internalID: 6204661745730105099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Cheer0024
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 6220
+        width: 706
+        height: 651
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d705340c8deea70800000000000000
+      internalID: 8858255837359013121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0000
+      rect:
+        serializedVersion: 2
+        x: 7096
+        y: 6226
+        width: 708
+        height: 654
+      alignment: 9
+      pivot: {x: 0.46932954, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fe1b5ebb398ed40800000000000000
+      internalID: 5613899370739134245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5566
+        width: 709
+        height: 651
+      alignment: 9
+      pivot: {x: 0.4679943, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a6e58d2124c7750800000000000000
+      internalID: 6303986227118762598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0002
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 5566
+        width: 752
+        height: 656
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009bb9e57b1958d50800000000000000
+      internalID: 6738952634182121728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0003
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 5566
+        width: 688
+        height: 662
+      alignment: 9
+      pivot: {x: 0.46781117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf7ac96f9c278580800000000000000
+      internalID: -8825035881622896695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0004
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 5566
+        width: 701
+        height: 663
+      alignment: 9
+      pivot: {x: 0.46932954, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65541479c7ffbb80800000000000000
+      internalID: -8376704337277856401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0005
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 5566
+        width: 701
+        height: 663
+      alignment: 9
+      pivot: {x: 0.46932954, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38dc23d9bf0945a0800000000000000
+      internalID: -6536676093365266370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0006
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 5566
+        width: 739
+        height: 664
+      alignment: 9
+      pivot: {x: 0.49661705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ba3634625a52da0800000000000000
+      internalID: -5970184147251778777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0007
+      rect:
+        serializedVersion: 2
+        x: 4297
+        y: 5566
+        width: 699
+        height: 668
+      alignment: 9
+      pivot: {x: 0.46781117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fa5b87d253735b0800000000000000
+      internalID: -5388779959710535807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0008
+      rect:
+        serializedVersion: 2
+        x: 4997
+        y: 5566
+        width: 728
+        height: 668
+      alignment: 9
+      pivot: {x: 0.489011, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba816ff1708671340800000000000000
+      internalID: 4834447104815798443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0009
+      rect:
+        serializedVersion: 2
+        x: 5726
+        y: 5575
+        width: 699
+        height: 659
+      alignment: 9
+      pivot: {x: 0.46781117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f34bf1b1bd74a2c0800000000000000
+      internalID: -4421270732022266890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0010
+      rect:
+        serializedVersion: 2
+        x: 6426
+        y: 5566
+        width: 699
+        height: 668
+      alignment: 9
+      pivot: {x: 0.46781117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea9f8364e860b980800000000000000
+      internalID: -8525198764480161044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0012
+      rect:
+        serializedVersion: 2
+        x: 7126
+        y: 5566
+        width: 726
+        height: 668
+      alignment: 9
+      pivot: {x: 0.4876033, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c1a9ef8ae817d40800000000000000
+      internalID: 5580398269765917745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4903
+        width: 703
+        height: 657
+      alignment: 9
+      pivot: {x: 0.46781117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c149b3179e7656bb0800000000000000
+      internalID: -4943430763644480484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0014
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 4903
+        width: 710
+        height: 666
+      alignment: 9
+      pivot: {x: 0.48689654, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4993c3e8f4b29cc40800000000000000
+      internalID: 5533001237890087316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0015
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 4903
+        width: 707
+        height: 661
+      alignment: 9
+      pivot: {x: 0.46781117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886b00a16deaa0c50800000000000000
+      internalID: 6632305635838965384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0016
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 4903
+        width: 709
+        height: 655
+      alignment: 9
+      pivot: {x: 0.4679943, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422fcf037e223a2d0800000000000000
+      internalID: -3268730528186174940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0017
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 4903
+        width: 711
+        height: 660
+      alignment: 9
+      pivot: {x: 0.4679943, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf60d0d535cef630800000000000000
+      internalID: 3962821557059874760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0018
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 4903
+        width: 713
+        height: 662
+      alignment: 9
+      pivot: {x: 0.47531736, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0becfadd7f540c510800000000000000
+      internalID: 1567329601203457712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0019
+      rect:
+        serializedVersion: 2
+        x: 4294
+        y: 4903
+        width: 707
+        height: 654
+      alignment: 9
+      pivot: {x: 0.46781117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d568a6f0790f84230800000000000000
+      internalID: 3623410431808931421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0020
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 4903
+        width: 709
+        height: 661
+      alignment: 9
+      pivot: {x: 0.47605634, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb56dfd4d5965c10800000000000000
+      internalID: 2041984222580071354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0021
+      rect:
+        serializedVersion: 2
+        x: 5723
+        y: 4903
+        width: 708
+        height: 669
+      alignment: 9
+      pivot: {x: 0.46781117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274ae8bfb041337b0800000000000000
+      internalID: -5245827099258870670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0022
+      rect:
+        serializedVersion: 2
+        x: 6436
+        y: 4903
+        width: 701
+        height: 666
+      alignment: 9
+      pivot: {x: 0.46781117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3f8cd3afa7f9770800000000000000
+      internalID: 8619743427007411175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0024
+      rect:
+        serializedVersion: 2
+        x: 7154
+        y: 4903
+        width: 712
+        height: 666
+      alignment: 9
+      pivot: {x: 0.4797203, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d097370807a5ba0800000000000000
+      internalID: -6099439048324477647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0025
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4247
+        width: 699
+        height: 653
+      alignment: 9
+      pivot: {x: 0.46781117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ef007716eb747f0800000000000000
+      internalID: -628324297177235859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0026
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 4247
+        width: 710
+        height: 668
+      alignment: 9
+      pivot: {x: 0.48044693, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9156f1bfef28750800000000000000
+      internalID: 6305882782789081582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0027
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 4247
+        width: 707
+        height: 668
+      alignment: 9
+      pivot: {x: 0.46781117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1025cf10c7cd2d00800000000000000
+      internalID: 949634724425703450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing0028
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 4247
+        width: 704
+        height: 668
+      alignment: 9
+      pivot: {x: 0.46781117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4631c6703c5e2c0800000000000000
+      internalID: -4402898624039394131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Down Note0001
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 4247
+        width: 706
+        height: 661
+      alignment: 9
+      pivot: {x: 0.55078685, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36d370c5b607e1b0800000000000000
+      internalID: -5627521831688481217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Down Note0002
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 4247
+        width: 706
+        height: 661
+      alignment: 9
+      pivot: {x: 0.5504979, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8083ee4638757b90800000000000000
+      internalID: -7244752250908475254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Down Note0003
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 4247
+        width: 706
+        height: 662
+      alignment: 9
+      pivot: {x: 0.5315934, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39493ecd3f95aab0800000000000000
+      internalID: -1240088041168297755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Down Note0004
+      rect:
+        serializedVersion: 2
+        x: 4985
+        y: 4247
+        width: 706
+        height: 662
+      alignment: 9
+      pivot: {x: 0.55078685, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc098ee99ed6c790800000000000000
+      internalID: -7510070575880401720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Down Note0005
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 4247
+        width: 706
+        height: 663
+      alignment: 9
+      pivot: {x: 0.55078685, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b5cef842597a0a0800000000000000
+      internalID: -6870358722264409236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing CAR0005
+      rect:
+        serializedVersion: 2
+        x: 6403
+        y: 4247
+        width: 704
+        height: 663
+      alignment: 9
+      pivot: {x: 0.55078685, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b186af24055c660800000000000000
+      internalID: 7405413410879838996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing CAR0006
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 4247
+        width: 702
+        height: 654
+      alignment: 9
+      pivot: {x: 0.5295736, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9858d798cdcc38a90800000000000000
+      internalID: -7312776122347977335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing CAR0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3592
+        width: 702
+        height: 653
+      alignment: 9
+      pivot: {x: 0.54843307, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631e217b2676c1670800000000000000
+      internalID: 8510791069499318582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing Beat Hair blowing CAR0008
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 3592
+        width: 705
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5140187, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1e219ff5816fab0800000000000000
+      internalID: -4974761937904410207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Left Note0001
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 3592
+        width: 707
+        height: 655
+      alignment: 9
+      pivot: {x: 0.55078685, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f676df4db3240d0800000000000000
+      internalID: -3440121379387117706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Left Note0002
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3592
+        width: 707
+        height: 668
+      alignment: 9
+      pivot: {x: 0.54073036, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe6a62f42eb4e710800000000000000
+      internalID: 1721710023457533687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Left Note0003
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 3592
+        width: 710
+        height: 668
+      alignment: 9
+      pivot: {x: 0.5085865, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e45e2bd48c953430800000000000000
+      internalID: 3762085158164780258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Left Note0004
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 3592
+        width: 705
+        height: 666
+      alignment: 9
+      pivot: {x: 0.54149085, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71eecd8f6dc2d820800000000000000
+      internalID: 2941639385630564732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Left Note0005
+      rect:
+        serializedVersion: 2
+        x: 4259
+        y: 3594
+        width: 703
+        height: 666
+      alignment: 9
+      pivot: {x: 0.50993377, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f14d3a24e3838fa0800000000000000
+      internalID: -5799646879138627083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Left Note0006
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 3592
+        width: 706
+        height: 645
+      alignment: 9
+      pivot: {x: 0.54073036, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bd1c4c394c1cd90800000000000000
+      internalID: -7079161000309433512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Left Note0007
+      rect:
+        serializedVersion: 2
+        x: 5676
+        y: 3592
+        width: 707
+        height: 645
+      alignment: 9
+      pivot: {x: 0.5308642, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbef24b333ee96d30800000000000000
+      internalID: 4425330012673212091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Left Note0008
+      rect:
+        serializedVersion: 2
+        x: 6384
+        y: 3592
+        width: 706
+        height: 643
+      alignment: 9
+      pivot: {x: 0.5360111, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c74f436a0395510800000000000000
+      internalID: 1538314238134877232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Up Note0001
+      rect:
+        serializedVersion: 2
+        x: 7093
+        y: 3574
+        width: 710
+        height: 665
+      alignment: 9
+      pivot: {x: 0.502611, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8acc5134fcb9c20800000000000000
+      internalID: 3214390646094473445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Up Note0002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2904
+        width: 706
+        height: 677
+      alignment: 9
+      pivot: {x: 0.5339806, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04b688a7e8b4ee30800000000000000
+      internalID: 4531950430145917963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Up Note0003
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2902
+        width: 709
+        height: 672
+      alignment: 9
+      pivot: {x: 0.502611, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948966c1076d2a8c0800000000000000
+      internalID: -3989390542895671223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Up Note0004
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 2904
+        width: 704
+        height: 671
+      alignment: 9
+      pivot: {x: 0.5445545, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fb03e235c5e0cb0800000000000000
+      internalID: -4895874232578162926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Up Note0005
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 2904
+        width: 706
+        height: 666
+      alignment: 9
+      pivot: {x: 0.5377095, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd7f8b463a9ad930800000000000000
+      internalID: 4168813963071421889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Right Note0001
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 2905
+        width: 704
+        height: 666
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf0209149652b9c0800000000000000
+      internalID: -3912969932156825649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Right Note0002
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 2904
+        width: 710
+        height: 668
+      alignment: 9
+      pivot: {x: 0.5392157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf7680b289b8cf30800000000000000
+      internalID: 4596127390690082744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Right Note0003
+      rect:
+        serializedVersion: 2
+        x: 4262
+        y: 2904
+        width: 709
+        height: 668
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1adb9655c980bb70800000000000000
+      internalID: 8912775143220828700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Right Note0004
+      rect:
+        serializedVersion: 2
+        x: 4975
+        y: 2911
+        width: 705
+        height: 668
+      alignment: 9
+      pivot: {x: 0.55078685, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a6dbfec506b5fb0800000000000000
+      internalID: -4658023437309220201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Right Note0005
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 2904
+        width: 704
+        height: 668
+      alignment: 9
+      pivot: {x: 0.54073036, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0b9cbd3b0341280800000000000000
+      internalID: -9073573800199999282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Right Note0006
+      rect:
+        serializedVersion: 2
+        x: 6394
+        y: 2904
+        width: 704
+        height: 657
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6826bf5fa8c2535e0800000000000000
+      internalID: -1930587889914387834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Right Note0007
+      rect:
+        serializedVersion: 2
+        x: 7102
+        y: 2904
+        width: 705
+        height: 657
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb2eecd77954d4e0800000000000000
+      internalID: -1957841566656746521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Right Note0008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2248
+        width: 700
+        height: 652
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8773377bcca3396a0800000000000000
+      internalID: -6443741990911527048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Down Note00035
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 2248
+        width: 704
+        height: 648
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e024ff2f725acee0800000000000000
+      internalID: -4997413123696015046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Down Note00045
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2245
+        width: 702
+        height: 657
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f516dcd613513e80800000000000000
+      internalID: -8200682088805558800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Duck0000
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 2252
+        width: 703
+        height: 654
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa68f7d617e47a00800000000000000
+      internalID: 753481122976393896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Duck0002
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 2242
+        width: 705
+        height: 656
+      alignment: 9
+      pivot: {x: 0.49929377, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df51b1dc193992b0800000000000000
+      internalID: -5577363867581718574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Right Note0000
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 2244
+        width: 706
+        height: 657
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91134ed7d65f3f9e0800000000000000
+      internalID: -1588656392919305959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GF Cheer0000: 1644213041959152735
+      GF Cheer0001: 6547882529146864147
+      GF Cheer0002: 8070147598253171500
+      GF Cheer0003: -7304584843667211479
+      GF Cheer0004: -5222965179918496963
+      GF Cheer0005: 1989331161416899330
+      GF Cheer0006: -8646794091360489036
+      GF Cheer0007: -1634306397215357587
+      GF Cheer0008: 3920332488092552212
+      GF Cheer0009: 252034035162487722
+      GF Cheer0010: -3449838134729855524
+      GF Cheer0011: 5967108845458388927
+      GF Cheer0012: 6268227664805730566
+      GF Cheer0013: 2994328030799963367
+      GF Cheer0014: -5768111785082120232
+      GF Cheer0015: 5019510424499291244
+      GF Cheer0016: 8524734399946162316
+      GF Cheer0017: 2511581419414685390
+      GF Cheer0018: 6242803540438692109
+      GF Cheer0019: -5616129041101623178
+      GF Cheer0020: 9039553671764181339
+      GF Cheer0021: 6517645871253457386
+      GF Cheer0022: -7653772350342951852
+      GF Cheer0023: 6204661745730105099
+      GF Cheer0024: 8858255837359013121
+      GF Dancing Beat Hair Landing0000: 500386043611740374
+      GF Dancing Beat Hair Landing0001: -4492171580128219848
+      GF Dancing Beat Hair Landing0002: -7665241443707310177
+      GF Dancing Beat Hair Landing0003: 1304686791506205283
+      GF Dancing Beat Hair Landing0004: -5856121710656884521
+      GF Dancing Beat Hair Landing0005: -3798359154661588358
+      GF Dancing Beat Hair Landing0006: -1103539436141413220
+      GF Dancing Beat Hair blowing CAR0005: 7405413410879838996
+      GF Dancing Beat Hair blowing CAR0006: -7312776122347977335
+      GF Dancing Beat Hair blowing CAR0007: 8510791069499318582
+      GF Dancing Beat Hair blowing CAR0008: -4974761937904410207
+      GF Dancing Beat Hair blowing0000: 5613899370739134245
+      GF Dancing Beat Hair blowing0001: 6303986227118762598
+      GF Dancing Beat Hair blowing0002: 6738952634182121728
+      GF Dancing Beat Hair blowing0003: -8825035881622896695
+      GF Dancing Beat Hair blowing0004: -8376704337277856401
+      GF Dancing Beat Hair blowing0005: -6536676093365266370
+      GF Dancing Beat Hair blowing0006: -5970184147251778777
+      GF Dancing Beat Hair blowing0007: -5388779959710535807
+      GF Dancing Beat Hair blowing0008: 4834447104815798443
+      GF Dancing Beat Hair blowing0009: -4421270732022266890
+      GF Dancing Beat Hair blowing0010: -8525198764480161044
+      GF Dancing Beat Hair blowing0012: 5580398269765917745
+      GF Dancing Beat Hair blowing0013: -4943430763644480484
+      GF Dancing Beat Hair blowing0014: 5533001237890087316
+      GF Dancing Beat Hair blowing0015: 6632305635838965384
+      GF Dancing Beat Hair blowing0016: -3268730528186174940
+      GF Dancing Beat Hair blowing0017: 3962821557059874760
+      GF Dancing Beat Hair blowing0018: 1567329601203457712
+      GF Dancing Beat Hair blowing0019: 3623410431808931421
+      GF Dancing Beat Hair blowing0020: 2041984222580071354
+      GF Dancing Beat Hair blowing0021: -5245827099258870670
+      GF Dancing Beat Hair blowing0022: 8619743427007411175
+      GF Dancing Beat Hair blowing0024: -6099439048324477647
+      GF Dancing Beat Hair blowing0025: -628324297177235859
+      GF Dancing Beat Hair blowing0026: 6305882782789081582
+      GF Dancing Beat Hair blowing0027: 949634724425703450
+      GF Dancing Beat Hair blowing0028: -4402898624039394131
+      GF Dancing Beat0007: -7984360189194582129
+      GF Down Note0001: -5627521831688481217
+      GF Down Note0002: -7244752250908475254
+      GF Down Note0003: -1240088041168297755
+      GF Down Note00035: -4997413123696015046
+      GF Down Note0004: -7510070575880401720
+      GF Down Note00045: -8200682088805558800
+      GF Down Note0005: -6870358722264409236
+      GF Duck0000: 753481122976393896
+      GF Duck0002: -5577363867581718574
+      GF Left Note0001: -3440121379387117706
+      GF Left Note0002: 1721710023457533687
+      GF Left Note0003: 3762085158164780258
+      GF Left Note0004: 2941639385630564732
+      GF Left Note0005: -5799646879138627083
+      GF Left Note0006: -7079161000309433512
+      GF Left Note0007: 4425330012673212091
+      GF Left Note0008: 1538314238134877232
+      GF Right Note0000: -1588656392919305959
+      GF Right Note0001: -3912969932156825649
+      GF Right Note0002: 4596127390690082744
+      GF Right Note0003: 8912775143220828700
+      GF Right Note0004: -4658023437309220201
+      GF Right Note0005: -9073573800199999282
+      GF Right Note0006: -1930587889914387834
+      GF Right Note0007: -1957841566656746521
+      GF Right Note0008: -6443741990911527048
+      GF Up Note0001: 3214390646094473445
+      GF Up Note0002: 4531950430145917963
+      GF Up Note0003: -3989390542895671223
+      GF Up Note0004: -4895874232578162926
+      GF Up Note0005: 4168813963071421889
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3112 @@
+fileFormatVersion: 2
+guid: 2d0ab25d4722a43c48a87b63676e4991
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3232854190370609165
+    second: Angry Senpai DOWN NOTE instance 10000
+  - first:
+      213: -8432756784536449735
+    second: Angry Senpai DOWN NOTE instance 10001
+  - first:
+      213: -6862281018552957708
+    second: Angry Senpai DOWN NOTE instance 10002
+  - first:
+      213: 8938527201221550748
+    second: Angry Senpai DOWN NOTE instance 10003
+  - first:
+      213: -6977635113921651332
+    second: Angry Senpai DOWN NOTE instance 10004
+  - first:
+      213: -2668980184626368115
+    second: Angry Senpai DOWN NOTE instance 10005
+  - first:
+      213: 2304974676037425612
+    second: Angry Senpai DOWN NOTE instance 10006
+  - first:
+      213: 2170310255404188938
+    second: Angry Senpai DOWN NOTE instance 10007
+  - first:
+      213: 4633950211011510135
+    second: Angry Senpai DOWN NOTE instance 10008
+  - first:
+      213: -7304589947186698171
+    second: Angry Senpai DOWN NOTE instance 10009
+  - first:
+      213: -8655487727662968531
+    second: Angry Senpai DOWN NOTE instance 10010
+  - first:
+      213: -7406833504016122731
+    second: Angry Senpai DOWN NOTE instance 10011
+  - first:
+      213: -5019819064603972591
+    second: Angry Senpai DOWN NOTE instance 10012
+  - first:
+      213: 7235457461298559578
+    second: Angry Senpai DOWN NOTE instance 10013
+  - first:
+      213: -3472187416327551179
+    second: Angry Senpai Idle instance 10000
+  - first:
+      213: 3674677336156815319
+    second: Angry Senpai Idle instance 10001
+  - first:
+      213: 8902847266006432927
+    second: Angry Senpai Idle instance 10002
+  - first:
+      213: -2096941293638932897
+    second: Angry Senpai Idle instance 10003
+  - first:
+      213: -6808307161088303253
+    second: Angry Senpai Idle instance 10004
+  - first:
+      213: -6944125826791248213
+    second: Angry Senpai Idle instance 10005
+  - first:
+      213: 8006970222062307681
+    second: Angry Senpai Idle instance 10006
+  - first:
+      213: -3481951809368271126
+    second: Angry Senpai Idle instance 10007
+  - first:
+      213: -3728824121550940215
+    second: Angry Senpai Idle instance 10008
+  - first:
+      213: -781587127794756052
+    second: Angry Senpai Idle instance 10009
+  - first:
+      213: 7055029426901645704
+    second: Angry Senpai Idle instance 10010
+  - first:
+      213: 6280819999854766949
+    second: Angry Senpai Idle instance 10011
+  - first:
+      213: -4237107080770794860
+    second: Angry Senpai Idle instance 10012
+  - first:
+      213: 2865171758749887260
+    second: Angry Senpai Idle instance 10013
+  - first:
+      213: 1524006773946680447
+    second: Angry Senpai LEFT NOTE instance 10000
+  - first:
+      213: 893678176362662484
+    second: Angry Senpai LEFT NOTE instance 10001
+  - first:
+      213: 3230917061783245863
+    second: Angry Senpai LEFT NOTE instance 10002
+  - first:
+      213: 895222451475422608
+    second: Angry Senpai LEFT NOTE instance 10003
+  - first:
+      213: -2571133662318667214
+    second: Angry Senpai LEFT NOTE instance 10004
+  - first:
+      213: 196990104383335003
+    second: Angry Senpai LEFT NOTE instance 10005
+  - first:
+      213: -7757335320637617007
+    second: Angry Senpai LEFT NOTE instance 10006
+  - first:
+      213: 428576597042578672
+    second: Angry Senpai LEFT NOTE instance 10007
+  - first:
+      213: -3900819073877730953
+    second: Angry Senpai LEFT NOTE instance 10008
+  - first:
+      213: 8703713073412203382
+    second: Angry Senpai LEFT NOTE instance 10009
+  - first:
+      213: 6593479405786604478
+    second: Angry Senpai LEFT NOTE instance 10010
+  - first:
+      213: -3891699541543554508
+    second: Angry Senpai LEFT NOTE instance 10011
+  - first:
+      213: -7714063289883569720
+    second: Angry Senpai LEFT NOTE instance 10012
+  - first:
+      213: -48522512585138319
+    second: Angry Senpai LEFT NOTE instance 10013
+  - first:
+      213: -9096496826053248407
+    second: Angry Senpai RIGHT NOTE instance 10000
+  - first:
+      213: 3974163530680909213
+    second: Angry Senpai RIGHT NOTE instance 10001
+  - first:
+      213: -3769882519383248722
+    second: Angry Senpai RIGHT NOTE instance 10002
+  - first:
+      213: -3971347756981168234
+    second: Angry Senpai RIGHT NOTE instance 10003
+  - first:
+      213: -4175153277399264394
+    second: Angry Senpai RIGHT NOTE instance 10004
+  - first:
+      213: -3512228230401725885
+    second: Angry Senpai RIGHT NOTE instance 10005
+  - first:
+      213: 7712761418349794208
+    second: Angry Senpai RIGHT NOTE instance 10006
+  - first:
+      213: 8856006649322061287
+    second: Angry Senpai RIGHT NOTE instance 10007
+  - first:
+      213: -4235278428606398998
+    second: Angry Senpai RIGHT NOTE instance 10008
+  - first:
+      213: 2864497631329287251
+    second: Angry Senpai RIGHT NOTE instance 10009
+  - first:
+      213: -7181568121902744551
+    second: Angry Senpai RIGHT NOTE instance 10010
+  - first:
+      213: -6577999688829184453
+    second: Angry Senpai RIGHT NOTE instance 10011
+  - first:
+      213: 7210100856966358643
+    second: Angry Senpai RIGHT NOTE instance 10012
+  - first:
+      213: -121007241195243213
+    second: Angry Senpai RIGHT NOTE instance 10013
+  - first:
+      213: 6696947083062619940
+    second: Angry Senpai UP NOTE instance 10000
+  - first:
+      213: 1709626246859743898
+    second: Angry Senpai UP NOTE instance 10001
+  - first:
+      213: 3828312560660040403
+    second: Angry Senpai UP NOTE instance 10002
+  - first:
+      213: -3097365187280997178
+    second: Angry Senpai UP NOTE instance 10003
+  - first:
+      213: -2510409090632850166
+    second: Angry Senpai UP NOTE instance 10004
+  - first:
+      213: 3090387144049009288
+    second: Angry Senpai UP NOTE instance 10005
+  - first:
+      213: -5265893856804049916
+    second: Angry Senpai UP NOTE instance 10006
+  - first:
+      213: 147149111709827012
+    second: Angry Senpai UP NOTE instance 10007
+  - first:
+      213: -2233307018925501129
+    second: Angry Senpai UP NOTE instance 10008
+  - first:
+      213: 6981960504631794446
+    second: Angry Senpai UP NOTE instance 10009
+  - first:
+      213: 6850136626655033388
+    second: Angry Senpai UP NOTE instance 10010
+  - first:
+      213: -3257741996838005237
+    second: Angry Senpai UP NOTE instance 10011
+  - first:
+      213: -899993329139660566
+    second: Angry Senpai UP NOTE instance 10012
+  - first:
+      213: 6780112231851558654
+    second: Angry Senpai UP NOTE instance 10013
+  - first:
+      213: -1677924462525955754
+    second: SENPAI DOWN NOTE instance 10000
+  - first:
+      213: 7006903151450460013
+    second: SENPAI DOWN NOTE instance 10001
+  - first:
+      213: -720083808043809023
+    second: SENPAI DOWN NOTE instance 10002
+  - first:
+      213: -177306038240559087
+    second: SENPAI DOWN NOTE instance 10003
+  - first:
+      213: -5523478291930566810
+    second: SENPAI DOWN NOTE instance 10004
+  - first:
+      213: -6942002813618162850
+    second: SENPAI DOWN NOTE instance 10005
+  - first:
+      213: 8607336959668287400
+    second: SENPAI DOWN NOTE instance 10006
+  - first:
+      213: -8225565640798183128
+    second: SENPAI DOWN NOTE instance 10007
+  - first:
+      213: -4832082284719277102
+    second: SENPAI DOWN NOTE instance 10008
+  - first:
+      213: 8636811527981329997
+    second: SENPAI DOWN NOTE instance 10009
+  - first:
+      213: -1588652923031254159
+    second: SENPAI DOWN NOTE instance 10010
+  - first:
+      213: -8415626561750699964
+    second: SENPAI DOWN NOTE instance 10011
+  - first:
+      213: 6251326372669597129
+    second: SENPAI DOWN NOTE instance 10012
+  - first:
+      213: -7709766774532613579
+    second: SENPAI DOWN NOTE instance 10013
+  - first:
+      213: 3590440392612826202
+    second: SENPAI LEFT NOTE instance 10000
+  - first:
+      213: -8922927899216201815
+    second: SENPAI LEFT NOTE instance 10001
+  - first:
+      213: 6995308470451897893
+    second: SENPAI LEFT NOTE instance 10002
+  - first:
+      213: 4717748661804184302
+    second: SENPAI LEFT NOTE instance 10003
+  - first:
+      213: -5593939034639858873
+    second: SENPAI LEFT NOTE instance 10004
+  - first:
+      213: 7584981868795231164
+    second: SENPAI LEFT NOTE instance 10005
+  - first:
+      213: -3472240424474238602
+    second: SENPAI LEFT NOTE instance 10006
+  - first:
+      213: -280118547306794231
+    second: SENPAI LEFT NOTE instance 10007
+  - first:
+      213: 5544602082348614449
+    second: SENPAI LEFT NOTE instance 10008
+  - first:
+      213: -2445371407586786369
+    second: SENPAI LEFT NOTE instance 10009
+  - first:
+      213: -1665018062109781708
+    second: SENPAI LEFT NOTE instance 10010
+  - first:
+      213: -6818484686625933856
+    second: SENPAI LEFT NOTE instance 10011
+  - first:
+      213: 5012056799059417078
+    second: SENPAI LEFT NOTE instance 10012
+  - first:
+      213: 5254176740718986373
+    second: SENPAI LEFT NOTE instance 10013
+  - first:
+      213: 434577627745956553
+    second: SENPAI RIGHT NOTE instance 10000
+  - first:
+      213: 6049598058769314341
+    second: SENPAI RIGHT NOTE instance 10001
+  - first:
+      213: -259555980729732538
+    second: SENPAI RIGHT NOTE instance 10002
+  - first:
+      213: 178486721399055831
+    second: SENPAI RIGHT NOTE instance 10003
+  - first:
+      213: -4046606847305072629
+    second: SENPAI RIGHT NOTE instance 10004
+  - first:
+      213: -6959320391460329361
+    second: SENPAI RIGHT NOTE instance 10005
+  - first:
+      213: -5055182241615209824
+    second: SENPAI RIGHT NOTE instance 10006
+  - first:
+      213: -4560552446939695446
+    second: SENPAI RIGHT NOTE instance 10007
+  - first:
+      213: 5631186462777373546
+    second: SENPAI RIGHT NOTE instance 10008
+  - first:
+      213: -5271769862486130579
+    second: SENPAI RIGHT NOTE instance 10009
+  - first:
+      213: -3110921467001243694
+    second: SENPAI RIGHT NOTE instance 10010
+  - first:
+      213: -903467188618223560
+    second: SENPAI RIGHT NOTE instance 10011
+  - first:
+      213: 791626221760644539
+    second: SENPAI RIGHT NOTE instance 10012
+  - first:
+      213: 8557604202257820939
+    second: SENPAI RIGHT NOTE instance 10013
+  - first:
+      213: 2695723175823311535
+    second: SENPAI UP NOTE instance 10000
+  - first:
+      213: -4564868983850758310
+    second: SENPAI UP NOTE instance 10001
+  - first:
+      213: -3888390718950203350
+    second: SENPAI UP NOTE instance 10002
+  - first:
+      213: 2826726349778565186
+    second: SENPAI UP NOTE instance 10003
+  - first:
+      213: -3158093145985803446
+    second: SENPAI UP NOTE instance 10004
+  - first:
+      213: -285920347869039250
+    second: SENPAI UP NOTE instance 10005
+  - first:
+      213: -4386920498770928303
+    second: SENPAI UP NOTE instance 10006
+  - first:
+      213: 323984532273028369
+    second: SENPAI UP NOTE instance 10007
+  - first:
+      213: -6579313804368629412
+    second: SENPAI UP NOTE instance 10008
+  - first:
+      213: 6890684922893402427
+    second: SENPAI UP NOTE instance 10009
+  - first:
+      213: 3343924333786102262
+    second: SENPAI UP NOTE instance 10010
+  - first:
+      213: -4718797449502375681
+    second: SENPAI UP NOTE instance 10011
+  - first:
+      213: 3011799745726293933
+    second: SENPAI UP NOTE instance 10012
+  - first:
+      213: -3275282441288617455
+    second: SENPAI UP NOTE instance 10013
+  - first:
+      213: -1749435952055275145
+    second: Senpai Idle instance 10000
+  - first:
+      213: -1701693059813961765
+    second: Senpai Idle instance 10001
+  - first:
+      213: -6389265171296926304
+    second: Senpai Idle instance 10002
+  - first:
+      213: 3701217314648844344
+    second: Senpai Idle instance 10003
+  - first:
+      213: 4179583438531734810
+    second: Senpai Idle instance 10004
+  - first:
+      213: -5465113993179859234
+    second: Senpai Idle instance 10005
+  - first:
+      213: -3932428866682937510
+    second: Senpai Idle instance 10006
+  - first:
+      213: 6763226904034793563
+    second: Senpai Idle instance 10007
+  - first:
+      213: -3446956067366721362
+    second: Senpai Idle instance 10008
+  - first:
+      213: 8810476465278178178
+    second: Senpai Idle instance 10009
+  - first:
+      213: -3333561222167012789
+    second: Senpai Idle instance 10010
+  - first:
+      213: 1968784545613615372
+    second: Senpai Idle instance 10011
+  - first:
+      213: 8072433321783795436
+    second: Senpai Idle instance 10012
+  - first:
+      213: 2323068745612685437
+    second: Senpai Idle instance 10013
+  - first:
+      213: -2380882698651718510
+    second: Senpai Idle instance 10014
+  - first:
+      213: 7579033549637792614
+    second: Senpai Idle instance 10015
+  - first:
+      213: 1830213855381657018
+    second: Senpai Idle instance 10016
+  - first:
+      213: -2383423053832558014
+    second: Senpai Idle instance 10017
+  - first:
+      213: 3464467114466124052
+    second: Senpai Idle instance 10018
+  - first:
+      213: -6305752801387507541
+    second: Senpai Idle instance 10019
+  - first:
+      213: -8013513411829691619
+    second: Senpai Idle instance 10020
+  - first:
+      213: -6712348681442117298
+    second: Senpai Idle instance 10021
+  - first:
+      213: 6441200000847837289
+    second: Senpai Idle instance 10022
+  - first:
+      213: 8657290435356572751
+    second: Senpai Idle instance 10023
+  - first:
+      213: -7588856813781977738
+    second: Senpai Idle instance 10024
+  - first:
+      213: -4649160749217103154
+    second: Senpai Idle instance 10025
+  - first:
+      213: -1704360829204580676
+    second: Senpai Idle instance 10026
+  - first:
+      213: 6205714907572323426
+    second: Senpai Idle instance 10027
+  - first:
+      213: -6755354550727161830
+    second: spirit_asset_song3_0
+  - first:
+      213: 7998809311306006863
+    second: spirit_asset_song3_1
+  - first:
+      213: 2516544005141517388
+    second: spirit_asset_song3_2
+  - first:
+      213: 4321223542646105373
+    second: spirit_asset_song3_3
+  - first:
+      213: -5967448311702392303
+    second: spirit_asset_song3_4
+  - first:
+      213: -1442328570406061383
+    second: spirit_asset_song3_5
+  - first:
+      213: -638730977442485155
+    second: spirit_asset_song3_6
+  - first:
+      213: 4675233415950554823
+    second: spirit_asset_song3_7
+  - first:
+      213: -2116532388469309004
+    second: spirit_asset_song3_8
+  - first:
+      213: -5342096942309027858
+    second: spirit_asset_song3_9
+  - first:
+      213: -4914499974346934884
+    second: spirit_asset_song3_10
+  - first:
+      213: -7330114097744642887
+    second: spirit_asset_song3_11
+  - first:
+      213: 3615264348088652499
+    second: spirit_asset_song3_12
+  - first:
+      213: 8907541800953207529
+    second: spirit_asset_song3_13
+  - first:
+      213: -5777367902622971533
+    second: spirit_asset_song3_14
+  - first:
+      213: -5122524817533233368
+    second: spirit_asset_song3_15
+  - first:
+      213: -4627624835070402468
+    second: spirit_asset_song3_16
+  - first:
+      213: 2633981813486364062
+    second: spirit_asset_song3_17
+  - first:
+      213: 9166709973675955989
+    second: spirit_asset_song3_18
+  - first:
+      213: 673440504751616055
+    second: spirit_asset_song3_19
+  - first:
+      213: -3752841271877561904
+    second: spirit_asset_song3_20
+  - first:
+      213: 6289083351294958646
+    second: spirit_asset_song3_21
+  - first:
+      213: 1283364888676142277
+    second: spirit_asset_song3_22
+  - first:
+      213: 8852813253964456779
+    second: spirit_asset_song3_23
+  - first:
+      213: -7530828322293739802
+    second: spirit_asset_song3_24
+  - first:
+      213: 1539778962456821438
+    second: spirit_asset_song3_25
+  - first:
+      213: 2311266300344333001
+    second: spirit_asset_song3_26
+  - first:
+      213: -6163454552838517024
+    second: spirit_asset_song3_27
+  - first:
+      213: -561205120744398633
+    second: spirit_asset_song3_28
+  - first:
+      213: -2776092292846853862
+    second: spirit_asset_song3_29
+  - first:
+      213: -1221427229830433647
+    second: spirit_asset_song3_30
+  - first:
+      213: 857930394183068472
+    second: spirit_asset_song3_31
+  - first:
+      213: 8446685803815641689
+    second: spirit_asset_song3_32
+  - first:
+      213: 4108470223228646658
+    second: spirit_asset_song3_33
+  - first:
+      213: 5428068452497185625
+    second: spirit_asset_song3_34
+  - first:
+      213: 1338746413953873759
+    second: spirit_asset_song3_35
+  - first:
+      213: -6193618107423174133
+    second: spirit_asset_song3_36
+  - first:
+      213: 4084484487567111756
+    second: spirit_asset_song3_37
+  - first:
+      213: -548963468702840038
+    second: spirit_asset_song3_38
+  - first:
+      213: 1829183098103294596
+    second: spirit_asset_song3_39
+  - first:
+      213: 4869968165817747564
+    second: spirit_asset_song3_40
+  - first:
+      213: -8014061069398616496
+    second: spirit_asset_song3_41
+  - first:
+      213: 2219522717669234418
+    second: spirit_asset_song3_42
+  - first:
+      213: -7290159221787280520
+    second: spirit_asset_song3_43
+  - first:
+      213: -8357060361834225357
+    second: spirit_asset_song3_44
+  - first:
+      213: -3316385935602253078
+    second: spirit_asset_song3_45
+  - first:
+      213: -3582621273361330952
+    second: spirit_asset_song3_46
+  - first:
+      213: 4077914083298910158
+    second: spirit_asset_song3_47
+  - first:
+      213: 7429595914889002743
+    second: spirit_asset_song3_48
+  - first:
+      213: -4677312004173245582
+    second: spirit_asset_song3_49
+  - first:
+      213: -6841024934595401399
+    second: spirit_asset_song3_50
+  - first:
+      213: 3041445473143614021
+    second: spirit_asset_song3_51
+  - first:
+      213: 3656716574814129733
+    second: spirit_asset_song3_52
+  - first:
+      213: 2069627485690052006
+    second: spirit_asset_song3_53
+  - first:
+      213: 387277514347415858
+    second: spirit_asset_song3_54
+  - first:
+      213: -1337837156108190553
+    second: spirit_asset_song3_55
+  - first:
+      213: -3672989425915830926
+    second: spirit_asset_song3_56
+  - first:
+      213: 2203276752034739855
+    second: spirit_asset_song3_57
+  - first:
+      213: -2047987164628692437
+    second: spirit_asset_song3_58
+  - first:
+      213: 4847147561162628878
+    second: spirit_asset_song3_59
+  - first:
+      213: -1889709570453669938
+    second: spirit_asset_song3_60
+  - first:
+      213: 4055599244726792898
+    second: spirit_asset_song3_61
+  - first:
+      213: 1314334417832581242
+    second: spirit_asset_song3_62
+  - first:
+      213: -5588686481562734682
+    second: spirit_asset_song3_63
+  - first:
+      213: -4417790156996514990
+    second: spirit_asset_song3_64
+  - first:
+      213: 957163184666117567
+    second: spirit_asset_song3_65
+  - first:
+      213: -7847026847476449069
+    second: spirit_asset_song3_66
+  - first:
+      213: 2606421756440234500
+    second: spirit_asset_song3_67
+  - first:
+      213: -550068418108768103
+    second: spirit_asset_song3_68
+  - first:
+      213: -6193360850139787500
+    second: spirit_asset_song3_69
+  - first:
+      213: -6945694465120172602
+    second: spirit_asset_song3_70
+  - first:
+      213: -932454722920382003
+    second: spirit_asset_song3_71
+  - first:
+      213: -9200094373599061103
+    second: spirit_asset_song3_72
+  - first:
+      213: 8202928259793531195
+    second: spirit_asset_song3_73
+  - first:
+      213: -3533813555213591529
+    second: spirit_asset_song3_74
+  - first:
+      213: -46624748821471252
+    second: spirit_asset_song3_75
+  - first:
+      213: 8129548807107652510
+    second: spirit_asset_song3_76
+  - first:
+      213: -4771510871036216467
+    second: spirit_asset_song3_77
+  - first:
+      213: -9179911898258002708
+    second: spirit_asset_song3_78
+  - first:
+      213: 2877210920561121275
+    second: spirit_asset_song3_79
+  - first:
+      213: 3553914417817284399
+    second: spirit_asset_song3_80
+  - first:
+      213: -7455815340890670212
+    second: spirit_asset_song3_81
+  - first:
+      213: 6408064888956980268
+    second: spirit_asset_song3_82
+  - first:
+      213: -2847143726254917519
+    second: spirit_asset_song3_83
+  - first:
+      213: 1701785125163921041
+    second: spirit_asset_song3_84
+  - first:
+      213: 6082810835527418303
+    second: spirit_asset_song3_85
+  - first:
+      213: -5224419809219040616
+    second: spirit_asset_song3_86
+  - first:
+      213: -4040360074028857867
+    second: spirit_asset_song3_87
+  - first:
+      213: -2117347049843134399
+    second: spirit_asset_song3_88
+  - first:
+      213: 2479567858269274071
+    second: spirit_asset_song3_89
+  - first:
+      213: -3923281638934152700
+    second: spirit_asset_song3_90
+  - first:
+      213: -8919709465175209855
+    second: spirit_asset_song3_91
+  - first:
+      213: -9183724294781626148
+    second: spirit_asset_song3_92
+  - first:
+      213: -6251268795932089900
+    second: spirit_asset_song3_93
+  - first:
+      213: 402396382284212576
+    second: spirit_asset_song3_94
+  - first:
+      213: -178697785580120191
+    second: spirit_asset_song3_95
+  - first:
+      213: -5442311611405686303
+    second: spirit_asset_song3_96
+  - first:
+      213: -5922945625822749537
+    second: spirit_asset_song3_97
+  - first:
+      213: -4967183379945289689
+    second: spirit_asset_song3_98
+  - first:
+      213: -2283141496471446479
+    second: spirit_asset_song3_99
+  - first:
+      213: 7636027408035265323
+    second: spirit_asset_song3_100
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spirit_asset_song3_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1464
+        width: 48
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18c618d3d82042a0800000000000000
+      internalID: -6755354550727161830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1488
+        width: 48
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f414b7a60ba710f60800000000000000
+      internalID: 7998809311306006863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_2
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1487
+        width: 46
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c445910807f8ce220800000000000000
+      internalID: 2516544005141517388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_3
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1487
+        width: 47
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15e97ecae118fb30800000000000000
+      internalID: 4321223542646105373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_4
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1487
+        width: 47
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112797d906d5f2da0800000000000000
+      internalID: -5967448311702392303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_5
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1488
+        width: 47
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9babc879ec1dbfbe0800000000000000
+      internalID: -1442328570406061383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_6
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1554
+        width: 49
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ca0866f85c227f0800000000000000
+      internalID: -638730977442485155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_7
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1428
+        width: 58
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6d4c77504c1e040800000000000000
+      internalID: 4675233415950554823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1230
+        width: 46
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b18dada10190a2e0800000000000000
+      internalID: -2116532388469309004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1230
+        width: 45
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef48f5722f0dd5b0800000000000000
+      internalID: -5342096942309027858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_10
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1231
+        width: 46
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95726cbf403ccbb0800000000000000
+      internalID: -4914499974346934884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_11
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1230
+        width: 47
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcf8d09014364a90800000000000000
+      internalID: -7330114097744642887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_12
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1230
+        width: 48
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d255f425cffb2230800000000000000
+      internalID: 3615264348088652499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_13
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1232
+        width: 47
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea52c3e212fd9b70800000000000000
+      internalID: 8907541800953207529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_14
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1298
+        width: 51
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3790a6b908aa2dfa0800000000000000
+      internalID: -5777367902622971533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_15
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1171
+        width: 51
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8271fc991d229e8b0800000000000000
+      internalID: -5122524817533233368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 973
+        width: 46
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c506adf0bbf57cfb0800000000000000
+      internalID: -4627624835070402468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_17
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 974
+        width: 46
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95a1b10188cd8420800000000000000
+      internalID: 2633981813486364062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_18
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 974
+        width: 46
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5175cfb5722b63f70800000000000000
+      internalID: 9166709973675955989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_19
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 973
+        width: 48
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730741f229a885900800000000000000
+      internalID: 673440504751616055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_20
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 975
+        width: 47
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d110532fba3bebc0800000000000000
+      internalID: -3752841271877561904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_21
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 975
+        width: 46
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c52ccacff474750800000000000000
+      internalID: 6289083351294958646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_22
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1040
+        width: 52
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc00c2119d6fc110800000000000000
+      internalID: 1283364888676142277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_23
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 909
+        width: 52
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43eb6110c28bda70800000000000000
+      internalID: 8852813253964456779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 717
+        width: 46
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee0b397a8f1d7790800000000000000
+      internalID: -7530828322293739802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_25
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 716
+        width: 45
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebebbd9eec46e5510800000000000000
+      internalID: 1539778962456821438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_26
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 785
+        width: 48
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2fa5d5474431020800000000000000
+      internalID: 2311266300344333001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_27
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 783
+        width: 48
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eecbc45db2077aa0800000000000000
+      internalID: -6163454552838517024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_28
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 783
+        width: 49
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d066e38ae23638f0800000000000000
+      internalID: -561205120744398633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_29
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 786
+        width: 51
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11e92d94c65979d0800000000000000
+      internalID: -2776092292846853862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_30
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 785
+        width: 51
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194b7f6e76e9c0fe0800000000000000
+      internalID: -1221427229830433647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_31
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 786
+        width: 51
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bea43e52bf7eb00800000000000000
+      internalID: 857930394183068472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_32
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 784
+        width: 52
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95224c17cf7a83570800000000000000
+      internalID: 8446685803815641689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_33
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 777
+        width: 43
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20530d186e7340930800000000000000
+      internalID: 4108470223228646658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_34
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 773
+        width: 43
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b59979f7f545b40800000000000000
+      internalID: 5428068452497185625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_35
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 655
+        width: 48
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f577c0045ce249210800000000000000
+      internalID: 1338746413953873759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_36
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 654
+        width: 49
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b025d908529db0aa0800000000000000
+      internalID: -6193618107423174133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_37
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 657
+        width: 51
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46f70c30010fa830800000000000000
+      internalID: 4084484487567111756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_38
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 657
+        width: 51
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b0d4d32a0b168f0800000000000000
+      internalID: -548963468702840038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_39
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 658
+        width: 52
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a68971650926910800000000000000
+      internalID: 1829183098103294596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_40
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 655
+        width: 52
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68070f9e3a959340800000000000000
+      internalID: 4869968165817747564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_41
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 655
+        width: 51
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056553eeae558c090800000000000000
+      internalID: -8014061069398616496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_42
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 642
+        width: 43
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f69595f6245dce10800000000000000
+      internalID: 2219522717669234418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_43
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 642
+        width: 42
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bb45d00d624da90800000000000000
+      internalID: -7290159221787280520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 530
+        width: 48
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331af56e0e1c50c80800000000000000
+      internalID: -8357060361834225357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_45
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 528
+        width: 48
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae283520094d9f1d0800000000000000
+      internalID: -3316385935602253078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_46
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 527
+        width: 48
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc4a84fee8f74ec0800000000000000
+      internalID: -3582621273361330952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_47
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 525
+        width: 49
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf1897c049a79830800000000000000
+      internalID: 4077914083298910158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_48
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 530
+        width: 41
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fef6a3fe1a3b1760800000000000000
+      internalID: 7429595914889002743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_50
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 527
+        width: 52
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949e9d9311ccf01a0800000000000000
+      internalID: -6841024934595401399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_51
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 529
+        width: 51
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ae1762b82653a20800000000000000
+      internalID: 3041445473143614021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_52
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 526
+        width: 60
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e4416c9544fb230800000000000000
+      internalID: 3656716574814129733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_53
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 524
+        width: 53
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adb0fd9b3bc8bc10800000000000000
+      internalID: 2069627485690052006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_54
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 528
+        width: 50
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2398c20f8d2ef5500800000000000000
+      internalID: 387277514347415858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_55
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 517
+        width: 43
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac3ad6d13c0f6de0800000000000000
+      internalID: -1337837156108190553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_56
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 515
+        width: 43
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d5584d39be60dc0800000000000000
+      internalID: -3672989425915830926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_57
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 514
+        width: 43
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8638e2588c939e10800000000000000
+      internalID: 2203276752034739855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_58
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 395
+        width: 49
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b225fb346861493e0800000000000000
+      internalID: -2047987164628692437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_59
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 399
+        width: 48
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fdffc8607844340800000000000000
+      internalID: 4847147561162628878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_60
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 397
+        width: 48
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7f374682766c5e0800000000000000
+      internalID: -1889709570453669938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 398
+        width: 49
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2784d8602684830800000000000000
+      internalID: 4055599244726792898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_62
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 398
+        width: 52
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a781bfa70347d3210800000000000000
+      internalID: 1314334417832581242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_63
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 400
+        width: 51
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afec61514ff072b0800000000000000
+      internalID: -5588686481562734682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_64
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 395
+        width: 54
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b6108324bd0b2c0800000000000000
+      internalID: -4417790156996514990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_65
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 395
+        width: 53
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb50b1e58d6884d00800000000000000
+      internalID: 957163184666117567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_66
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 398
+        width: 51
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0863558a2c91390800000000000000
+      internalID: -7847026847476449069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_67
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 389
+        width: 43
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a487f27cedb2420800000000000000
+      internalID: 2606421756440234500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_68
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 388
+        width: 43
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990477820b3cd58f0800000000000000
+      internalID: -550068418108768103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_69
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 385
+        width: 43
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f4b91ee13cc0aa0800000000000000
+      internalID: -6193360850139787500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_70
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 269
+        width: 48
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c58d101fafeb9f90800000000000000
+      internalID: -6945694465120172602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_71
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 268
+        width: 48
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1023fae514f03f0800000000000000
+      internalID: -932454722920382003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_72
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 269
+        width: 49
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bde8159e2b25080800000000000000
+      internalID: -9200094373599061103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_73
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 269
+        width: 52
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31b1039ac7a6d170800000000000000
+      internalID: 8202928259793531195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_74
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 271
+        width: 51
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c98036b4f55fec0800000000000000
+      internalID: -3533813555213591529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_75
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 270
+        width: 51
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef11c8b90b5a5ff0800000000000000
+      internalID: -46624748821471252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_76
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 266
+        width: 53
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b2adf5195f1d070800000000000000
+      internalID: 8129548807107652510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_77
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 270
+        width: 50
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bb8f1b42038cdb0800000000000000
+      internalID: -4771510871036216467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_78
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 260
+        width: 43
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec23fa04c66a9080800000000000000
+      internalID: -9179911898258002708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_79
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 260
+        width: 43
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf79bef8618ede720800000000000000
+      internalID: 2877210920561121275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_80
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 259
+        width: 42
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f6324655a025130800000000000000
+      internalID: 3553914417817284399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_81
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 139
+        width: 48
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bbd47337f978890800000000000000
+      internalID: -7455815340890670212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_82
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 140
+        width: 49
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c0feba0150ee850800000000000000
+      internalID: 6408064888956980268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_83
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 141
+        width: 52
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178f714add9ec78d0800000000000000
+      internalID: -2847143726254917519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_84
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 142
+        width: 51
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e607d0e84fd9710800000000000000
+      internalID: 1701785125163921041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_85
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 141
+        width: 50
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1428f0a3c7a6450800000000000000
+      internalID: 6082810835527418303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_86
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 138
+        width: 53
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a2cf91dd12f77b0800000000000000
+      internalID: -5224419809219040616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_87
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 140
+        width: 51
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5c6de5be1cde7c0800000000000000
+      internalID: -4040360074028857867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_88
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 137
+        width: 43
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140f0eb831cad92e0800000000000000
+      internalID: -2117347049843134399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_89
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 131
+        width: 43
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfbd9c64d1396220800000000000000
+      internalID: 2479567858269274071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_90
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 130
+        width: 42
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a7485c224bd89c0800000000000000
+      internalID: -3923281638934152700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_91
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 49
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188ca840083d63480800000000000000
+      internalID: -8919709465175209855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_92
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 52
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd89a6e496bdc8080800000000000000
+      internalID: -9183724294781626148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_93
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 14
+        width: 52
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1ebf696280f39a0800000000000000
+      internalID: -6251268795932089900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_94
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 12
+        width: 50
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069e3f0b069959500800000000000000
+      internalID: 402396382284212576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_95
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 8
+        width: 53
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18719509f43258df0800000000000000
+      internalID: -178697785580120191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_96
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 12
+        width: 50
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e92e2d8c660974b0800000000000000
+      internalID: -5442311611405686303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_97
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2
+        width: 43
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c91ec95587dcda0800000000000000
+      internalID: -5922945625822749537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_98
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2
+        width: 43
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72803208805011bb0800000000000000
+      internalID: -4967183379945289689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_99
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1
+        width: 42
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c9dd2d7e6a050e0800000000000000
+      internalID: -2283141496471446479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit_asset_song3_100
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1
+        width: 43
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bb61f587e98f960800000000000000
+      internalID: 7636027408035265323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spirit_asset_song3_50: -6841024934595401399
+      spirit_asset_song3_51: 3041445473143614021
+      spirit_asset_song3_88: -2117347049843134399
+      spirit_asset_song3_60: -1889709570453669938
+      spirit_asset_song3_74: -3533813555213591529
+      spirit_asset_song3_8: -2116532388469309004
+      spirit_asset_song3_64: -4417790156996514990
+      spirit_asset_song3_63: -5588686481562734682
+      spirit_asset_song3_24: -7530828322293739802
+      spirit_asset_song3_67: 2606421756440234500
+      spirit_asset_song3_36: -6193618107423174133
+      spirit_asset_song3_41: -8014061069398616496
+      spirit_asset_song3_68: -550068418108768103
+      spirit_asset_song3_71: -932454722920382003
+      spirit_asset_song3_6: -638730977442485155
+      spirit_asset_song3_95: -178697785580120191
+      spirit_asset_song3_26: 2311266300344333001
+      spirit_asset_song3_61: 4055599244726792898
+      spirit_asset_song3_0: -6755354550727161830
+      spirit_asset_song3_12: 3615264348088652499
+      spirit_asset_song3_62: 1314334417832581242
+      spirit_asset_song3_72: -9200094373599061103
+      spirit_asset_song3_96: -5442311611405686303
+      spirit_asset_song3_99: -2283141496471446479
+      spirit_asset_song3_90: -3923281638934152700
+      spirit_asset_song3_48: 7429595914889002743
+      spirit_asset_song3_14: -5777367902622971533
+      spirit_asset_song3_42: 2219522717669234418
+      spirit_asset_song3_92: -9183724294781626148
+      spirit_asset_song3_30: -1221427229830433647
+      spirit_asset_song3_77: -4771510871036216467
+      spirit_asset_song3_17: 2633981813486364062
+      spirit_asset_song3_82: 6408064888956980268
+      spirit_asset_song3_89: 2479567858269274071
+      spirit_asset_song3_76: 8129548807107652510
+      spirit_asset_song3_4: -5967448311702392303
+      spirit_asset_song3_5: -1442328570406061383
+      spirit_asset_song3_70: -6945694465120172602
+      spirit_asset_song3_13: 8907541800953207529
+      spirit_asset_song3_15: -5122524817533233368
+      spirit_asset_song3_78: -9179911898258002708
+      spirit_asset_song3_44: -8357060361834225357
+      spirit_asset_song3_58: -2047987164628692437
+      spirit_asset_song3_22: 1283364888676142277
+      spirit_asset_song3_93: -6251268795932089900
+      spirit_asset_song3_69: -6193360850139787500
+      spirit_asset_song3_27: -6163454552838517024
+      spirit_asset_song3_84: 1701785125163921041
+      spirit_asset_song3_32: 8446685803815641689
+      spirit_asset_song3_2: 2516544005141517388
+      spirit_asset_song3_100: 7636027408035265323
+      spirit_asset_song3_28: -561205120744398633
+      spirit_asset_song3_73: 8202928259793531195
+      spirit_asset_song3_21: 6289083351294958646
+      spirit_asset_song3_9: -5342096942309027858
+      spirit_asset_song3_65: 957163184666117567
+      spirit_asset_song3_98: -4967183379945289689
+      spirit_asset_song3_20: -3752841271877561904
+      spirit_asset_song3_80: 3553914417817284399
+      spirit_asset_song3_52: 3656716574814129733
+      spirit_asset_song3_85: 6082810835527418303
+      spirit_asset_song3_59: 4847147561162628878
+      spirit_asset_song3_83: -2847143726254917519
+      spirit_asset_song3_1: 7998809311306006863
+      spirit_asset_song3_97: -5922945625822749537
+      spirit_asset_song3_11: -7330114097744642887
+      spirit_asset_song3_18: 9166709973675955989
+      spirit_asset_song3_38: -548963468702840038
+      spirit_asset_song3_91: -8919709465175209855
+      spirit_asset_song3_37: 4084484487567111756
+      spirit_asset_song3_43: -7290159221787280520
+      spirit_asset_song3_79: 2877210920561121275
+      spirit_asset_song3_56: -3672989425915830926
+      spirit_asset_song3_16: -4627624835070402468
+      spirit_asset_song3_53: 2069627485690052006
+      spirit_asset_song3_87: -4040360074028857867
+      spirit_asset_song3_29: -2776092292846853862
+      spirit_asset_song3_66: -7847026847476449069
+      spirit_asset_song3_46: -3582621273361330952
+      spirit_asset_song3_31: 857930394183068472
+      spirit_asset_song3_10: -4914499974346934884
+      spirit_asset_song3_25: 1539778962456821438
+      spirit_asset_song3_40: 4869968165817747564
+      spirit_asset_song3_7: 4675233415950554823
+      spirit_asset_song3_94: 402396382284212576
+      spirit_asset_song3_39: 1829183098103294596
+      spirit_asset_song3_55: -1337837156108190553
+      spirit_asset_song3_35: 1338746413953873759
+      spirit_asset_song3_33: 4108470223228646658
+      spirit_asset_song3_45: -3316385935602253078
+      spirit_asset_song3_34: 5428068452497185625
+      spirit_asset_song3_75: -46624748821471252
+      spirit_asset_song3_3: 4321223542646105373
+      spirit_asset_song3_23: 8852813253964456779
+      spirit_asset_song3_86: -5224419809219040616
+      spirit_asset_song3_57: 2203276752034739855
+      spirit_asset_song3_54: 387277514347415858
+      spirit_asset_song3_19: 673440504751616055
+      spirit_asset_song3_47: 4077914083298910158
+      spirit_asset_song3_81: -7455815340890670212
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

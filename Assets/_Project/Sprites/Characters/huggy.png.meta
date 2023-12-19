@@ -1,0 +1,1647 @@
+fileFormatVersion: 2
+guid: aa1b463c6ac5f4c66a0546783403d9ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5378986611337510280
+    second: huggydown0000
+  - first:
+      213: -8090407054373819888
+    second: huggydown0001
+  - first:
+      213: 6494948055343395004
+    second: huggydown0002
+  - first:
+      213: -661819691782436173
+    second: huggydown0003
+  - first:
+      213: 2872662693894173564
+    second: huggydown0004
+  - first:
+      213: -906121951918610044
+    second: huggydown0005
+  - first:
+      213: -526569377982181735
+    second: huggydown0006
+  - first:
+      213: 6943382990058053787
+    second: huggydown0007
+  - first:
+      213: -6791004787749105565
+    second: huggydown0008
+  - first:
+      213: 7695269842020268277
+    second: huggydown0009
+  - first:
+      213: 1951963303716500703
+    second: huggyidle0000
+  - first:
+      213: 6177929051027518144
+    second: huggyidle0001
+  - first:
+      213: -569871042153127473
+    second: huggyidle0002
+  - first:
+      213: 1325408300111134349
+    second: huggyidle0003
+  - first:
+      213: 6946125119485265919
+    second: huggyidle0004
+  - first:
+      213: 5842051942896777388
+    second: huggyidle0005
+  - first:
+      213: -8945634952470499925
+    second: huggyidle0006
+  - first:
+      213: 6365511187229581200
+    second: huggyidle0007
+  - first:
+      213: 8395062816175720962
+    second: huggyidle0008
+  - first:
+      213: 7799930939963531933
+    second: huggyidle0009
+  - first:
+      213: 8847628506445516138
+    second: huggyidle0010
+  - first:
+      213: -3473048584971628403
+    second: huggyidle0011
+  - first:
+      213: 7878272384155859042
+    second: huggyidle0012
+  - first:
+      213: 2103278853216885120
+    second: huggyidle0013
+  - first:
+      213: -3943643504211863190
+    second: huggyidle0014
+  - first:
+      213: -6967532358239586027
+    second: huggyidle0015
+  - first:
+      213: -208028477794690818
+    second: huggyidle0016
+  - first:
+      213: 7697325896025236934
+    second: huggyidle0017
+  - first:
+      213: 6343358009868693030
+    second: huggyidle0018
+  - first:
+      213: 2049256017090934318
+    second: huggyidle0019
+  - first:
+      213: -7207723012563684124
+    second: huggyleft0000
+  - first:
+      213: -7912848838165298005
+    second: huggyleft0001
+  - first:
+      213: -1843384994062207320
+    second: huggyleft0002
+  - first:
+      213: -612903052223004655
+    second: huggyleft0003
+  - first:
+      213: 7823461746015553795
+    second: huggyleft0004
+  - first:
+      213: 2033452084148925558
+    second: huggyleft0005
+  - first:
+      213: 4305774400580081602
+    second: huggyleft0006
+  - first:
+      213: -4490150225073833930
+    second: huggyleft0007
+  - first:
+      213: 5729263057357703050
+    second: huggyleft0008
+  - first:
+      213: 8158360681769050052
+    second: huggyleft0009
+  - first:
+      213: 6758642276840521877
+    second: huggyright0000
+  - first:
+      213: -3892965126920836126
+    second: huggyright0001
+  - first:
+      213: -2766603230672258322
+    second: huggyright0002
+  - first:
+      213: -2772337402215849492
+    second: huggyright0003
+  - first:
+      213: 1709231098349123205
+    second: huggyright0004
+  - first:
+      213: 4230544323098520829
+    second: huggyright0005
+  - first:
+      213: 1899843213086708407
+    second: huggyright0006
+  - first:
+      213: -3451136050653011186
+    second: huggyright0007
+  - first:
+      213: -6542573067761202707
+    second: huggyright0008
+  - first:
+      213: -4693030253775360051
+    second: huggyright0009
+  - first:
+      213: 3028627430893040890
+    second: huggyup0000
+  - first:
+      213: -6316497314717233881
+    second: huggyup0001
+  - first:
+      213: 4622059931111337390
+    second: huggyup0002
+  - first:
+      213: -3635517288447217195
+    second: huggyup0003
+  - first:
+      213: -6107518783982599283
+    second: huggyup0004
+  - first:
+      213: -2507232624361370053
+    second: huggyup0005
+  - first:
+      213: 7809254960309867854
+    second: huggyup0006
+  - first:
+      213: -6214996887640538762
+    second: huggyup0007
+  - first:
+      213: 3902923684397429986
+    second: huggyup0008
+  - first:
+      213: 2881658668986774372
+    second: huggyup0009
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: huggydown0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3407
+        width: 349
+        height: 689
+      alignment: 9
+      pivot: {x: 0.5, y: -0.0043541365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dba5ce2dff5aa40800000000000000
+      internalID: 5378986611337510280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggydown0001
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 3398
+        width: 347
+        height: 698
+      alignment: 9
+      pivot: {x: 0.5028818, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01aebbb16a919bf80800000000000000
+      internalID: -8090407054373819888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggydown0002
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3395
+        width: 348
+        height: 701
+      alignment: 9
+      pivot: {x: 0.50143677, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb07b5938d0b22a50800000000000000
+      internalID: 6494948055343395004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggydown0003
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 3397
+        width: 347
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5028818, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba03fd2f7eb0d6f0800000000000000
+      internalID: -661819691782436173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggydown0004
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 3397
+        width: 347
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5028818, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c733415008fbdd720800000000000000
+      internalID: 2872662693894173564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggydown0005
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 3397
+        width: 347
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5028818, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48925b4b2eecc63f0800000000000000
+      internalID: -906121951918610044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggydown0006
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 3397
+        width: 347
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5028818, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e06cbc0ff31b8f0800000000000000
+      internalID: -526569377982181735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggydown0007
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 3397
+        width: 347
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5028818, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9066e5ba0adb5060800000000000000
+      internalID: 6943382990058053787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggydown0008
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 3397
+        width: 347
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5028818, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360dc36302181c1a0800000000000000
+      internalID: -6791004787749105565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggydown0009
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 3397
+        width: 347
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5028818, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8f46866271bca60800000000000000
+      internalID: 7695269842020268277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0000
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 3380
+        width: 369
+        height: 716
+      alignment: 9
+      pivot: {x: 0.48509485, y: -0.001396648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4be946844c61b10800000000000000
+      internalID: 1951963303716500703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0001
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3372
+        width: 352
+        height: 724
+      alignment: 9
+      pivot: {x: 0.50852275, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2bf066db96cb550800000000000000
+      internalID: 6177929051027518144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0002
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 3370
+        width: 348
+        height: 726
+      alignment: 9
+      pivot: {x: 0.5229885, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc16ea47e496718f0800000000000000
+      internalID: -569871042153127473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0003
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 3370
+        width: 345
+        height: 726
+      alignment: 9
+      pivot: {x: 0.53333336, y: -0.0013774105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e7a7e93dbc46210800000000000000
+      internalID: 1325408300111134349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0004
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 3369
+        width: 343
+        height: 727
+      alignment: 9
+      pivot: {x: 0.54227406, y: -0.0013755158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff746587ef7956060800000000000000
+      internalID: 6946125119485265919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0005
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 3363
+        width: 344
+        height: 733
+      alignment: 9
+      pivot: {x: 0.54651165, y: -0.0013642565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca83ebf1a43231150800000000000000
+      internalID: 5842051942896777388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0006
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 3358
+        width: 346
+        height: 738
+      alignment: 9
+      pivot: {x: 0.5462428, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad6daf1868bad380800000000000000
+      internalID: -8945634952470499925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2616
+        width: 346
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5462428, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f1898e2b6d65850800000000000000
+      internalID: 6365511187229581200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0008
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2615
+        width: 346
+        height: 743
+      alignment: 9
+      pivot: {x: 0.5462428, y: -0.001345895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a8e310721418470800000000000000
+      internalID: 8395062816175720962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0009
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2613
+        width: 348
+        height: 745
+      alignment: 9
+      pivot: {x: 0.545977, y: -0.0013422819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92ea153ddbee3c60800000000000000
+      internalID: 7799930939963531933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0010
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2610
+        width: 348
+        height: 748
+      alignment: 9
+      pivot: {x: 0.545977, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d0e47ff3719ca70800000000000000
+      internalID: 8847628506445516138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0011
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 2611
+        width: 348
+        height: 747
+      alignment: 9
+      pivot: {x: 0.545977, y: -0.0013386881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80d71586b04dcfc0800000000000000
+      internalID: -3473048584971628403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0012
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2610
+        width: 348
+        height: 748
+      alignment: 9
+      pivot: {x: 0.545977, y: -0.0013368984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26831651efe355d60800000000000000
+      internalID: 7878272384155859042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0013
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 2609
+        width: 349
+        height: 749
+      alignment: 9
+      pivot: {x: 0.5444126, y: -0.0013351135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089559d29f8503d10800000000000000
+      internalID: 2103278853216885120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0014
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 2609
+        width: 348
+        height: 749
+      alignment: 9
+      pivot: {x: 0.545977, y: -0.0013351135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69dca2902d5549c0800000000000000
+      internalID: -3943643504211863190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0015
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 2603
+        width: 352
+        height: 755
+      alignment: 9
+      pivot: {x: 0.53977275, y: -0.0013245033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519f61a5c3a5e4f90800000000000000
+      internalID: -6967532358239586027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0016
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 2606
+        width: 350
+        height: 752
+      alignment: 9
+      pivot: {x: 0.54285717, y: -0.0013297872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8d1ed933fec1df0800000000000000
+      internalID: -208028477794690818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0017
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 2600
+        width: 354
+        height: 758
+      alignment: 9
+      pivot: {x: 0.53672314, y: -0.0013192613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5eff8ce1562da60800000000000000
+      internalID: 7697325896025236934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0018
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1830
+        width: 359
+        height: 770
+      alignment: 9
+      pivot: {x: 0.52924794, y: -0.0012987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e2a5d5082280850800000000000000
+      internalID: 6343358009868693030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyidle0019
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1827
+        width: 361
+        height: 773
+      alignment: 9
+      pivot: {x: 0.5263158, y: -0.0012936611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2679887d7b607c10800000000000000
+      internalID: 2049256017090934318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyleft0000
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1870
+        width: 398
+        height: 730
+      alignment: 9
+      pivot: {x: 0.50628144, y: -0.002739726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4bbb4bb1609fb90800000000000000
+      internalID: -7207723012563684124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyleft0001
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1882
+        width: 380
+        height: 718
+      alignment: 9
+      pivot: {x: 0.47236842, y: -0.0013927576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba48bcfd7e9ef2290800000000000000
+      internalID: -7912848838165298005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyleft0002
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1884
+        width: 378
+        height: 716
+      alignment: 9
+      pivot: {x: 0.46693122, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6f2a45d1bfa66e0800000000000000
+      internalID: -1843384994062207320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyleft0003
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1885
+        width: 377
+        height: 715
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110ce7adbe78e77f0800000000000000
+      internalID: -612903052223004655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyleft0004
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1885
+        width: 377
+        height: 715
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3094d1de105829c60800000000000000
+      internalID: 7823461746015553795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyleft0005
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1885
+        width: 377
+        height: 715
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674797795e5483c10800000000000000
+      internalID: 2033452084148925558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyleft0006
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1885
+        width: 377
+        height: 715
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7db8d110f21cb30800000000000000
+      internalID: 4305774400580081602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyleft0007
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1885
+        width: 377
+        height: 715
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638755ef828cfa1c0800000000000000
+      internalID: -4490150225073833930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyleft0008
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1885
+        width: 377
+        height: 715
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87039e456e628f40800000000000000
+      internalID: 5729263057357703050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyleft0009
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1885
+        width: 377
+        height: 715
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf9b52b0d1583170800000000000000
+      internalID: 8158360681769050052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyright0000
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 1824
+        width: 392
+        height: 776
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590440b87558bcd50800000000000000
+      internalID: 6758642276840521877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyright0001
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 1831
+        width: 385
+        height: 769
+      alignment: 9
+      pivot: {x: 0.5064935, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb66e6c7d869f9c0800000000000000
+      internalID: -3892965126920836126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyright0002
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1831
+        width: 385
+        height: 769
+      alignment: 9
+      pivot: {x: 0.5064935, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaf451150d0b99d0800000000000000
+      internalID: -2766603230672258322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyright0003
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 1832
+        width: 384
+        height: 768
+      alignment: 9
+      pivot: {x: 0.5078125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1256732dda689d0800000000000000
+      internalID: -2772337402215849492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyright0004
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 1832
+        width: 384
+        height: 768
+      alignment: 9
+      pivot: {x: 0.5078125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5867628c0a868b710800000000000000
+      internalID: 1709231098349123205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyright0005
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 1832
+        width: 384
+        height: 768
+      alignment: 9
+      pivot: {x: 0.5078125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc25d0c5a9e5ba30800000000000000
+      internalID: 4230544323098520829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyright0006
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 1832
+        width: 384
+        height: 768
+      alignment: 9
+      pivot: {x: 0.5078125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b258f426599d5a10800000000000000
+      internalID: 1899843213086708407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyright0007
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 1832
+        width: 384
+        height: 768
+      alignment: 9
+      pivot: {x: 0.5078125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03684dfb0a1b10d0800000000000000
+      internalID: -3451136050653011186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyright0008
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 1832
+        width: 384
+        height: 768
+      alignment: 9
+      pivot: {x: 0.5078125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de94e0b757c1435a0800000000000000
+      internalID: -6542573067761202707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyright0009
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 1832
+        width: 384
+        height: 768
+      alignment: 9
+      pivot: {x: 0.5078125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfee8359d10fdeb0800000000000000
+      internalID: -4693030253775360051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyup0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 350
+        height: 796
+      alignment: 9
+      pivot: {x: 0.5057143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4326f1a98d70a20800000000000000
+      internalID: 3028627430893040890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyup0001
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1058
+        width: 351
+        height: 766
+      alignment: 9
+      pivot: {x: 0.4957265, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d0293982b4758a0800000000000000
+      internalID: -6316497314717233881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyup0002
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1062
+        width: 351
+        height: 762
+      alignment: 9
+      pivot: {x: 0.4957265, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead2574c40bd42040800000000000000
+      internalID: 4622059931111337390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyup0003
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1060
+        width: 351
+        height: 764
+      alignment: 9
+      pivot: {x: 0.4957265, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1ff47b94c0c8dc0800000000000000
+      internalID: -3635517288447217195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyup0004
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1060
+        width: 351
+        height: 764
+      alignment: 9
+      pivot: {x: 0.4957265, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8301b5660cbd3ba0800000000000000
+      internalID: -6107518783982599283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyup0005
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1060
+        width: 351
+        height: 764
+      alignment: 9
+      pivot: {x: 0.4957265, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e8ba74635843dd0800000000000000
+      internalID: -2507232624361370053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyup0006
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1060
+        width: 351
+        height: 764
+      alignment: 9
+      pivot: {x: 0.4957265, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e451abdd20c006c60800000000000000
+      internalID: 7809254960309867854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyup0007
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1060
+        width: 351
+        height: 764
+      alignment: 9
+      pivot: {x: 0.4957265, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67107085245efb9a0800000000000000
+      internalID: -6214996887640538762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyup0008
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1060
+        width: 351
+        height: 764
+      alignment: 9
+      pivot: {x: 0.4957265, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4b7f19968f92630800000000000000
+      internalID: 3902923684397429986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huggyup0009
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1060
+        width: 351
+        height: 764
+      alignment: 9
+      pivot: {x: 0.4957265, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463b1e0ba45bdf720800000000000000
+      internalID: 2881658668986774372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      huggyleft0006: 4305774400580081602
+      huggyidle0015: -6967532358239586027
+      huggyleft0001: -7912848838165298005
+      huggyup0009: 2881658668986774372
+      huggyright0002: -2766603230672258322
+      huggyup0005: -2507232624361370053
+      huggyidle0007: 6365511187229581200
+      huggyidle0011: -3473048584971628403
+      huggyidle0009: 7799930939963531933
+      huggyleft0005: 2033452084148925558
+      huggyright0004: 1709231098349123205
+      huggyidle0018: 6343358009868693030
+      huggydown0006: -526569377982181735
+      huggyup0003: -3635517288447217195
+      huggyup0002: 4622059931111337390
+      huggyright0000: 6758642276840521877
+      huggyidle0000: 1951963303716500703
+      huggyidle0006: -8945634952470499925
+      huggyidle0002: -569871042153127473
+      huggyleft0002: -1843384994062207320
+      huggyleft0004: 7823461746015553795
+      huggyup0006: 7809254960309867854
+      huggydown0004: 2872662693894173564
+      huggyleft0003: -612903052223004655
+      huggydown0005: -906121951918610044
+      huggyidle0016: -208028477794690818
+      huggyright0008: -6542573067761202707
+      huggyup0008: 3902923684397429986
+      huggydown0009: 7695269842020268277
+      huggyidle0012: 7878272384155859042
+      huggyidle0010: 8847628506445516138
+      huggyup0000: 3028627430893040890
+      huggyup0001: -6316497314717233881
+      huggyidle0005: 5842051942896777388
+      huggydown0000: 5378986611337510280
+      huggyright0009: -4693030253775360051
+      huggydown0001: -8090407054373819888
+      huggyleft0007: -4490150225073833930
+      huggyright0007: -3451136050653011186
+      huggyup0007: -6214996887640538762
+      huggyleft0009: 8158360681769050052
+      huggydown0008: -6791004787749105565
+      huggyidle0019: 2049256017090934318
+      huggyidle0014: -3943643504211863190
+      huggyidle0004: 6946125119485265919
+      huggyright0001: -3892965126920836126
+      huggyright0003: -2772337402215849492
+      huggyidle0001: 6177929051027518144
+      huggyidle0017: 7697325896025236934
+      huggyidle0008: 8395062816175720962
+      huggyleft0008: 5729263057357703050
+      huggydown0002: 6494948055343395004
+      huggyright0005: 4230544323098520829
+      huggydown0007: 6943382990058053787
+      huggyidle0013: 2103278853216885120
+      huggyup0004: -6107518783982599283
+      huggydown0003: -661819691782436173
+      huggyidle0003: 1325408300111134349
+      huggyright0006: 1899843213086708407
+      huggyleft0000: -7207723012563684124
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

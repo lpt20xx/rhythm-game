@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3516029752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e47799c58b8f4bbbf344ac87210f88b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/AssetBundles/FiveNight/Inst-slaughter.mp3
+Dependencies: []

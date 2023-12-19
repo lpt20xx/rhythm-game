@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: e527b9dbb847b495f9941e78c1f478aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3246103155424039192
+    second: whitty_asset_song3_0
+  - first:
+      213: -2018429706851524032
+    second: whitty_asset_song3_1
+  - first:
+      213: -3457707037265969560
+    second: whitty_asset_song3_2
+  - first:
+      213: -7578806749603617195
+    second: whitty_asset_song3_3
+  - first:
+      213: 2054823419188463527
+    second: whitty_asset_song3_4
+  - first:
+      213: -8865075436613334400
+    second: whitty_asset_song3_5
+  - first:
+      213: 7748951760374412849
+    second: whitty_asset_song3_6
+  - first:
+      213: 4893403260976027921
+    second: whitty_asset_song3_7
+  - first:
+      213: 1095161141588720966
+    second: whitty_asset_song3_8
+  - first:
+      213: -397292738623947017
+    second: whitty_asset_song3_9
+  - first:
+      213: -6815419944333418215
+    second: whitty_asset_song3_10
+  - first:
+      213: -1296985184962083127
+    second: whitty_asset_song3_11
+  - first:
+      213: -5444370187700980339
+    second: whitty_asset_song3_12
+  - first:
+      213: 6027568367629934013
+    second: whitty_asset_song3_13
+  - first:
+      213: -4289037387786066259
+    second: whitty_asset_song3_14
+  - first:
+      213: 4913335914522551361
+    second: whitty_asset_song3_15
+  - first:
+      213: -2844620069627448250
+    second: whitty_asset_song3_16
+  - first:
+      213: 9100322947685953281
+    second: whitty_asset_song3_17
+  - first:
+      213: 5351113283335572792
+    second: whitty_asset_song3_18
+  - first:
+      213: -1981756146437681442
+    second: whitty_asset_song3_19
+  - first:
+      213: -6803791535464042149
+    second: whitty_asset_song3_20
+  - first:
+      213: -7420464915642294794
+    second: whitty_asset_song3_21
+  - first:
+      213: 2526282056299470743
+    second: whitty_asset_song3_22
+  - first:
+      213: 1530724378071914785
+    second: whitty_asset_song3_23
+  - first:
+      213: -1201037909669645990
+    second: whitty_asset_song3_24
+  - first:
+      213: -2227857724128301608
+    second: whitty_asset_song3_25
+  - first:
+      213: 3363125830463595212
+    second: whitty_asset_song3_26
+  - first:
+      213: 9012706462277606029
+    second: whitty_asset_song3_27
+  - first:
+      213: 1816608232099809838
+    second: whitty_asset_song3_28
+  - first:
+      213: 1948171209129299499
+    second: whitty_asset_song3_29
+  - first:
+      213: -8042659599692262734
+    second: whitty_asset_song3_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: whitty_asset_song3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7454
+        width: 418
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811135b0f997c0d20800000000000000
+      internalID: 3246103155424039192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 7458
+        width: 424
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042e40f20e81df3e0800000000000000
+      internalID: -2018429706851524032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_2
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 6655
+        width: 1003
+        height: 1537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eb462f4c1c300d0800000000000000
+      internalID: -3457707037265969560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_3
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 7470
+        width: 452
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5562b8c5a6ba2d690800000000000000
+      internalID: -7578806749603617195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_4
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 7471
+        width: 428
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7c1e84303348c10800000000000000
+      internalID: 2054823419188463527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_5
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 7846
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a0f9d0cdce8f480800000000000000
+      internalID: -8865075436613334400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_6
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 7474
+        width: 424
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13631c2029ec98b60800000000000000
+      internalID: 7748951760374412849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_7
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 6502
+        width: 1174
+        height: 1690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119d639e65cd8e340800000000000000
+      internalID: 4893403260976027921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_8
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 7802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64df430814bc23f00800000000000000
+      internalID: 1095161141588720966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6718
+        width: 670
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe3a72fb588c7af0800000000000000
+      internalID: -397292738623947017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_10
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 6614
+        width: 776
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911e4e69ba3ca61a0800000000000000
+      internalID: -6815419944333418215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_11
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 6522
+        width: 732
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6046398de200ee0800000000000000
+      internalID: -1296985184962083127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5558
+        width: 730
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d853b58e826b174b0800000000000000
+      internalID: -5444370187700980339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_13
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 5662
+        width: 876
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd96f3be7936a350800000000000000
+      internalID: 6027568367629934013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_14
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 5750
+        width: 232
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da664a858374a74c0800000000000000
+      internalID: -4289037387786066259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_15
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 5750
+        width: 684
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14429477bfcaf2440800000000000000
+      internalID: 4913335914522551361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_16
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 5702
+        width: 296
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b8ec3e11e588d0800000000000000
+      internalID: -2844620069627448250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_17
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 5730
+        width: 1150
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f282e5187da4e70800000000000000
+      internalID: 9100322947685953281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4914
+        width: 94
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d47160e29f24a40800000000000000
+      internalID: 5351113283335572792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_19
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 4774
+        width: 704
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede822cd8436f74e0800000000000000
+      internalID: -1981756146437681442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_20
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 4774
+        width: 704
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b513bd285a31491a0800000000000000
+      internalID: -6803791535464042149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_21
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 4774
+        width: 724
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd54ea7976350990800000000000000
+      internalID: -7420464915642294794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_22
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 4056
+        width: 1894
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f5c2835282f0320800000000000000
+      internalID: 2526282056299470743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_23
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 4770
+        width: 724
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129d10436b93e3510800000000000000
+      internalID: 1530724378071914785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4031
+        width: 774
+        height: 747
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51fc50726e055fe0800000000000000
+      internalID: -1201037909669645990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_25
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 4056
+        width: 728
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dde83f143f0511e0800000000000000
+      internalID: -2227857724128301608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_26
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 4054
+        width: 724
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc229bbcf193cae20800000000000000
+      internalID: 3363125830463595212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3430
+        width: 2694
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a9ceca6c0931d70800000000000000
+      internalID: 9012706462277606029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_28
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 3358
+        width: 659
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a0c52ff83e53910800000000000000
+      internalID: 1816608232099809838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_29
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 3010
+        width: 762
+        height: 1028
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e8bc1946b490b10800000000000000
+      internalID: 1948171209129299499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitty_asset_song3_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4096
+        height: 3338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b215f6b4bbb26090800000000000000
+      internalID: -8042659599692262734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      whitty_asset_song3_7: 4893403260976027921
+      whitty_asset_song3_28: 1816608232099809838
+      whitty_asset_song3_27: 9012706462277606029
+      whitty_asset_song3_13: 6027568367629934013
+      whitty_asset_song3_3: -7578806749603617195
+      whitty_asset_song3_18: 5351113283335572792
+      whitty_asset_song3_21: -7420464915642294794
+      whitty_asset_song3_9: -397292738623947017
+      whitty_asset_song3_25: -2227857724128301608
+      whitty_asset_song3_16: -2844620069627448250
+      whitty_asset_song3_5: -8865075436613334400
+      whitty_asset_song3_10: -6815419944333418215
+      whitty_asset_song3_22: 2526282056299470743
+      whitty_asset_song3_6: 7748951760374412849
+      whitty_asset_song3_8: 1095161141588720966
+      whitty_asset_song3_11: -1296985184962083127
+      whitty_asset_song3_12: -5444370187700980339
+      whitty_asset_song3_17: 9100322947685953281
+      whitty_asset_song3_19: -1981756146437681442
+      whitty_asset_song3_2: -3457707037265969560
+      whitty_asset_song3_1: -2018429706851524032
+      whitty_asset_song3_4: 2054823419188463527
+      whitty_asset_song3_15: 4913335914522551361
+      whitty_asset_song3_23: 1530724378071914785
+      whitty_asset_song3_29: 1948171209129299499
+      whitty_asset_song3_14: -4289037387786066259
+      whitty_asset_song3_26: 3363125830463595212
+      whitty_asset_song3_30: -8042659599692262734
+      whitty_asset_song3_0: 3246103155424039192
+      whitty_asset_song3_24: -1201037909669645990
+      whitty_asset_song3_20: -6803791535464042149
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

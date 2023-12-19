@@ -1,0 +1,3897 @@
+fileFormatVersion: 2
+guid: 56bc893a376a845939eebee2d6064dc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8151130378492462137
+    second: NikusaUp0000
+  - first:
+      213: -5721490901493584454
+    second: NikusaUp0001
+  - first:
+      213: 8226359386089468227
+    second: NikusaUp0002
+  - first:
+      213: -4722443476339986833
+    second: NikusaUp0003
+  - first:
+      213: 3982397056628629610
+    second: NikusaUp0004
+  - first:
+      213: -8789577681005532897
+    second: NikusaUp0005
+  - first:
+      213: -5280653908166125408
+    second: NikusaUp0006
+  - first:
+      213: -7764540013314285504
+    second: NikusaUp0007
+  - first:
+      213: -8378081453224216316
+    second: NikusaUp0008
+  - first:
+      213: 76641151082815235
+    second: NikusaUp0009
+  - first:
+      213: 5816657132443134448
+    second: NikusaUp0010
+  - first:
+      213: 1773965751295162471
+    second: NikusaUp0011
+  - first:
+      213: -7642203892005510857
+    second: NikusaUp0012
+  - first:
+      213: 611169350147002338
+    second: NikusaUp0013
+  - first:
+      213: 7120482610275104175
+    second: NikusaUp0014
+  - first:
+      213: 1366799820975009802
+    second: NikusaUp0015
+  - first:
+      213: -1249989029468580054
+    second: NikusaUp0016
+  - first:
+      213: -1175637374569185535
+    second: NikusaUp0017
+  - first:
+      213: -7391900990243077411
+    second: NikusaUp0018
+  - first:
+      213: 3971264545747898022
+    second: NikusaUp0019
+  - first:
+      213: 4165917208407672076
+    second: NikusaUp0020
+  - first:
+      213: -7607232497702457726
+    second: NikusaUp0021
+  - first:
+      213: 7753968293477878301
+    second: NikusaUp0022
+  - first:
+      213: -1916185976420791599
+    second: NikusaUp0023
+  - first:
+      213: 6952154857590238131
+    second: NikusaUp0024
+  - first:
+      213: -9190492815435882416
+    second: NikusaUp0025
+  - first:
+      213: 4004410469825867949
+    second: NikusaUp0026
+  - first:
+      213: -8899228468571529522
+    second: NikusaUp0027
+  - first:
+      213: -3864012236779520438
+    second: NikusaUp0028
+  - first:
+      213: -3518732558032666848
+    second: NikusaUp0029
+  - first:
+      213: 402989032359001792
+    second: Nikusa_Down0000
+  - first:
+      213: -4889340729092766222
+    second: Nikusa_Down0001
+  - first:
+      213: -8146110649275308350
+    second: Nikusa_Down0002
+  - first:
+      213: -6856775762775468328
+    second: Nikusa_Down0003
+  - first:
+      213: 7615194574560642480
+    second: Nikusa_Down0004
+  - first:
+      213: -7584141578047332078
+    second: Nikusa_Down0005
+  - first:
+      213: -6261750887387728076
+    second: Nikusa_Down0006
+  - first:
+      213: 1982884952117060153
+    second: Nikusa_Down0007
+  - first:
+      213: -431032115276618963
+    second: Nikusa_Down0008
+  - first:
+      213: -634828129699729103
+    second: Nikusa_Down0009
+  - first:
+      213: 817286608715403341
+    second: Nikusa_Down0010
+  - first:
+      213: 6680324097618822588
+    second: Nikusa_Down0011
+  - first:
+      213: 167970697428469499
+    second: Nikusa_Down0012
+  - first:
+      213: -4435255981549438305
+    second: Nikusa_Down0013
+  - first:
+      213: 3165354632569522913
+    second: Nikusa_Down0014
+  - first:
+      213: 3496842963963750256
+    second: Nikusa_Down0015
+  - first:
+      213: 4134888767220201476
+    second: Nikusa_Down0016
+  - first:
+      213: 8816142881141460672
+    second: Nikusa_Down0017
+  - first:
+      213: 8172917233528748127
+    second: Nikusa_Down0018
+  - first:
+      213: -7488476009113878807
+    second: Nikusa_Down0019
+  - first:
+      213: 3487784208321857593
+    second: Nikusa_Down0020
+  - first:
+      213: -8772033042786466909
+    second: Nikusa_Down0021
+  - first:
+      213: -4170618235179973538
+    second: Nikusa_Down0022
+  - first:
+      213: 3349638718636523523
+    second: Nikusa_Down0023
+  - first:
+      213: -5205943236271564772
+    second: Nikusa_Down0024
+  - first:
+      213: 5429164138274721752
+    second: Nikusa_Down0025
+  - first:
+      213: -1879429745225976999
+    second: Nikusa_Down0026
+  - first:
+      213: -345052590313037622
+    second: Nikusa_Down0027
+  - first:
+      213: -4027070124763215689
+    second: Nikusa_Down0028
+  - first:
+      213: 8210284940774037463
+    second: Nikusa_Down0029
+  - first:
+      213: 6332750493295257208
+    second: Nikusa_Idle0000
+  - first:
+      213: -1135466707668679989
+    second: Nikusa_Idle0001
+  - first:
+      213: -8647303126071802678
+    second: Nikusa_Idle0002
+  - first:
+      213: 3410935111530534186
+    second: Nikusa_Idle0003
+  - first:
+      213: -3457665986577414390
+    second: Nikusa_Idle0004
+  - first:
+      213: 7857901789501282775
+    second: Nikusa_Idle0005
+  - first:
+      213: 1805421520560422588
+    second: Nikusa_Idle0006
+  - first:
+      213: -3539001269253096102
+    second: Nikusa_Idle0007
+  - first:
+      213: 8397500415857996672
+    second: Nikusa_Idle0008
+  - first:
+      213: -4453897186077453769
+    second: Nikusa_Idle0009
+  - first:
+      213: 8350744691876432066
+    second: Nikusa_Idle0010
+  - first:
+      213: 3666773608876590329
+    second: Nikusa_Idle0011
+  - first:
+      213: 5897143593780190224
+    second: Nikusa_Idle0012
+  - first:
+      213: 594824981004263289
+    second: Nikusa_Idle0013
+  - first:
+      213: -5691472865630737687
+    second: Nikusa_Idle0014
+  - first:
+      213: 4440194846603360153
+    second: Nikusa_Idle0015
+  - first:
+      213: 7805021325466471367
+    second: Nikusa_Idle0016
+  - first:
+      213: 7236926603777808218
+    second: Nikusa_Idle0017
+  - first:
+      213: 1705643378569349274
+    second: Nikusa_Idle0018
+  - first:
+      213: -1967693189124925081
+    second: Nikusa_Idle0019
+  - first:
+      213: -5584701253840851380
+    second: Nikusa_Idle0020
+  - first:
+      213: 1820915349961633994
+    second: Nikusa_Idle0021
+  - first:
+      213: -2949721579385991379
+    second: Nikusa_Idle0022
+  - first:
+      213: -3963702896478495681
+    second: Nikusa_Idle0023
+  - first:
+      213: -2191967314911663913
+    second: Nikusa_Idle0024
+  - first:
+      213: -8186732005090792373
+    second: Nikusa_Idle0025
+  - first:
+      213: -2191753473522018068
+    second: Nikusa_Idle0026
+  - first:
+      213: -745736639570006800
+    second: Nikusa_Idle0027
+  - first:
+      213: -2898412794336650240
+    second: Nikusa_Idle0028
+  - first:
+      213: 6891593288261932212
+    second: Nikusa_Idle0029
+  - first:
+      213: 3185996958830596212
+    second: Nikusa_Left0000
+  - first:
+      213: 8307421419049985960
+    second: Nikusa_Left0001
+  - first:
+      213: 7974234566463006192
+    second: Nikusa_Left0002
+  - first:
+      213: 6390061101256793072
+    second: Nikusa_Left0003
+  - first:
+      213: -7779116348411034139
+    second: Nikusa_Left0004
+  - first:
+      213: -2596327586807784198
+    second: Nikusa_Left0005
+  - first:
+      213: 7437982759143965539
+    second: Nikusa_Left0006
+  - first:
+      213: -3180458067274066339
+    second: Nikusa_Left0007
+  - first:
+      213: 7238083158653368081
+    second: Nikusa_Left0008
+  - first:
+      213: 8682984436275518066
+    second: Nikusa_Left0009
+  - first:
+      213: -2479426094184108291
+    second: Nikusa_Left0010
+  - first:
+      213: -1261371879685058268
+    second: Nikusa_Left0011
+  - first:
+      213: -5293490953822906884
+    second: Nikusa_Left0012
+  - first:
+      213: 2594537503517666582
+    second: Nikusa_Left0013
+  - first:
+      213: 2979121843765594536
+    second: Nikusa_Left0014
+  - first:
+      213: -7460148367548242954
+    second: Nikusa_Left0015
+  - first:
+      213: -3004131353410445790
+    second: Nikusa_Left0016
+  - first:
+      213: -7924185593786720256
+    second: Nikusa_Left0017
+  - first:
+      213: -2548041581142832806
+    second: Nikusa_Left0018
+  - first:
+      213: 5734259452564187374
+    second: Nikusa_Left0019
+  - first:
+      213: 5635462335644407412
+    second: Nikusa_Left0020
+  - first:
+      213: 2137972142967061377
+    second: Nikusa_Left0021
+  - first:
+      213: 5085569861397599304
+    second: Nikusa_Left0022
+  - first:
+      213: 1101077595631451663
+    second: Nikusa_Left0023
+  - first:
+      213: 4606189814117135022
+    second: Nikusa_Left0024
+  - first:
+      213: 2622469771416856792
+    second: Nikusa_Left0025
+  - first:
+      213: -7261135921751969725
+    second: Nikusa_Left0026
+  - first:
+      213: 12089172818870391
+    second: Nikusa_Left0027
+  - first:
+      213: 5555130645752418766
+    second: Nikusa_Left0028
+  - first:
+      213: -198191968507081457
+    second: Nikusa_Left0029
+  - first:
+      213: 4602780966510260071
+    second: Nikusa_Right0000
+  - first:
+      213: 3212656605962378831
+    second: Nikusa_Right0001
+  - first:
+      213: 4489346391651509129
+    second: Nikusa_Right0002
+  - first:
+      213: -3673260985571053349
+    second: Nikusa_Right0003
+  - first:
+      213: -4672211708472036822
+    second: Nikusa_Right0004
+  - first:
+      213: -9109463870736102739
+    second: Nikusa_Right0005
+  - first:
+      213: 1806387664649197414
+    second: Nikusa_Right0006
+  - first:
+      213: -2033398383390879721
+    second: Nikusa_Right0007
+  - first:
+      213: -3052506910889851952
+    second: Nikusa_Right0008
+  - first:
+      213: 2708319618226561140
+    second: Nikusa_Right0009
+  - first:
+      213: 4198458714974780620
+    second: Nikusa_Right0010
+  - first:
+      213: 2450376387988325474
+    second: Nikusa_Right0011
+  - first:
+      213: 2493675381253116256
+    second: Nikusa_Right0012
+  - first:
+      213: 7546627772394367118
+    second: Nikusa_Right0013
+  - first:
+      213: -6934120528884791984
+    second: Nikusa_Right0014
+  - first:
+      213: -59779848177933020
+    second: Nikusa_Right0015
+  - first:
+      213: 4130313846295701979
+    second: Nikusa_Right0016
+  - first:
+      213: 4659510661638042835
+    second: Nikusa_Right0017
+  - first:
+      213: 7500447043252027384
+    second: Nikusa_Right0018
+  - first:
+      213: -1291988248255898898
+    second: Nikusa_Right0019
+  - first:
+      213: -3192144759180066183
+    second: Nikusa_Right0020
+  - first:
+      213: -356385378264889648
+    second: Nikusa_Right0021
+  - first:
+      213: 4242231654819356718
+    second: Nikusa_Right0022
+  - first:
+      213: -2342334583404295559
+    second: Nikusa_Right0023
+  - first:
+      213: -4302608625570204544
+    second: Nikusa_Right0024
+  - first:
+      213: 1215178793747811621
+    second: Nikusa_Right0025
+  - first:
+      213: 5036781285193645264
+    second: Nikusa_Right0026
+  - first:
+      213: -2992676278389622212
+    second: Nikusa_Right0027
+  - first:
+      213: 3517817935463941190
+    second: Nikusa_Right0028
+  - first:
+      213: 2960824390312490535
+    second: Nikusa_Right0029
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 270
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NikusaUp0000
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbbf087b1e51ee80800000000000000
+      internalID: -8151130378492462137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0001
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd68deb65e2990b0800000000000000
+      internalID: -5721490901493584454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0002
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341309ac646e92270800000000000000
+      internalID: 8226359386089468227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0003
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ee4e8cda2867eb0800000000000000
+      internalID: -4722443476339986833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0004
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6029eaf501544730800000000000000
+      internalID: 3982397056628629610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0005
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19a6f51ba5250680800000000000000
+      internalID: -8789577681005532897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0006
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8daf5af3957b6b0800000000000000
+      internalID: -5280653908166125408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0007
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04068160fffce3490800000000000000
+      internalID: -7764540013314285504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0008
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4093849ae431bbb80800000000000000
+      internalID: -8378081453224216316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0009
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fd77988b8401100800000000000000
+      internalID: 76641151082815235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0010
+      rect:
+        serializedVersion: 2
+        x: 3860
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9e38f08dae8b050800000000000000
+      internalID: 5816657132443134448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0011
+      rect:
+        serializedVersion: 2
+        x: 4630
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76838a1b3746e9810800000000000000
+      internalID: 1773965751295162471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0012
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73167e3ec0071f590800000000000000
+      internalID: -7642203892005510857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0013
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef4e1d294f4b7800800000000000000
+      internalID: 611169350147002338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0014
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa53bc6453901d260800000000000000
+      internalID: 7120482610275104175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0015
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0078401239d7f210800000000000000
+      internalID: 1366799820975009802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0016
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27d365b99527aee0800000000000000
+      internalID: -1249989029468580054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0017
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f7120690c4fafe0800000000000000
+      internalID: -1175637374569185535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0018
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd204bd9631ba6990800000000000000
+      internalID: -7391900990243077411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0019
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae086e4014cc1730800000000000000
+      internalID: 3971264545747898022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0020
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0583da01af40d930800000000000000
+      internalID: 4165917208407672076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0021
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e23a2295ead6690800000000000000
+      internalID: -7607232497702457726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0022
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a0464a411ab9b60800000000000000
+      internalID: 7753968293477878301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0023
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da8adfb1075865e0800000000000000
+      internalID: -1916185976420791599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0024
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb2c2642040b7060800000000000000
+      internalID: 6952154857590238131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0025
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0502a294a7fc47080800000000000000
+      internalID: -9190492815435882416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0026
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da073d42b16829730800000000000000
+      internalID: 4004410469825867949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0027
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece10c3abd69f7480800000000000000
+      internalID: -8899228468571529522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0028
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e7ef2d755406ac0800000000000000
+      internalID: -3864012236779520438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NikusaUp0029
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5642
+        width: 760
+        height: 1348
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f7cdaa163fa2fc0800000000000000
+      internalID: -3518732558032666848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0000
+      rect:
+        serializedVersion: 2
+        x: 6170
+        y: 5698
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cef22ac364b79500800000000000000
+      internalID: 402989032359001792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0001
+      rect:
+        serializedVersion: 2
+        x: 6170
+        y: 5698
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f583900382952cb0800000000000000
+      internalID: -4889340729092766222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0002
+      rect:
+        serializedVersion: 2
+        x: 6959
+        y: 5698
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c62be0468333fe80800000000000000
+      internalID: -8146110649275308350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0003
+      rect:
+        serializedVersion: 2
+        x: 6959
+        y: 5698
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d69243c5c6d7d0a0800000000000000
+      internalID: -6856775762775468328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0004
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b54b285e1b9ea960800000000000000
+      internalID: 7615194574560642480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0005
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211e732da67bfb690800000000000000
+      internalID: -7584141578047332078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0006
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437744d7ebac919a0800000000000000
+      internalID: -6261750887387728076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0007
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932a761bb5f948b10800000000000000
+      internalID: 1982884952117060153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0008
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23e62a239aa40af0800000000000000
+      internalID: -431032115276618963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0009
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13172d3fd23a037f0800000000000000
+      internalID: -634828129699729103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0010
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d405a2827d5975b00800000000000000
+      internalID: 817286608715403341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0011
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb54d077f5745bc50800000000000000
+      internalID: 6680324097618822588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0012
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf606e89570c45200800000000000000
+      internalID: 167970697428469499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0013
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ab1db0f2ec272c0800000000000000
+      internalID: -4435255981549438305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0014
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea817e74499deb20800000000000000
+      internalID: 3165354632569522913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0015
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077226e0628478030800000000000000
+      internalID: 3496842963963750256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0016
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408b9eb1d63126930800000000000000
+      internalID: 4134888767220201476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0017
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce868f8d3b395a70800000000000000
+      internalID: 8816142881141460672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0018
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5836230ce80c6170800000000000000
+      internalID: 8172917233528748127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0019
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee7bbfceb6931890800000000000000
+      internalID: -7488476009113878807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0020
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938cd362249176030800000000000000
+      internalID: 3487784208321857593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0021
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a349be7c6a734680800000000000000
+      internalID: -8772033042786466909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0022
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54c45edfccfe16c0800000000000000
+      internalID: -4170618235179973538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0023
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300893edaae4c7e20800000000000000
+      internalID: 3349638718636523523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0024
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c189f297536c0c7b0800000000000000
+      internalID: -5205943236271564772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0025
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df8721d404485b40800000000000000
+      internalID: 5429164138274721752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0026
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953b087ba9ceae5e0800000000000000
+      internalID: -1879429745225976999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0027
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0209d4f70263bf0800000000000000
+      internalID: -345052590313037622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0028
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b886efce09fc18c0800000000000000
+      internalID: -4027070124763215689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Down0029
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4340
+        width: 779
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7539757aac0f170800000000000000
+      internalID: 8210284940774037463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0000
+      rect:
+        serializedVersion: 2
+        x: 3955
+        y: 4312
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8762b04750372e750800000000000000
+      internalID: 6332750493295257208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0001
+      rect:
+        serializedVersion: 2
+        x: 4768
+        y: 4312
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2402b9b030e30f0800000000000000
+      internalID: -1135466707668679989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0002
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 4312
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac48d594f9b9ef780800000000000000
+      internalID: -8647303126071802678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0003
+      rect:
+        serializedVersion: 2
+        x: 6394
+        y: 4312
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a255faa7963165f20800000000000000
+      internalID: 3410935111530534186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0004
+      rect:
+        serializedVersion: 2
+        x: 7207
+        y: 4312
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a074a1eca17e300d0800000000000000
+      internalID: -3457665986577414390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0005
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9512b6b00ec0d60800000000000000
+      internalID: 7857901789501282775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0006
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe79d2be452e0910800000000000000
+      internalID: 1805421520560422588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0007
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d33869811f2eec0800000000000000
+      internalID: -3539001269253096102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0008
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0833968e22ae98470800000000000000
+      internalID: 8397500415857996672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0009
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732ddb56b149032c0800000000000000
+      internalID: -4453897186077453769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0010
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c806499d0ec3e370800000000000000
+      internalID: 8350744691876432066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0011
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4cddc7b2ff2e230800000000000000
+      internalID: 3666773608876590329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0012
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c1db8aadcd6d150800000000000000
+      internalID: 5897143593780190224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0013
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f99403b2e314800800000000000000
+      internalID: 594824981004263289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0014
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea2e4b5593d301b0800000000000000
+      internalID: -5691472865630737687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0015
+      rect:
+        serializedVersion: 2
+        x: 4075
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997305510bdbe9d30800000000000000
+      internalID: 4440194846603360153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0016
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb07c0fa81015c60800000000000000
+      internalID: 7805021325466471367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0017
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5710cb376abe6460800000000000000
+      internalID: 7236926603777808218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0018
+      rect:
+        serializedVersion: 2
+        x: 5701
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a988f1dad99aba710800000000000000
+      internalID: 1705643378569349274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0019
+      rect:
+        serializedVersion: 2
+        x: 5701
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769d043487951b4e0800000000000000
+      internalID: -1967693189124925081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0020
+      rect:
+        serializedVersion: 2
+        x: 6514
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e23247cc72f72b0800000000000000
+      internalID: -5584701253840851380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0021
+      rect:
+        serializedVersion: 2
+        x: 6514
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0f488fcd0354910800000000000000
+      internalID: 1820915349961633994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0022
+      rect:
+        serializedVersion: 2
+        x: 7327
+        y: 2982
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fc4621adb7017d0800000000000000
+      internalID: -2949721579385991379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0023
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1652
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c563c57391ef8c0800000000000000
+      internalID: -3963702896478495681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0024
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1652
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d86c6337519491e0800000000000000
+      internalID: -2191967314911663913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0025
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1652
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ced35dd92e26e80800000000000000
+      internalID: -8186732005090792373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0026
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1652
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8dd7704d35591e0800000000000000
+      internalID: -2191753473522018068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0027
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1652
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcaf663a7c96a5f0800000000000000
+      internalID: -745736639570006800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0028
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1652
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cdd158be4c6c7d0800000000000000
+      internalID: -2898412794336650240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Idle0029
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1652
+        width: 803
+        height: 1320
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4915b159bd3af50800000000000000
+      internalID: 6891593288261932212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0000
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470929a9a5fe63c20800000000000000
+      internalID: 3185996958830596212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0001
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a722f914c3e94370800000000000000
+      internalID: 8307421419049985960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0002
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f52ba1c61c2aae60800000000000000
+      internalID: 7974234566463006192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0003
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbd37137be0ea850800000000000000
+      internalID: 6390061101256793072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0004
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5c68a85e60b0490800000000000000
+      internalID: -7779116348411034139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0005
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc56c3d0ddf7fbd0800000000000000
+      internalID: -2596327586807784198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0006
+      rect:
+        serializedVersion: 2
+        x: 4666
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363814c49e5093760800000000000000
+      internalID: 7437982759143965539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0007
+      rect:
+        serializedVersion: 2
+        x: 4666
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d569a151d3ebcd3d0800000000000000
+      internalID: -3180458067274066339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0008
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1177546a846d27460800000000000000
+      internalID: 7238083158653368081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0009
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a92722758208870800000000000000
+      internalID: 8682984436275518066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0010
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe62599a1f479dd0800000000000000
+      internalID: -2479426094184108291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0011
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42194bd55f4be7ee0800000000000000
+      internalID: -1261371879685058268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0012
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf554ab060eb986b0800000000000000
+      internalID: -5293490953822906884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0013
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d699dec16a10420800000000000000
+      internalID: 2594537503517666582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0014
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a941486887f75920800000000000000
+      internalID: 2979121843765594536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0015
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3a394d59a387890800000000000000
+      internalID: -7460148367548242954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0016
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e5b5d537e2f46d0800000000000000
+      internalID: -3004131353410445790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0017
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0002314cf23a70290800000000000000
+      internalID: -7924185593786720256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0018
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a598e0b9ea983acd0800000000000000
+      internalID: -2548041581142832806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0019
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8a308379e249f40800000000000000
+      internalID: 5734259452564187374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0020
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4769d25e22f253e40800000000000000
+      internalID: 5635462335644407412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0021
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b7b39265a9bad10800000000000000
+      internalID: 2137972142967061377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0022
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844590d28d2939640800000000000000
+      internalID: 5085569861397599304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0023
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ef0cd4d30d74f00800000000000000
+      internalID: 1101077595631451663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0024
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea279763b397cef30800000000000000
+      internalID: 4606189814117135022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0025
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d86087dc52e46420800000000000000
+      internalID: 2622469771416856792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0026
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340352ea9534b3b90800000000000000
+      internalID: -7261135921751969725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0027
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7704f73e903fa2000800000000000000
+      internalID: 12089172818870391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0028
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec195f4d3e9c71d40800000000000000
+      internalID: 5555130645752418766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Left0029
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1673
+        width: 729
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dccc76471ef3df0800000000000000
+      internalID: -198191968507081457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0000
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 1637
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fe5c707ec50ef30800000000000000
+      internalID: 4602780966510260071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0001
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 1637
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e13b76926a59c20800000000000000
+      internalID: 3212656605962378831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0002
+      rect:
+        serializedVersion: 2
+        x: 6988
+        y: 1637
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983e114f1cc5d4e30800000000000000
+      internalID: 4489346391651509129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0003
+      rect:
+        serializedVersion: 2
+        x: 6988
+        y: 1637
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd07cbb6894f50dc0800000000000000
+      internalID: -3673260985571053349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0004
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a227a11a438f82fb0800000000000000
+      internalID: -4672211708472036822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0005
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa0582afdea49180800000000000000
+      internalID: -9109463870736102739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0006
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6671016a204911910800000000000000
+      internalID: 1806387664649197414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0007
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710122791fae7c3e0800000000000000
+      internalID: -2033398383390879721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0008
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d34cfd232153a5d0800000000000000
+      internalID: -3052506910889851952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0009
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470ad9ee752e59520800000000000000
+      internalID: 2708319618226561140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0010
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccf636f4fbe34a30800000000000000
+      internalID: 4198458714974780620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0011
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2648c0c975c710220800000000000000
+      internalID: 2450376387988325474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0012
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0619ab41c805b9220800000000000000
+      internalID: 2493675381253116256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0013
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88e9a9a9f10bb860800000000000000
+      internalID: 7546627772394367118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0014
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05504161e1e05cf90800000000000000
+      internalID: -6934120528884791984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0015
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425a0a87b8e9b2ff0800000000000000
+      internalID: -59779848177933020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0016
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd925535f82d15930800000000000000
+      internalID: 4130313846295701979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0017
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4b4167248e9a040800000000000000
+      internalID: 4659510661638042835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0018
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff7aa5c8d0f61860800000000000000
+      internalID: 7500447043252027384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0019
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea5ab0988fe11ee0800000000000000
+      internalID: -1291988248255898898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0020
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9728275114933b3d0800000000000000
+      internalID: -3192144759180066183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0021
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6c06df26ddd0bf0800000000000000
+      internalID: -356385378264889648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0022
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20ec68b63f6fda30800000000000000
+      internalID: 4242231654819356718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0023
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a031b4b1b5e7fd0800000000000000
+      internalID: -2342334583404295559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0024
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0843b5150401a44c0800000000000000
+      internalID: -4302608625570204544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0025
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d0de3bcae2dd010800000000000000
+      internalID: 1215178793747811621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0026
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc7d4394ed36e540800000000000000
+      internalID: 5036781285193645264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0027
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a39dad7c0e776d0800000000000000
+      internalID: -2992676278389622212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0028
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64483db26ccc1d030800000000000000
+      internalID: 3517817935463941190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nikusa_Right0029
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 292
+        width: 834
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72673ea8816f61920800000000000000
+      internalID: 2960824390312490535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NikusaUp0023: -1916185976420791599
+      NikusaUp0012: -7642203892005510857
+      Nikusa_Down0003: -6856775762775468328
+      Nikusa_Right0019: -1291988248255898898
+      Nikusa_Down0000: 402989032359001792
+      Nikusa_Down0015: 3496842963963750256
+      Nikusa_Down0023: 3349638718636523523
+      Nikusa_Down0026: -1879429745225976999
+      Nikusa_Idle0015: 4440194846603360153
+      Nikusa_Idle0027: -745736639570006800
+      Nikusa_Left0018: -2548041581142832806
+      Nikusa_Down0004: 7615194574560642480
+      Nikusa_Left0026: -7261135921751969725
+      Nikusa_Left0020: 5635462335644407412
+      Nikusa_Right0004: -4672211708472036822
+      Nikusa_Right0013: 7546627772394367118
+      Nikusa_Right0015: -59779848177933020
+      NikusaUp0003: -4722443476339986833
+      NikusaUp0025: -9190492815435882416
+      Nikusa_Left0007: -3180458067274066339
+      Nikusa_Right0018: 7500447043252027384
+      Nikusa_Right0026: 5036781285193645264
+      Nikusa_Right0023: -2342334583404295559
+      Nikusa_Down0005: -7584141578047332078
+      Nikusa_Down0024: -5205943236271564772
+      Nikusa_Down0025: 5429164138274721752
+      NikusaUp0028: -3864012236779520438
+      Nikusa_Idle0003: 3410935111530534186
+      Nikusa_Idle0022: -2949721579385991379
+      Nikusa_Left0013: 2594537503517666582
+      Nikusa_Left0002: 7974234566463006192
+      Nikusa_Right0001: 3212656605962378831
+      Nikusa_Right0025: 1215178793747811621
+      Nikusa_Left0022: 5085569861397599304
+      NikusaUp0010: 5816657132443134448
+      Nikusa_Down0027: -345052590313037622
+      NikusaUp0015: 1366799820975009802
+      Nikusa_Right0021: -356385378264889648
+      Nikusa_Idle0025: -8186732005090792373
+      NikusaUp0029: -3518732558032666848
+      NikusaUp0009: 76641151082815235
+      Nikusa_Idle0017: 7236926603777808218
+      Nikusa_Idle0005: 7857901789501282775
+      Nikusa_Left0019: 5734259452564187374
+      Nikusa_Left0012: -5293490953822906884
+      Nikusa_Left0024: 4606189814117135022
+      Nikusa_Left0021: 2137972142967061377
+      Nikusa_Idle0006: 1805421520560422588
+      NikusaUp0001: -5721490901493584454
+      Nikusa_Right0011: 2450376387988325474
+      Nikusa_Idle0008: 8397500415857996672
+      Nikusa_Idle0024: -2191967314911663913
+      Nikusa_Left0015: -7460148367548242954
+      NikusaUp0017: -1175637374569185535
+      Nikusa_Right0002: 4489346391651509129
+      NikusaUp0019: 3971264545747898022
+      Nikusa_Down0018: 8172917233528748127
+      Nikusa_Idle0012: 5897143593780190224
+      Nikusa_Left0016: -3004131353410445790
+      NikusaUp0014: 7120482610275104175
+      Nikusa_Right0003: -3673260985571053349
+      Nikusa_Left0003: 6390061101256793072
+      Nikusa_Left0011: -1261371879685058268
+      Nikusa_Down0022: -4170618235179973538
+      Nikusa_Idle0014: -5691472865630737687
+      NikusaUp0018: -7391900990243077411
+      Nikusa_Left0001: 8307421419049985960
+      NikusaUp0004: 3982397056628629610
+      Nikusa_Right0005: -9109463870736102739
+      Nikusa_Idle0000: 6332750493295257208
+      NikusaUp0008: -8378081453224216316
+      Nikusa_Down0017: 8816142881141460672
+      Nikusa_Right0024: -4302608625570204544
+      Nikusa_Idle0011: 3666773608876590329
+      Nikusa_Right0027: -2992676278389622212
+      Nikusa_Left0025: 2622469771416856792
+      Nikusa_Left0004: -7779116348411034139
+      Nikusa_Right0020: -3192144759180066183
+      Nikusa_Idle0007: -3539001269253096102
+      NikusaUp0011: 1773965751295162471
+      Nikusa_Down0002: -8146110649275308350
+      Nikusa_Down0012: 167970697428469499
+      NikusaUp0007: -7764540013314285504
+      Nikusa_Down0007: 1982884952117060153
+      NikusaUp0022: 7753968293477878301
+      Nikusa_Idle0013: 594824981004263289
+      Nikusa_Left0028: 5555130645752418766
+      NikusaUp0020: 4165917208407672076
+      Nikusa_Idle0009: -4453897186077453769
+      Nikusa_Down0014: 3165354632569522913
+      Nikusa_Right0014: -6934120528884791984
+      Nikusa_Idle0018: 1705643378569349274
+      Nikusa_Down0008: -431032115276618963
+      Nikusa_Right0022: 4242231654819356718
+      Nikusa_Left0008: 7238083158653368081
+      NikusaUp0006: -5280653908166125408
+      Nikusa_Down0019: -7488476009113878807
+      Nikusa_Down0028: -4027070124763215689
+      Nikusa_Down0009: -634828129699729103
+      Nikusa_Left0023: 1101077595631451663
+      NikusaUp0026: 4004410469825867949
+      Nikusa_Down0021: -8772033042786466909
+      Nikusa_Right0000: 4602780966510260071
+      Nikusa_Left0029: -198191968507081457
+      NikusaUp0000: -8151130378492462137
+      Nikusa_Down0029: 8210284940774037463
+      Nikusa_Right0006: 1806387664649197414
+      Nikusa_Right0009: 2708319618226561140
+      Nikusa_Down0010: 817286608715403341
+      Nikusa_Right0008: -3052506910889851952
+      NikusaUp0005: -8789577681005532897
+      Nikusa_Down0006: -6261750887387728076
+      NikusaUp0013: 611169350147002338
+      Nikusa_Left0017: -7924185593786720256
+      Nikusa_Down0013: -4435255981549438305
+      Nikusa_Idle0010: 8350744691876432066
+      NikusaUp0016: -1249989029468580054
+      NikusaUp0027: -8899228468571529522
+      Nikusa_Left0006: 7437982759143965539
+      NikusaUp0021: -7607232497702457726
+      Nikusa_Idle0021: 1820915349961633994
+      Nikusa_Idle0016: 7805021325466471367
+      Nikusa_Idle0028: -2898412794336650240
+      Nikusa_Left0009: 8682984436275518066
+      Nikusa_Down0011: 6680324097618822588
+      NikusaUp0024: 6952154857590238131
+      Nikusa_Idle0004: -3457665986577414390
+      Nikusa_Right0028: 3517817935463941190
+      Nikusa_Idle0029: 6891593288261932212
+      Nikusa_Idle0023: -3963702896478495681
+      Nikusa_Left0000: 3185996958830596212
+      Nikusa_Down0016: 4134888767220201476
+      Nikusa_Down0001: -4889340729092766222
+      Nikusa_Idle0002: -8647303126071802678
+      Nikusa_Right0029: 2960824390312490535
+      NikusaUp0002: 8226359386089468227
+      Nikusa_Left0027: 12089172818870391
+      Nikusa_Idle0026: -2191753473522018068
+      Nikusa_Left0014: 2979121843765594536
+      Nikusa_Right0012: 2493675381253116256
+      Nikusa_Left0010: -2479426094184108291
+      Nikusa_Idle0019: -1967693189124925081
+      Nikusa_Right0007: -2033398383390879721
+      Nikusa_Right0010: 4198458714974780620
+      Nikusa_Idle0001: -1135466707668679989
+      Nikusa_Idle0020: -5584701253840851380
+      Nikusa_Down0020: 3487784208321857593
+      Nikusa_Right0016: 4130313846295701979
+      Nikusa_Left0005: -2596327586807784198
+      Nikusa_Right0017: 4659510661638042835
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

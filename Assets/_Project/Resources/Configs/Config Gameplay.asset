@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 535a461513365e44b9db9a4b756a28ec, type: 3}
+  m_Name: Config Gameplay
+  m_EditorClassIdentifier: 
+  data:
+  - nameMode: Default
+    gameplayWeekDatas:
+    - nameWeek: Tutorial
+      gameplaySongDatas:
+      - nameSong: Tutorial
+        spriteBG: {fileID: 21300000, guid: e34208761e8eb49e591c95be2f02be83, type: 3}
+        spriteSubBG: {fileID: 0}
+        enemyAnimator: {fileID: 9100000, guid: 188880d27ebb86a40a0f41c8e5b60283, type: 2}
+        spriteIcon: {fileID: 21300000, guid: 1b590ef888339441bb08d7f7019e3646, type: 3}
+        spriteIconLose: {fileID: 21300000, guid: 1b590ef888339441bb08d7f7019e3646, type: 3}
+        spriteCharacter: {fileID: 8431491585289067547, guid: fd793dcec0cca4ca092251184b166633, type: 3}
+        price: 200
+        localScaleBG: {x: 1, y: 1, z: 1}
+        localPositionBG: {x: 0, y: 0, z: 0}
+        localScaleSubBG: {x: 1, y: 1, z: 1}
+        localPositionSubBG: {x: 0, y: 0, z: 0}
+    - nameWeek: Week 1
+      gameplaySongDatas:
+      - nameSong: Bopeebo
+        spriteBG: {fileID: 21300000, guid: e34208761e8eb49e591c95be2f02be83, type: 3}
+        spriteSubBG: {fileID: 0}
+        enemyAnimator: {fileID: 22100000, guid: e1aba37564d6b9049ae46a63f9e4c14f, type: 2}
+        spriteIcon: {fileID: 21300000, guid: cc22c1d54ad9e452e913b85bd01ca702, type: 3}
+        spriteIconLose: {fileID: 21300000, guid: cc22c1d54ad9e452e913b85bd01ca702, type: 3}
+        spriteCharacter: {fileID: -8707701929941218994, guid: a36fca26158a44cfc8349f4800cf7f0a, type: 3}
+        price: 200
+        localScaleBG: {x: 1, y: 1, z: 1}
+        localPositionBG: {x: 0, y: 0, z: 0}
+        localScaleSubBG: {x: 1, y: 1, z: 1}
+        localPositionSubBG: {x: 0, y: 0, z: 0}
+      - nameSong: Fresh
+        spriteBG: {fileID: 21300000, guid: e34208761e8eb49e591c95be2f02be83, type: 3}
+        spriteSubBG: {fileID: 0}
+        enemyAnimator: {fileID: 22100000, guid: e1aba37564d6b9049ae46a63f9e4c14f, type: 2}
+        spriteIcon: {fileID: 21300000, guid: cc22c1d54ad9e452e913b85bd01ca702, type: 3}
+        spriteIconLose: {fileID: 21300000, guid: cc22c1d54ad9e452e913b85bd01ca702, type: 3}
+        spriteCharacter: {fileID: -8707701929941218994, guid: a36fca26158a44cfc8349f4800cf7f0a, type: 3}
+        price: 200
+        localScaleBG: {x: 1, y: 1, z: 1}
+        localPositionBG: {x: 0, y: 0, z: 0}
+        localScaleSubBG: {x: 1, y: 1, z: 1}
+        localPositionSubBG: {x: 0, y: 0, z: 0}
+      - nameSong: Dadbattle
+        spriteBG: {fileID: 21300000, guid: e34208761e8eb49e591c95be2f02be83, type: 3}
+        spriteSubBG: {fileID: 0}
+        enemyAnimator: {fileID: 22100000, guid: e1aba37564d6b9049ae46a63f9e4c14f, type: 2}
+        spriteIcon: {fileID: 21300000, guid: cc22c1d54ad9e452e913b85bd01ca702, type: 3}
+        spriteIconLose: {fileID: 21300000, guid: cc22c1d54ad9e452e913b85bd01ca702, type: 3}
+        spriteCharacter: {fileID: -8707701929941218994, guid: a36fca26158a44cfc8349f4800cf7f0a, type: 3}
+        price: 200
+        localScaleBG: {x: 1, y: 1, z: 1}
+        localPositionBG: {x: 0, y: 0, z: 0}
+        localScaleSubBG: {x: 1, y: 1, z: 1}
+        localPositionSubBG: {x: 0, y: 0, z: 0}

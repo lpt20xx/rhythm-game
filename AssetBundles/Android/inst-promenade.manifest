@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3942555418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d0480f6f62b3abd1fc5d6c70a3cada1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/AssetBundles/Entity/Inst-promenade.mp3
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2153960990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c8ae421afcf5273850e85449f718073
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/AssetBundles/Tricky/Inst-hellclown.mp3
+Dependencies: []

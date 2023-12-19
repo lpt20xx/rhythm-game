@@ -1,0 +1,1847 @@
+fileFormatVersion: 2
+guid: 6d0456022ff2b4f3fbd551f43aaf58a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4760352286153230968
+    second: KissyDown0000
+  - first:
+      213: 3843359122992691170
+    second: KissyDown0001
+  - first:
+      213: 4902773329336490062
+    second: KissyDown0002
+  - first:
+      213: 183941757823021920
+    second: KissyDown0003
+  - first:
+      213: -8601620125856846847
+    second: KissyDown0004
+  - first:
+      213: -3216375969034293539
+    second: KissyDown0005
+  - first:
+      213: 1328748892802457009
+    second: KissyDown0006
+  - first:
+      213: 528068375340394543
+    second: KissyDown0007
+  - first:
+      213: 4558491723667244495
+    second: KissyDown0008
+  - first:
+      213: 7139422549860726198
+    second: KissyDown0009
+  - first:
+      213: 8972002867994227383
+    second: KissyDown0010
+  - first:
+      213: -5403556854474844840
+    second: KissyIdle0000
+  - first:
+      213: 2777164372951774102
+    second: KissyIdle0001
+  - first:
+      213: -1816651251339172289
+    second: KissyIdle0002
+  - first:
+      213: 1315398270860971769
+    second: KissyIdle0003
+  - first:
+      213: -1582463712709916171
+    second: KissyIdle0004
+  - first:
+      213: 117181196736567073
+    second: KissyIdle0005
+  - first:
+      213: -8382786655145968140
+    second: KissyIdle0006
+  - first:
+      213: -8729617679841531254
+    second: KissyIdle0007
+  - first:
+      213: 3338158563984022049
+    second: KissyIdle0008
+  - first:
+      213: 1183752897994171875
+    second: KissyIdle0009
+  - first:
+      213: 344599271827235255
+    second: KissyIdle0010
+  - first:
+      213: 7546418389321269057
+    second: KissyIdle0011
+  - first:
+      213: 139632149932904255
+    second: KissyIdle0012
+  - first:
+      213: 7620833577944032807
+    second: KissyIdle0013
+  - first:
+      213: 1748107503073301101
+    second: KissyIdle0014
+  - first:
+      213: -6930506157156710813
+    second: KissyIdle0015
+  - first:
+      213: -4569190492160619300
+    second: KissyIdle0016
+  - first:
+      213: -2849735993597303665
+    second: KissyIdle0017
+  - first:
+      213: -3836906293180959489
+    second: KissyIdle0018
+  - first:
+      213: -7425337812677656913
+    second: KissyIdle0019
+  - first:
+      213: -8462958455641806401
+    second: KissyIdle0020
+  - first:
+      213: -7520901557293567256
+    second: KissyIdle0021
+  - first:
+      213: -892126791028079479
+    second: KissyIdle0022
+  - first:
+      213: -7992363336981398520
+    second: KissyIdle0023
+  - first:
+      213: 2194031159308109157
+    second: KissyLeft0000
+  - first:
+      213: 4686022980167854015
+    second: KissyLeft0001
+  - first:
+      213: 8439869436800849626
+    second: KissyLeft0002
+  - first:
+      213: -1543815902379570783
+    second: KissyLeft0003
+  - first:
+      213: 5075307538619087206
+    second: KissyLeft0004
+  - first:
+      213: -7352908988904740765
+    second: KissyLeft0005
+  - first:
+      213: -4253624430667519073
+    second: KissyLeft0006
+  - first:
+      213: 8481468801235591612
+    second: KissyLeft0007
+  - first:
+      213: -3401519996988416287
+    second: KissyLeft0008
+  - first:
+      213: -440405985197221775
+    second: KissyLeft0009
+  - first:
+      213: -4496157160212955438
+    second: KissyLeft0010
+  - first:
+      213: 101402136196656202
+    second: KissyRight0000
+  - first:
+      213: -4000026112584747307
+    second: KissyRight0001
+  - first:
+      213: -5656501994662103367
+    second: KissyRight0002
+  - first:
+      213: -4411302956752516683
+    second: KissyRight0003
+  - first:
+      213: 1314413527992406710
+    second: KissyRight0004
+  - first:
+      213: 2884692904590501360
+    second: KissyRight0005
+  - first:
+      213: 848016034297971459
+    second: KissyRight0006
+  - first:
+      213: -1849144385792818733
+    second: KissyRight0007
+  - first:
+      213: -3639031475925082250
+    second: KissyRight0008
+  - first:
+      213: -5790781510779905388
+    second: KissyRight0009
+  - first:
+      213: 3444640501703014704
+    second: KissyRight0010
+  - first:
+      213: -2834484287332882703
+    second: KissyUp0000
+  - first:
+      213: 2663580036452803025
+    second: KissyUp0001
+  - first:
+      213: -2237899417919322040
+    second: KissyUp0002
+  - first:
+      213: -8247789153509558711
+    second: KissyUp0003
+  - first:
+      213: 996142951810607826
+    second: KissyUp0004
+  - first:
+      213: 6605460360124308391
+    second: KissyUp0005
+  - first:
+      213: 7264044612226484258
+    second: KissyUp0006
+  - first:
+      213: -5222471109800692324
+    second: KissyUp0007
+  - first:
+      213: -3395401302003563776
+    second: KissyUp0008
+  - first:
+      213: -3149448972074998187
+    second: KissyUp0009
+  - first:
+      213: -1988372923182594282
+    second: KissyUp0010
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KissyDown0000
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3230
+        width: 373
+        height: 856
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8853e1231d4dfedb0800000000000000
+      internalID: -4760352286153230968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyDown0001
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3230
+        width: 373
+        height: 856
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e77c3662ca565530800000000000000
+      internalID: 3843359122992691170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyDown0002
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3230
+        width: 373
+        height: 856
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e485c55fd562a0440800000000000000
+      internalID: 4902773329336490062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyDown0003
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3230
+        width: 373
+        height: 856
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063f66edd0e7d8200800000000000000
+      internalID: 183941757823021920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyDown0004
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 3230
+        width: 373
+        height: 856
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ca371a118e0a880800000000000000
+      internalID: -8601620125856846847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyDown0005
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 3230
+        width: 373
+        height: 856
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddeab95e8132d53d0800000000000000
+      internalID: -3216375969034293539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyDown0006
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 3230
+        width: 373
+        height: 856
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd1f27f31aa07210800000000000000
+      internalID: 1328748892802457009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyDown0007
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 3230
+        width: 373
+        height: 856
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f282849b363145700800000000000000
+      internalID: 528068375340394543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyDown0008
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 3230
+        width: 373
+        height: 856
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc58ebc1214034f30800000000000000
+      internalID: 4558491723667244495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyDown0009
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 3230
+        width: 373
+        height: 856
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5bcd99bf2541360800000000000000
+      internalID: 7139422549860726198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyDown0010
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 3230
+        width: 373
+        height: 856
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2f49e9215f28c70800000000000000
+      internalID: 8972002867994227383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0000
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855566d8ba5b205b0800000000000000
+      internalID: -5403556854474844840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0001
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69339ac78487a8620800000000000000
+      internalID: 2777164372951774102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0002
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36e82bdf45f9c6e0800000000000000
+      internalID: -1816651251339172289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0003
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fec4d012cb314210800000000000000
+      internalID: 1315398270860971769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0004
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9caf533a5f90ae0800000000000000
+      internalID: -1582463712709916171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0005
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12796d57daf40a100800000000000000
+      internalID: 117181196736567073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0006
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdb32873fb5aab80800000000000000
+      internalID: -8382786655145968140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0007
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a6310c8fa2ad680800000000000000
+      internalID: -8729617679841531254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0008
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a12321785835e20800000000000000
+      internalID: 3338158563984022049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0009
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e528ca2df88d6010800000000000000
+      internalID: 1183752897994171875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0010
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1ee13463348c400800000000000000
+      internalID: 344599271827235255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0011
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f38fdda834ab860800000000000000
+      internalID: 7546418389321269057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0012
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f89f753b210f100800000000000000
+      internalID: 139632149932904255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0013
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72629b123c3a2c960800000000000000
+      internalID: 7620833577944032807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0014
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6211ed1386824810800000000000000
+      internalID: 1748107503073301101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0015
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36644059e55e1df90800000000000000
+      internalID: -6930506157156710813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0016
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc8cabb479f690c0800000000000000
+      internalID: -4569190492160619300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0017
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84ecfd5634b378d0800000000000000
+      internalID: -2849735993597303665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0018
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4fc7e1e0290cac0800000000000000
+      internalID: -3836906293180959489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0019
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae721ab996e3f890800000000000000
+      internalID: -7425337812677656913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0020
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9e49e8f188d8a80800000000000000
+      internalID: -8462958455641806401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0021
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2b5de81e360a790800000000000000
+      internalID: -7520901557293567256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0022
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984892609678e93f0800000000000000
+      internalID: -892126791028079479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyIdle0023
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 3229
+        width: 404
+        height: 857
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c3e5fe3eb651190800000000000000
+      internalID: -7992363336981398520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyLeft0000
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2365
+        width: 389
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565c2b407b3c27e10800000000000000
+      internalID: 2194031159308109157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyLeft0001
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2365
+        width: 389
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7e836a219180140800000000000000
+      internalID: 4686022980167854015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyLeft0002
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2365
+        width: 389
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6d0335980702570800000000000000
+      internalID: 8439869436800849626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyLeft0003
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2365
+        width: 389
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a90114cd93439ae0800000000000000
+      internalID: -1543815902379570783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyLeft0004
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2365
+        width: 389
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669b045f05d1f6640800000000000000
+      internalID: 5075307538619087206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyLeft0005
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2365
+        width: 389
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3686e826b3835f990800000000000000
+      internalID: -7352908988904740765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyLeft0006
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2365
+        width: 389
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ba322fd1718f4c0800000000000000
+      internalID: -4253624430667519073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyLeft0007
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2365
+        width: 389
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1a43f10fa34b570800000000000000
+      internalID: 8481468801235591612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyLeft0008
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2365
+        width: 389
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee1e13b59f5bc0d0800000000000000
+      internalID: -3401519996988416287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyLeft0009
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2365
+        width: 389
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1781d5ff61d53e9f0800000000000000
+      internalID: -440405985197221775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyLeft0010
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2365
+        width: 389
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de7d2b62e07a91c0800000000000000
+      internalID: -4496157160212955438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyRight0000
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2365
+        width: 554
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ca773a4b0486100800000000000000
+      internalID: 101402136196656202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyRight0001
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2365
+        width: 554
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d67913917d0d78c0800000000000000
+      internalID: -4000026112584747307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyRight0002
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 2365
+        width: 554
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b670e0c7611081b0800000000000000
+      internalID: -5656501994662103367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyRight0003
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 2365
+        width: 554
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9c22a3557e7c2c0800000000000000
+      internalID: -4411302956752516683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyRight0004
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 2365
+        width: 554
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b294ffb32cbd3210800000000000000
+      internalID: 1314413527992406710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyRight0005
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 2365
+        width: 554
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5e438b9ec780820800000000000000
+      internalID: 2884692904590501360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyRight0006
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 2365
+        width: 554
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3038a281712c4cb00800000000000000
+      internalID: 848016034297971459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyRight0007
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 2365
+        width: 554
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d149627af48656e0800000000000000
+      internalID: -1849144385792818733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyRight0008
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 2365
+        width: 554
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f150f27209f7dc0800000000000000
+      internalID: -3639031475925082250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyRight0009
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 2365
+        width: 554
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a501695e203afa0800000000000000
+      internalID: -5790781510779905388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyRight0010
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1501
+        width: 554
+        height: 854
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0397eea2942ddcf20800000000000000
+      internalID: 3444640501703014704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyUp0000
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1478
+        width: 435
+        height: 877
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6e814fe83e9a8d0800000000000000
+      internalID: -2834484287332882703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyUp0001
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1478
+        width: 435
+        height: 877
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1679f4eefe6f420800000000000000
+      internalID: 2663580036452803025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyUp0002
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1478
+        width: 435
+        height: 877
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8488dd7165261f0e0800000000000000
+      internalID: -2237899417919322040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyUp0003
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1478
+        width: 435
+        height: 877
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9463ebaa677f98d80800000000000000
+      internalID: -8247789153509558711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyUp0004
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1478
+        width: 435
+        height: 877
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da2e24acb203dd00800000000000000
+      internalID: 996142951810607826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyUp0005
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1478
+        width: 435
+        height: 877
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab1227433f4bab50800000000000000
+      internalID: 6605460360124308391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyUp0006
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1478
+        width: 435
+        height: 877
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228895896121fc460800000000000000
+      internalID: 7264044612226484258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyUp0007
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1478
+        width: 435
+        height: 877
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95f69a023e0687b0800000000000000
+      internalID: -5222471109800692324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyUp0008
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1478
+        width: 435
+        height: 877
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003cd24618c11e0d0800000000000000
+      internalID: -3395401302003563776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyUp0009
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1478
+        width: 435
+        height: 877
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556204da8d8ea44d0800000000000000
+      internalID: -3149448972074998187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissyUp0010
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1478
+        width: 435
+        height: 877
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61742b87c51e764e0800000000000000
+      internalID: -1988372923182594282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KissyRight0005: 2884692904590501360
+      KissyUp0006: 7264044612226484258
+      KissyLeft0004: 5075307538619087206
+      KissyRight0008: -3639031475925082250
+      KissyUp0002: -2237899417919322040
+      KissyDown0002: 4902773329336490062
+      KissyLeft0000: 2194031159308109157
+      KissyUp0010: -1988372923182594282
+      KissyUp0001: 2663580036452803025
+      KissyIdle0003: 1315398270860971769
+      KissyIdle0015: -6930506157156710813
+      KissyLeft0003: -1543815902379570783
+      KissyDown0004: -8601620125856846847
+      KissyRight0010: 3444640501703014704
+      KissyDown0003: 183941757823021920
+      KissyUp0004: 996142951810607826
+      KissyIdle0019: -7425337812677656913
+      KissyIdle0017: -2849735993597303665
+      KissyIdle0021: -7520901557293567256
+      KissyUp0008: -3395401302003563776
+      KissyRight0007: -1849144385792818733
+      KissyDown0000: -4760352286153230968
+      KissyIdle0002: -1816651251339172289
+      KissyDown0009: 7139422549860726198
+      KissyDown0008: 4558491723667244495
+      KissyLeft0002: 8439869436800849626
+      KissyUp0009: -3149448972074998187
+      KissyIdle0012: 139632149932904255
+      KissyIdle0011: 7546418389321269057
+      KissyIdle0001: 2777164372951774102
+      KissyRight0004: 1314413527992406710
+      KissyLeft0006: -4253624430667519073
+      KissyIdle0014: 1748107503073301101
+      KissyLeft0008: -3401519996988416287
+      KissyIdle0000: -5403556854474844840
+      KissyIdle0022: -892126791028079479
+      KissyDown0010: 8972002867994227383
+      KissyIdle0023: -7992363336981398520
+      KissyLeft0001: 4686022980167854015
+      KissyRight0000: 101402136196656202
+      KissyLeft0007: 8481468801235591612
+      KissyRight0009: -5790781510779905388
+      KissyIdle0020: -8462958455641806401
+      KissyRight0002: -5656501994662103367
+      KissyRight0003: -4411302956752516683
+      KissyIdle0006: -8382786655145968140
+      KissyUp0007: -5222471109800692324
+      KissyIdle0005: 117181196736567073
+      KissyIdle0013: 7620833577944032807
+      KissyIdle0009: 1183752897994171875
+      KissyRight0006: 848016034297971459
+      KissyIdle0010: 344599271827235255
+      KissyDown0001: 3843359122992691170
+      KissyIdle0008: 3338158563984022049
+      KissyDown0006: 1328748892802457009
+      KissyDown0007: 528068375340394543
+      KissyIdle0016: -4569190492160619300
+      KissyIdle0004: -1582463712709916171
+      KissyRight0001: -4000026112584747307
+      KissyIdle0018: -3836906293180959489
+      KissyUp0005: 6605460360124308391
+      KissyUp0003: -8247789153509558711
+      KissyDown0005: -3216375969034293539
+      KissyIdle0007: -8729617679841531254
+      KissyLeft0010: -4496157160212955438
+      KissyUp0000: -2834484287332882703
+      KissyLeft0009: -440405985197221775
+      KissyLeft0005: -7352908988904740765
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

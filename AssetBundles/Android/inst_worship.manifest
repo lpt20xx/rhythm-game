@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1261405539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35cee37a89adfd2116f4dad1b621c149
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/AssetBundles/RUV/Inst_worship.mp3
+Dependencies: []

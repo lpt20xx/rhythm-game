@@ -1,0 +1,4405 @@
+fileFormatVersion: 2
+guid: 9ec4e3489b460417e8217ab9c2698ee4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3722859850887042203
+    second: note sing left0000
+  - first:
+      213: 1756403325179181713
+    second: note sing left0001
+  - first:
+      213: 7206845218170060399
+    second: note sing left0002
+  - first:
+      213: 6352395746440967927
+    second: note sing left0003
+  - first:
+      213: 6968838833639182704
+    second: note sing left0004
+  - first:
+      213: 7145526657463824720
+    second: note sing left0005
+  - first:
+      213: -5127772945007176177
+    second: note sing left0006
+  - first:
+      213: -6775752771736780017
+    second: note sing left0007
+  - first:
+      213: -5599081289628329558
+    second: note sing left0008
+  - first:
+      213: 7919642388103354750
+    second: note sing left0009
+  - first:
+      213: -7281592192836367867
+    second: note sing left0010
+  - first:
+      213: -4770298305856328309
+    second: note sing left0011
+  - first:
+      213: 904693252362900832
+    second: note sing left0012
+  - first:
+      213: -6222902286086336375
+    second: note sing left0013
+  - first:
+      213: -5489964063196398180
+    second: note sing left0014
+  - first:
+      213: 7996765757855146865
+    second: spooky DOWN note0000
+  - first:
+      213: -8187165934496859195
+    second: spooky DOWN note0001
+  - first:
+      213: -3042996662516404724
+    second: spooky DOWN note0002
+  - first:
+      213: 5416562580676730573
+    second: spooky DOWN note0003
+  - first:
+      213: 1629977143398310668
+    second: spooky DOWN note0004
+  - first:
+      213: -1108190865476211149
+    second: spooky DOWN note0005
+  - first:
+      213: -7828716399947690209
+    second: spooky DOWN note0006
+  - first:
+      213: 2918195122262295140
+    second: spooky DOWN note0007
+  - first:
+      213: -1150225664342070124
+    second: spooky DOWN note0008
+  - first:
+      213: 7854010589692599142
+    second: spooky DOWN note0009
+  - first:
+      213: 6772843525715024470
+    second: spooky DOWN note0010
+  - first:
+      213: 7893959979460837819
+    second: spooky DOWN note0011
+  - first:
+      213: -9159563355588699745
+    second: spooky DOWN note0012
+  - first:
+      213: 8157054348726303901
+    second: spooky DOWN note0013
+  - first:
+      213: 339567970831471811
+    second: spooky DOWN note0014
+  - first:
+      213: -3494806101637230090
+    second: spooky DOWN note0015
+  - first:
+      213: 6774053769429408107
+    second: spooky DOWN note0016
+  - first:
+      213: 4038678981561148507
+    second: spooky DOWN note0017
+  - first:
+      213: -7141350776287450984
+    second: spooky DOWN note0018
+  - first:
+      213: -954514598283423229
+    second: spooky DOWN note0019
+  - first:
+      213: -872342481007586181
+    second: spooky DOWN note0020
+  - first:
+      213: 5208200727446142477
+    second: spooky DOWN note0021
+  - first:
+      213: -940945946897266926
+    second: spooky DOWN note0022
+  - first:
+      213: 8361317574385297208
+    second: spooky DOWN note0023
+  - first:
+      213: -2375378887249929383
+    second: spooky DOWN note0024
+  - first:
+      213: -7517713118281029202
+    second: spooky UP NOTE0000
+  - first:
+      213: -513039295706706759
+    second: spooky UP NOTE0001
+  - first:
+      213: 5382957325604057361
+    second: spooky UP NOTE0002
+  - first:
+      213: 7175425087707475067
+    second: spooky UP NOTE0003
+  - first:
+      213: -4146523970126322045
+    second: spooky UP NOTE0004
+  - first:
+      213: 3637563644093418724
+    second: spooky dance idle0000
+  - first:
+      213: 1256842244123181661
+    second: spooky dance idle0001
+  - first:
+      213: 4059317925791232389
+    second: spooky dance idle0002
+  - first:
+      213: -9195117855849683092
+    second: spooky dance idle0003
+  - first:
+      213: -6542650467069337764
+    second: spooky dance idle0004
+  - first:
+      213: 4388112557011146419
+    second: spooky dance idle0005
+  - first:
+      213: -916051524741837373
+    second: spooky dance idle0006
+  - first:
+      213: -5409704600823810947
+    second: spooky dance idle0007
+  - first:
+      213: 939704918564982865
+    second: spooky dance idle0008
+  - first:
+      213: 5690796265693507392
+    second: spooky dance idle0009
+  - first:
+      213: 7091347234798579433
+    second: spooky dance idle0010
+  - first:
+      213: 2521747962996647313
+    second: spooky dance idle0011
+  - first:
+      213: 4681462359600462577
+    second: spooky dance idle0012
+  - first:
+      213: -2268620925408771187
+    second: spooky dance idle0013
+  - first:
+      213: 693306550530293350
+    second: spooky dance idle0014
+  - first:
+      213: 4831229306301617937
+    second: spooky dance idle0015
+  - first:
+      213: 2982035939280422837
+    second: spooky sing right0000
+  - first:
+      213: 7057987495600475059
+    second: spooky sing right0001
+  - first:
+      213: -4865512737865706340
+    second: spooky sing right0002
+  - first:
+      213: -5045623231909496046
+    second: spooky sing right0003
+  - first:
+      213: -989491685114704538
+    second: spooky sing right0004
+  - first:
+      213: -6750408810389571693
+    second: spooky sing right0005
+  - first:
+      213: 5612586968617229132
+    second: spooky sing right0006
+  - first:
+      213: 6465510403423884610
+    second: spooky sing right0007
+  - first:
+      213: 4126687866554030372
+    second: spooky sing right0008
+  - first:
+      213: 2239468479583206178
+    second: spooky sing right0009
+  - first:
+      213: 4891962141080402483
+    second: spooky sing right0010
+  - first:
+      213: -3454518500032561310
+    second: spooky sing right0011
+  - first:
+      213: -6955197613536236316
+    second: spooky sing right0012
+  - first:
+      213: -6699036789691587374
+    second: spooky sing right0013
+  - first:
+      213: -1912258797593879738
+    second: spooky sing right0014
+  - first:
+      213: -291681411746030967
+    second: spooky sing right0015
+  - first:
+      213: 2918175983060390478
+    second: spooky sing right0016
+  - first:
+      213: 7005095309722524153
+    second: spooky sing right0017
+  - first:
+      213: 6201385845868841983
+    second: spooky sing right0018
+  - first:
+      213: 2721980474599148313
+    second: spooky sing right0019
+  - first:
+      213: -498612835669642206
+    second: spooky sing right0020
+  - first:
+      213: -2855407930588669250
+    second: spooky sing right0021
+  - first:
+      213: 8994968004139260969
+    second: spooky sing right0022
+  - first:
+      213: 1513864459780170508
+    second: spooky sing right0023
+  - first:
+      213: -4007920796404452898
+    second: spooky sing right0024
+  - first:
+      213: 5524812423876875814
+    second: LuciferSarvDown0000
+  - first:
+      213: -3187537144942704454
+    second: LuciferSarvDown0001
+  - first:
+      213: 8669258038676657086
+    second: LuciferSarvDown0002
+  - first:
+      213: 2647755662711103097
+    second: LuciferSarvDown0003
+  - first:
+      213: 1767240108712101507
+    second: LuciferSarvDown0004
+  - first:
+      213: -4927797519048968892
+    second: LuciferSarvDown0005
+  - first:
+      213: 4796295312550903799
+    second: LuciferSarvDown0006
+  - first:
+      213: 8125534511234671486
+    second: LuciferSarvDown0007
+  - first:
+      213: 4624704053618658724
+    second: LuciferSarvDown0008
+  - first:
+      213: -8831371649869292220
+    second: LuciferSarvDown0009
+  - first:
+      213: 2820276763843646236
+    second: LuciferSarvDown0010
+  - first:
+      213: 6791736141001160398
+    second: LuciferSarvDown0011
+  - first:
+      213: -4927577748755679694
+    second: LuciferSarvDown0012
+  - first:
+      213: 8475074970263212683
+    second: LuciferSarvDown0013
+  - first:
+      213: -5660725895448684480
+    second: LuciferSarvDown0014
+  - first:
+      213: 8790847395621423130
+    second: LuciferSarvDown0015
+  - first:
+      213: 8058485984098287643
+    second: LuciferSarvDown0016
+  - first:
+      213: -2501805389974328016
+    second: LuciferSarvDown0017
+  - first:
+      213: -6321005845412091197
+    second: LuciferSarvDown0018
+  - first:
+      213: -37893138241186705
+    second: LuciferSarvDown0019
+  - first:
+      213: 546277566550411202
+    second: LuciferSarvDown0020
+  - first:
+      213: 7563658470654815579
+    second: LuciferSarvDown0021
+  - first:
+      213: 3103179718921723613
+    second: LuciferSarvDown0022
+  - first:
+      213: -1961733664666624521
+    second: LuciferSarvDown0023
+  - first:
+      213: -4586894813869622019
+    second: LuciferSarvIdle0000
+  - first:
+      213: 8041085254690995561
+    second: LuciferSarvIdle0001
+  - first:
+      213: -5658512758840767024
+    second: LuciferSarvIdle0002
+  - first:
+      213: 654919071104811088
+    second: LuciferSarvIdle0003
+  - first:
+      213: -3729799854640979363
+    second: LuciferSarvIdle0004
+  - first:
+      213: -5824444278655029931
+    second: LuciferSarvIdle0005
+  - first:
+      213: -4672870599754322116
+    second: LuciferSarvIdle0006
+  - first:
+      213: 3285118962372320577
+    second: LuciferSarvIdle0007
+  - first:
+      213: -9185090672812637715
+    second: LuciferSarvIdle0008
+  - first:
+      213: -4362149735939631277
+    second: LuciferSarvIdle0009
+  - first:
+      213: 8603672893748094692
+    second: LuciferSarvIdle0010
+  - first:
+      213: 688730252643822230
+    second: LuciferSarvIdle0011
+  - first:
+      213: -897898141381587493
+    second: LuciferSarvIdle0012
+  - first:
+      213: -1753549965183399059
+    second: LuciferSarvIdle0013
+  - first:
+      213: -351600328212632515
+    second: LuciferSarvIdle0014
+  - first:
+      213: 7006975761902315297
+    second: LuciferSarvIdle0015
+  - first:
+      213: -596748657947685358
+    second: LuciferSarvLeft0000
+  - first:
+      213: 7235606933768717311
+    second: LuciferSarvLeft0001
+  - first:
+      213: 4772978620857247831
+    second: LuciferSarvLeft0002
+  - first:
+      213: 5637952818389927441
+    second: LuciferSarvLeft0003
+  - first:
+      213: 2852832094672926755
+    second: LuciferSarvLeft0004
+  - first:
+      213: 2609684325938667635
+    second: LuciferSarvLeft0005
+  - first:
+      213: 8765794107951820354
+    second: LuciferSarvLeft0006
+  - first:
+      213: 6698297127337301599
+    second: LuciferSarvLeft0007
+  - first:
+      213: 4476474247354603645
+    second: LuciferSarvLeft0008
+  - first:
+      213: -2391935568826797916
+    second: LuciferSarvLeft0009
+  - first:
+      213: 7743314787370213494
+    second: LuciferSarvLeft0010
+  - first:
+      213: -4505031956085820665
+    second: LuciferSarvLeft0011
+  - first:
+      213: 4865634024065634558
+    second: LuciferSarvLeft0012
+  - first:
+      213: -949775606618667862
+    second: LuciferSarvLeft0013
+  - first:
+      213: 5171940755987841532
+    second: LuciferSarvLeft0014
+  - first:
+      213: 7806866784418442020
+    second: LuciferSarvLeft0015
+  - first:
+      213: 103946217188244678
+    second: LuciferSarvLeft0016
+  - first:
+      213: -6579690081205499691
+    second: LuciferSarvLeft0017
+  - first:
+      213: 862427385812936500
+    second: LuciferSarvLeft0018
+  - first:
+      213: 2204955068745770508
+    second: LuciferSarvLeft0019
+  - first:
+      213: 651957110845632946
+    second: LuciferSarvLeft0020
+  - first:
+      213: -5193472796720186160
+    second: LuciferSarvLeft0021
+  - first:
+      213: -7645657950636288924
+    second: LuciferSarvLeft0022
+  - first:
+      213: 777938765072186686
+    second: LuciferSarvLeft0023
+  - first:
+      213: -1073417390009860703
+    second: LuciferSarvRight0000
+  - first:
+      213: -6973707219761739537
+    second: LuciferSarvRight0001
+  - first:
+      213: 5277785873456028015
+    second: LuciferSarvRight0002
+  - first:
+      213: 7616767276900604256
+    second: LuciferSarvRight0003
+  - first:
+      213: 4370939360236895565
+    second: LuciferSarvRight0004
+  - first:
+      213: 4532154779545865429
+    second: LuciferSarvRight0005
+  - first:
+      213: -7177142682770057648
+    second: LuciferSarvRight0006
+  - first:
+      213: -8197627884778227749
+    second: LuciferSarvRight0007
+  - first:
+      213: 7167304920941861057
+    second: LuciferSarvRight0008
+  - first:
+      213: -1791281363522642413
+    second: LuciferSarvRight0009
+  - first:
+      213: -2568376318355814227
+    second: LuciferSarvRight0010
+  - first:
+      213: 9144841516248725742
+    second: LuciferSarvRight0011
+  - first:
+      213: 5623342985841651021
+    second: LuciferSarvRight0012
+  - first:
+      213: 8505031895188118976
+    second: LuciferSarvRight0013
+  - first:
+      213: -1464083157041151251
+    second: LuciferSarvRight0014
+  - first:
+      213: 2450771614223416076
+    second: LuciferSarvRight0015
+  - first:
+      213: -6135708749699009636
+    second: LuciferSarvRight0016
+  - first:
+      213: 6028501139229282747
+    second: LuciferSarvRight0017
+  - first:
+      213: 6849285425181853708
+    second: LuciferSarvRight0018
+  - first:
+      213: -7940041941412711992
+    second: LuciferSarvRight0019
+  - first:
+      213: -6981262232101338691
+    second: LuciferSarvRight0020
+  - first:
+      213: -7841018342230055835
+    second: LuciferSarvRight0021
+  - first:
+      213: 5280615567205213235
+    second: LuciferSarvRight0022
+  - first:
+      213: -269955826884280936
+    second: LuciferSarvRight0023
+  - first:
+      213: 860587213515473583
+    second: LuciferSarvRight0024
+  - first:
+      213: 5636141146196048208
+    second: LuciferSarvRight0025
+  - first:
+      213: 9168213358955842801
+    second: LuciferSarvRight0026
+  - first:
+      213: -3940442024713030294
+    second: LuciferSarvRight0027
+  - first:
+      213: 3504450550672338102
+    second: LuciferSarvRight0028
+  - first:
+      213: -5273567204759385681
+    second: LuciferSarvRight0029
+  - first:
+      213: 6269074486697514150
+    second: LuciferSarvRight0030
+  - first:
+      213: 6311007718172003739
+    second: LuciferSarvRight0031
+  - first:
+      213: 8048959991339782077
+    second: LuciferSarvRight0032
+  - first:
+      213: -5058323559214590635
+    second: LuciferSarvRight0033
+  - first:
+      213: 5255389850693657021
+    second: LuciferSarvRight0034
+  - first:
+      213: 5475749892360175854
+    second: LuciferSarvRight0035
+  - first:
+      213: -4307659424763467123
+    second: LuciferSarvRight0036
+  - first:
+      213: 8236170787278195213
+    second: LuciferSarvRight0037
+  - first:
+      213: 1772227637467452304
+    second: LuciferSarvRight0038
+  - first:
+      213: 8637714369791700406
+    second: LuciferSarvRight0039
+  - first:
+      213: 7657244416117471021
+    second: LuciferSarvRight0040
+  - first:
+      213: 8116823139633154288
+    second: LuciferSarvRight0041
+  - first:
+      213: -3275705039772237690
+    second: LuciferSarvRight0042
+  - first:
+      213: -5858805077245822104
+    second: LuciferSarvRight0043
+  - first:
+      213: 3950002118772831908
+    second: LuciferSarvRight0044
+  - first:
+      213: -6271675414127779293
+    second: LuciferSarvRight0045
+  - first:
+      213: 5994460194836552001
+    second: LuciferSarvRight0046
+  - first:
+      213: 2435264680359481400
+    second: LuciferSarvRight0047
+  - first:
+      213: -1042872306853310972
+    second: LuciferSarvUp0000
+  - first:
+      213: -704745162237765779
+    second: LuciferSarvUp0001
+  - first:
+      213: 4835503454082859419
+    second: LuciferSarvUp0002
+  - first:
+      213: 754618480979108306
+    second: LuciferSarvUp0003
+  - first:
+      213: -4423015637118216434
+    second: LuciferSarvUp0004
+  - first:
+      213: 6468363056590805324
+    second: LuciferSarvUp0005
+  - first:
+      213: -1651423771309095798
+    second: LuciferSarvUp0006
+  - first:
+      213: 7208248111052908887
+    second: LuciferSarvUp0007
+  - first:
+      213: -6928099762761747702
+    second: LuciferSarvUp0008
+  - first:
+      213: 2783815946702147617
+    second: LuciferSarvUp0009
+  - first:
+      213: -6206475963158606320
+    second: LuciferSarvUp0010
+  - first:
+      213: 4460080005716570199
+    second: LuciferSarvUp0011
+  - first:
+      213: -8169572016711520042
+    second: LuciferSarvUp0012
+  - first:
+      213: 2666943160064111726
+    second: LuciferSarvUp0013
+  - first:
+      213: -2447798166373061284
+    second: LuciferSarvUp0014
+  - first:
+      213: -8125013733436583846
+    second: LuciferSarvUp0015
+  - first:
+      213: 2165497414395441937
+    second: LuciferSarvUp0016
+  - first:
+      213: -2134920816174371863
+    second: LuciferSarvUp0017
+  - first:
+      213: -3469038585850342191
+    second: LuciferSarvUp0018
+  - first:
+      213: -813770974263504700
+    second: LuciferSarvUp0019
+  - first:
+      213: -720582357646412149
+    second: LuciferSarvUp0020
+  - first:
+      213: 8217054086690685860
+    second: LuciferSarvUp0021
+  - first:
+      213: -3125005911507895568
+    second: LuciferSarvUp0022
+  - first:
+      213: 4958691114769810781
+    second: LuciferSarvUp0023
+  - first:
+      213: 648047997061529469
+    second: LuciferSarvUp0024
+  - first:
+      213: -5080659101929817679
+    second: LuciferSarvUp0025
+  - first:
+      213: 8797850308700234683
+    second: LuciferSarvUp0026
+  - first:
+      213: 6833392228966985080
+    second: LuciferSarvUp0027
+  - first:
+      213: 6192409005424082884
+    second: LuciferSarvUp0028
+  - first:
+      213: 1603837222220961553
+    second: LuciferSarvUp0029
+  - first:
+      213: 8650891222982611794
+    second: LuciferSarvUp0030
+  - first:
+      213: 5033780383337080258
+    second: LuciferSarvUp0031
+  - first:
+      213: -823710149517716606
+    second: LuciferSarvUp0032
+  - first:
+      213: -4680508637892462163
+    second: LuciferSarvUp0033
+  - first:
+      213: 5994451555724523811
+    second: LuciferSarvUp0034
+  - first:
+      213: 546483074602117430
+    second: LuciferSarvUp0035
+  - first:
+      213: -8055001116521638004
+    second: LuciferSarvUp0036
+  - first:
+      213: 3925986035523595925
+    second: LuciferSarvUp0037
+  - first:
+      213: 272304103533598412
+    second: LuciferSarvUp0038
+  - first:
+      213: -1725996577273656476
+    second: LuciferSarvUp0039
+  - first:
+      213: -570692600323122428
+    second: LuciferSarvUp0040
+  - first:
+      213: 3624906423689457599
+    second: LuciferSarvUp0041
+  - first:
+      213: -3722694270420284843
+    second: LuciferSarvUp0042
+  - first:
+      213: -3890953852702119820
+    second: LuciferSarvUp0043
+  - first:
+      213: 7003694863363049892
+    second: LuciferSarvUp0044
+  - first:
+      213: 1607031589654340555
+    second: LuciferSarvUp0045
+  - first:
+      213: -2642020057358232980
+    second: LuciferSarvUp0046
+  - first:
+      213: 5615931803786017324
+    second: LuciferSarvUp0047
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LuciferSarvDown0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62698d7b0a31cac40800000000000000
+      internalID: 5524812423876875814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8c35fdad793c3d0800000000000000
+      internalID: -3187537144942704454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0002
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3958521446f4870800000000000000
+      internalID: 8669258038676657086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0003
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e9cef2fb7beb420800000000000000
+      internalID: 2647755662711103097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0004
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3868b90048f768810800000000000000
+      internalID: 1767240108712101507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0005
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445f808d342fc9bb0800000000000000
+      internalID: -4927797519048968892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0006
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffb776cc2ddf8240800000000000000
+      internalID: 4796295312550903799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0007
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73e1584692b3c070800000000000000
+      internalID: 8125534511234671486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0008
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adcf3385df3e2040800000000000000
+      internalID: 4624704053618658724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0009
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dd51a664aa07580800000000000000
+      internalID: -8831371649869292220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0010
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13503536c2a32720800000000000000
+      internalID: 2820276763843646236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0011
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec67e8c3908114e50800000000000000
+      internalID: 6791736141001160398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0012
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2367c4a152abd9bb0800000000000000
+      internalID: -4927577748755679694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0013
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82d75758c38d9570800000000000000
+      internalID: 8475074970263212683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0014
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0481de63acf0171b0800000000000000
+      internalID: -5660725895448684480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0015
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18cea2612d5ff970800000000000000
+      internalID: 8790847395621423130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0016
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1084ad8e4e75df60800000000000000
+      internalID: 8058485984098287643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0017
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d2c61c04dc74dd0800000000000000
+      internalID: -2501805389974328016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0018
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca6b097ca64748a0800000000000000
+      internalID: -6321005845412091197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0019
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6495bb3460697ff0800000000000000
+      internalID: -37893138241186705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0020
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7800f6d84c49700800000000000000
+      internalID: 546277566550411202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0021
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d21c91e4387f860800000000000000
+      internalID: 7563658470654815579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0022
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde96845385b01b20800000000000000
+      internalID: 3103179718921723613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvDown0023
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3333
+        width: 614
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdde9d20a586c4e0800000000000000
+      internalID: -1961733664666624521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0000
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 3251
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc383d18731850c0800000000000000
+      internalID: -4586894813869622019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0001
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 3251
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dfc768f6ca79f60800000000000000
+      internalID: 8041085254690995561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0002
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 3251
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddc74c30ace871b0800000000000000
+      internalID: -5658512758840767024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0003
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 3251
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050c4dddc6db61900800000000000000
+      internalID: 654919071104811088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0004
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 3251
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5222d42bc61d3cc0800000000000000
+      internalID: -3729799854640979363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0005
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 3251
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55de5bca9ca6b2fa0800000000000000
+      internalID: -5824444278655029931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0006
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3251
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fe64c82f0a62fb0800000000000000
+      internalID: -4672870599754322116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0007
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 3251
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d1a1d7a46179d20800000000000000
+      internalID: 3285118962372320577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2406
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1cf31a2b0088080800000000000000
+      internalID: -9185090672812637715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0009
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 2406
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35711444de78673c0800000000000000
+      internalID: -4362149735939631277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0010
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 2406
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e62383a9e2666770800000000000000
+      internalID: 8603672893748094692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0011
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 2406
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a66e6048cde8900800000000000000
+      internalID: 688730252643822230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0012
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 2406
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd877ec5660a83f0800000000000000
+      internalID: -897898141381587493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0013
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 2406
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b485de8932aa7e0800000000000000
+      internalID: -1753549965183399059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0014
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 2406
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ca9f54d5dde1bf0800000000000000
+      internalID: -351600328212632515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvIdle0015
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 2406
+        width: 618
+        height: 845
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127a5f5b457cd3160800000000000000
+      internalID: 7006975761902315297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0000
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 2459
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e46ded14ce7b7f0800000000000000
+      internalID: -596748657947685358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0001
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 2459
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff343ad9b2a0a6460800000000000000
+      internalID: 7235606933768717311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758eab074c60d3240800000000000000
+      internalID: 4772978620857247831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1164b8897380e3e40800000000000000
+      internalID: 5637952818389927441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0004
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32830d6dcab479720800000000000000
+      internalID: 2852832094672926755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0005
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370aa775116773420800000000000000
+      internalID: 2609684325938667635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0006
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e2eaa4c4b56a970800000000000000
+      internalID: 8765794107951820354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0007
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5695fa8fb125fc50800000000000000
+      internalID: 6698297127337301599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0008
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7851cf4c91af1e30800000000000000
+      internalID: 4476474247354603645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0009
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0f47ee5432eced0800000000000000
+      internalID: -2391935568826797916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0010
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6702b35f5c7c57b60800000000000000
+      internalID: 7743314787370213494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0011
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703b8bbfd49ea71c0800000000000000
+      internalID: -4505031956085820665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0012
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef09c7b9d54368340800000000000000
+      internalID: 4865634024065634558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4c92f2e18b1d2f0800000000000000
+      internalID: -949775606618667862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1450827bc66c740800000000000000
+      internalID: 5171940755987841532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0015
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bae065aff875c60800000000000000
+      internalID: 7806866784418442020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc3047a88a417100800000000000000
+      internalID: 103946217188244678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0017
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8c5995bbe30b4a0800000000000000
+      internalID: -6579690081205499691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0018
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437e2f75325f7fb00800000000000000
+      internalID: 862427385812936500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0019
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06e942e3f2999e10800000000000000
+      internalID: 2204955068745770508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0020
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b17eb0c9873c0900800000000000000
+      internalID: 651957110845632946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0021
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcb6d0f1041de7b0800000000000000
+      internalID: -5193472796720186160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0022
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464de223a9a25e590800000000000000
+      internalID: -7645657950636288924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvLeft0023
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1614
+        width: 627
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d32256f2bcbca00800000000000000
+      internalID: 777938765072186686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0000
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad3cbc22947a11f0800000000000000
+      internalID: -1073417390009860703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0001
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8468e5b3a683f90800000000000000
+      internalID: -6973707219761739537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0002
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69dbebf9467e3940800000000000000
+      internalID: 5277785873456028015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0003
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069da74ab7134b960800000000000000
+      internalID: 7616767276900604256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0004
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d71bd9032b8ac30800000000000000
+      internalID: 4370939360236895565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0005
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc8be572c275ee30800000000000000
+      internalID: 4532154779545865429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0006
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056523391caa56c90800000000000000
+      internalID: -7177142682770057648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0007
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7f4f62fdc2c3e80800000000000000
+      internalID: -8197627884778227749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0008
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c816a10ad1677360800000000000000
+      internalID: 7167304920941861057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e947a27171427e0800000000000000
+      internalID: -1791281363522642413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da840e6a85b4b5cd0800000000000000
+      internalID: -2568376318355814227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8ff3758e009ee70800000000000000
+      internalID: 9144841516248725742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0012
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 59
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4da641e6a02a0e40800000000000000
+      internalID: 5623342985841651021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0013
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 59
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd1e047271f70670800000000000000
+      internalID: 8505031895188118976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0014
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de20eee20288eabe0800000000000000
+      internalID: -1464083157041151251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0015
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bb5636cc3e20220800000000000000
+      internalID: 2450771614223416076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0016
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c933fe8866599daa0800000000000000
+      internalID: -6135708749699009636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0017
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb19cc388d989a350800000000000000
+      internalID: 6028501139229282747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0018
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08893d1ecc8d0f50800000000000000
+      internalID: 6849285425181853708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0019
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c174642ced4fc190800000000000000
+      internalID: -7940041941412711992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0020
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1cfbbfcf29d1f90800000000000000
+      internalID: -6981262232101338691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0021
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5642e0a7c5b1f2390800000000000000
+      internalID: -7841018342230055835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0022
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3342aa661e3884940800000000000000
+      internalID: 5280615567205213235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0023
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89df3811b9ce04cf0800000000000000
+      internalID: -269955826884280936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0024
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa245d7d28b61fb00800000000000000
+      internalID: 860587213515473583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0025
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0597afac288973e40800000000000000
+      internalID: 5636141146196048208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0026
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 59
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fccd8589790c3f70800000000000000
+      internalID: 9168213358955842801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0027
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 59
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6575fa1bdcb059c0800000000000000
+      internalID: -3940442024713030294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0028
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc2fbd553f42a030800000000000000
+      internalID: 3504450550672338102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0029
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9ca2d519680d6b0800000000000000
+      internalID: -5273567204759385681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0030
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4d11ad70a300750800000000000000
+      internalID: 6269074486697514150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0031
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d04602514359750800000000000000
+      internalID: 6311007718172003739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0032
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf83278776a3bf60800000000000000
+      internalID: 8048959991339782077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0033
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5555606e5893dc9b0800000000000000
+      internalID: -5058323559214590635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0034
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1e9c69935eee840800000000000000
+      internalID: 5255389850693657021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0035
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0030de385cdfb40800000000000000
+      internalID: 5475749892360175854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0036
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a2c9d739e1834c0800000000000000
+      internalID: -4307659424763467123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0037
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a8a25a1b1cc4270800000000000000
+      internalID: 8236170787278195213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0038
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093906885a7389810800000000000000
+      internalID: 1772227637467452304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0039
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bda8ba64735fd770800000000000000
+      internalID: 8637714369791700406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0040
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 59
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2776050a3ff34a60800000000000000
+      internalID: 7657244416117471021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0041
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 59
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8418604afb4a070800000000000000
+      internalID: 8116823139633154288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0042
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6804b6b2f9b5a82d0800000000000000
+      internalID: -3275705039772237690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0043
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bf182d2d751bea0800000000000000
+      internalID: -5858805077245822104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0044
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6be7fbff931d630800000000000000
+      internalID: 3950002118772831908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0045
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322ec5a807886f8a0800000000000000
+      internalID: -6271675414127779293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0046
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149937589c9903350800000000000000
+      internalID: 5994460194836552001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvRight0047
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 851
+        width: 619
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830d1eef25ccbc120800000000000000
+      internalID: 2435264680359481400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0000
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e8aeb8929f681f0800000000000000
+      internalID: -1042872306853310972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0001
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6794a3420e3836f0800000000000000
+      internalID: -704745162237765779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0002
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9188ca95c82b1340800000000000000
+      internalID: 4835503454082859419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0003
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d164b3a281f87a00800000000000000
+      internalID: 754618480979108306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0004
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07129156ba4e92c0800000000000000
+      internalID: -4423015637118216434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0005
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49da5added34c950800000000000000
+      internalID: 6468363056590805324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0006
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a844c7164d6f419e0800000000000000
+      internalID: -1651423771309095798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0007
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75960305777d80460800000000000000
+      internalID: 7208248111052908887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0008
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a033e10f8f17adf90800000000000000
+      internalID: -6928099762761747702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0009
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120df3faad912a620800000000000000
+      internalID: 2783815946702147617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0010
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e4eecaefa2ed9a0800000000000000
+      internalID: -6206475963158606320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0011
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750fe8a722365ed30800000000000000
+      internalID: 4460080005716570199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0012
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d030f8f889df9e80800000000000000
+      internalID: -8169572016711520042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0013
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6477cb8ca2e20520800000000000000
+      internalID: 2666943160064111726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0014
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d2b73698ca70ed0800000000000000
+      internalID: -2447798166373061284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0015
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50975fbe072e3f80800000000000000
+      internalID: -8125013733436583846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0016
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1133113dc646d0e10800000000000000
+      internalID: 2165497414395441937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0017
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebe65834dc3f52e0800000000000000
+      internalID: -2134920816174371863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0018
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4544239cf7bdfc0800000000000000
+      internalID: -3469038585850342191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0019
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c010864c97e4b4f0800000000000000
+      internalID: -813770974263504700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0020
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86721dd92afff5f0800000000000000
+      internalID: -720582357646412149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0021
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3ce51f727d80270800000000000000
+      internalID: 8217054086690685860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0022
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa73933eafb1a4d0800000000000000
+      internalID: -3125005911507895568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0023
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d558dbeeb4fc0d440800000000000000
+      internalID: 4958691114769810781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0024
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f714648345ef800800000000000000
+      internalID: 648047997061529469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0025
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b93e9c177fdd79b0800000000000000
+      internalID: -5080659101929817679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0026
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb363252e3e381a70800000000000000
+      internalID: 8797850308700234683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0027
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ded72070615de50800000000000000
+      internalID: 6833392228966985080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0028
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf7b308e2bdfe550800000000000000
+      internalID: 6192409005424082884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0029
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1179704c479f14610800000000000000
+      internalID: 1603837222220961553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0030
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2535c60abb32e0870800000000000000
+      internalID: 8650891222982611794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0031
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5e22aa6949bd540800000000000000
+      internalID: 5033780383337080258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0032
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283dc14bbf79194f0800000000000000
+      internalID: -823710149517716606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0033
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9b546313e7b0fb0800000000000000
+      internalID: -4680508637892462163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0034
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3297f321ee1903350800000000000000
+      internalID: 5994451555724523811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0035
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6392c61067f759700800000000000000
+      internalID: 546483074602117430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0036
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c875a586923e63090800000000000000
+      internalID: -8055001116521638004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0037
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e2780af77eb7630800000000000000
+      internalID: 3925986035523595925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0038
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc65002b32b67c300800000000000000
+      internalID: 272304103533598412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0039
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b4018f1470c08e0800000000000000
+      internalID: -1725996577273656476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0040
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bdbc98a1e7418f0800000000000000
+      internalID: -570692600323122428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0041
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfaa00df214e4230800000000000000
+      internalID: 3624906423689457599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0042
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a8734e845565cc0800000000000000
+      internalID: -3722694270420284843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0043
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478a04c061e800ac0800000000000000
+      internalID: -3890953852702119820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0044
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a98bfdfe5f123160800000000000000
+      internalID: 7003694863363049892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0045
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3ad2467b25d4610800000000000000
+      internalID: 1607031589654340555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0046
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6294bf71c8a55bd0800000000000000
+      internalID: -2642020057358232980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciferSarvUp0047
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 29
+        width: 615
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2afb77983ccfed40800000000000000
+      internalID: 5615931803786017324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LuciferSarvDown0001: -3187537144942704454
+      LuciferSarvUp0044: 7003694863363049892
+      LuciferSarvLeft0005: 2609684325938667635
+      LuciferSarvRight0019: -7940041941412711992
+      LuciferSarvDown0002: 8669258038676657086
+      LuciferSarvDown0017: -2501805389974328016
+      LuciferSarvRight0004: 4370939360236895565
+      LuciferSarvUp0008: -6928099762761747702
+      LuciferSarvRight0047: 2435264680359481400
+      LuciferSarvLeft0008: 4476474247354603645
+      LuciferSarvRight0020: -6981262232101338691
+      LuciferSarvLeft0000: -596748657947685358
+      LuciferSarvDown0006: 4796295312550903799
+      LuciferSarvIdle0004: -3729799854640979363
+      LuciferSarvLeft0018: 862427385812936500
+      LuciferSarvRight0046: 5994460194836552001
+      LuciferSarvLeft0006: 8765794107951820354
+      LuciferSarvUp0021: 8217054086690685860
+      LuciferSarvUp0022: -3125005911507895568
+      LuciferSarvRight0044: 3950002118772831908
+      LuciferSarvUp0036: -8055001116521638004
+      LuciferSarvRight0017: 6028501139229282747
+      LuciferSarvRight0015: 2450771614223416076
+      LuciferSarvUp0023: 4958691114769810781
+      LuciferSarvUp0009: 2783815946702147617
+      LuciferSarvRight0033: -5058323559214590635
+      LuciferSarvDown0015: 8790847395621423130
+      LuciferSarvIdle0007: 3285118962372320577
+      LuciferSarvRight0006: -7177142682770057648
+      LuciferSarvRight0042: -3275705039772237690
+      LuciferSarvRight0039: 8637714369791700406
+      LuciferSarvDown0011: 6791736141001160398
+      LuciferSarvLeft0001: 7235606933768717311
+      LuciferSarvUp0026: 8797850308700234683
+      LuciferSarvUp0011: 4460080005716570199
+      LuciferSarvUp0019: -813770974263504700
+      LuciferSarvUp0040: -570692600323122428
+      LuciferSarvUp0041: 3624906423689457599
+      LuciferSarvUp0015: -8125013733436583846
+      LuciferSarvDown0010: 2820276763843646236
+      LuciferSarvLeft0003: 5637952818389927441
+      LuciferSarvRight0028: 3504450550672338102
+      LuciferSarvLeft0004: 2852832094672926755
+      LuciferSarvLeft0010: 7743314787370213494
+      LuciferSarvIdle0013: -1753549965183399059
+      LuciferSarvUp0039: -1725996577273656476
+      LuciferSarvRight0012: 5623342985841651021
+      LuciferSarvDown0023: -1961733664666624521
+      LuciferSarvLeft0016: 103946217188244678
+      LuciferSarvLeft0017: -6579690081205499691
+      LuciferSarvIdle0011: 688730252643822230
+      LuciferSarvRight0001: -6973707219761739537
+      LuciferSarvUp0027: 6833392228966985080
+      LuciferSarvDown0004: 1767240108712101507
+      LuciferSarvIdle0008: -9185090672812637715
+      LuciferSarvUp0038: 272304103533598412
+      LuciferSarvDown0007: 8125534511234671486
+      LuciferSarvUp0031: 5033780383337080258
+      LuciferSarvDown0003: 2647755662711103097
+      LuciferSarvRight0005: 4532154779545865429
+      LuciferSarvRight0026: 9168213358955842801
+      LuciferSarvRight0023: -269955826884280936
+      LuciferSarvRight0014: -1464083157041151251
+      LuciferSarvIdle0009: -4362149735939631277
+      LuciferSarvRight0002: 5277785873456028015
+      LuciferSarvUp0001: -704745162237765779
+      LuciferSarvLeft0012: 4865634024065634558
+      LuciferSarvRight0043: -5858805077245822104
+      LuciferSarvDown0005: -4927797519048968892
+      LuciferSarvIdle0005: -5824444278655029931
+      LuciferSarvLeft0019: 2204955068745770508
+      LuciferSarvDown0018: -6321005845412091197
+      LuciferSarvIdle0012: -897898141381587493
+      LuciferSarvDown0009: -8831371649869292220
+      LuciferSarvIdle0006: -4672870599754322116
+      LuciferSarvUp0030: 8650891222982611794
+      LuciferSarvRight0038: 1772227637467452304
+      LuciferSarvRight0040: 7657244416117471021
+      LuciferSarvUp0035: 546483074602117430
+      LuciferSarvDown0016: 8058485984098287643
+      LuciferSarvDown0014: -5660725895448684480
+      LuciferSarvRight0036: -4307659424763467123
+      LuciferSarvUp0046: -2642020057358232980
+      LuciferSarvUp0033: -4680508637892462163
+      LuciferSarvDown0008: 4624704053618658724
+      LuciferSarvUp0037: 3925986035523595925
+      LuciferSarvUp0029: 1603837222220961553
+      LuciferSarvIdle0010: 8603672893748094692
+      LuciferSarvRight0010: -2568376318355814227
+      LuciferSarvRight0031: 6311007718172003739
+      LuciferSarvRight0008: 7167304920941861057
+      LuciferSarvRight0013: 8505031895188118976
+      LuciferSarvUp0018: -3469038585850342191
+      LuciferSarvUp0045: 1607031589654340555
+      LuciferSarvUp0042: -3722694270420284843
+      LuciferSarvDown0020: 546277566550411202
+      LuciferSarvIdle0000: -4586894813869622019
+      LuciferSarvRight0000: -1073417390009860703
+      LuciferSarvRight0016: -6135708749699009636
+      LuciferSarvUp0003: 754618480979108306
+      LuciferSarvUp0014: -2447798166373061284
+      LuciferSarvUp0047: 5615931803786017324
+      LuciferSarvUp0017: -2134920816174371863
+      LuciferSarvRight0029: -5273567204759385681
+      LuciferSarvUp0034: 5994451555724523811
+      LuciferSarvUp0025: -5080659101929817679
+      LuciferSarvLeft0023: 777938765072186686
+      LuciferSarvRight0009: -1791281363522642413
+      LuciferSarvRight0011: 9144841516248725742
+      LuciferSarvUp0024: 648047997061529469
+      LuciferSarvUp0043: -3890953852702119820
+      LuciferSarvIdle0014: -351600328212632515
+      LuciferSarvRight0037: 8236170787278195213
+      LuciferSarvRight0035: 5475749892360175854
+      LuciferSarvUp0013: 2666943160064111726
+      LuciferSarvUp0032: -823710149517716606
+      LuciferSarvLeft0021: -5193472796720186160
+      LuciferSarvDown0019: -37893138241186705
+      LuciferSarvRight0022: 5280615567205213235
+      LuciferSarvRight0027: -3940442024713030294
+      LuciferSarvRight0045: -6271675414127779293
+      LuciferSarvDown0000: 5524812423876875814
+      LuciferSarvDown0012: -4927577748755679694
+      LuciferSarvRight0030: 6269074486697514150
+      LuciferSarvUp0004: -4423015637118216434
+      LuciferSarvDown0021: 7563658470654815579
+      LuciferSarvIdle0001: 8041085254690995561
+      LuciferSarvRight0034: 5255389850693657021
+      LuciferSarvUp0000: -1042872306853310972
+      LuciferSarvLeft0014: 5171940755987841532
+      LuciferSarvUp0002: 4835503454082859419
+      LuciferSarvDown0022: 3103179718921723613
+      LuciferSarvUp0010: -6206475963158606320
+      LuciferSarvLeft0022: -7645657950636288924
+      LuciferSarvUp0016: 2165497414395441937
+      LuciferSarvIdle0015: 7006975761902315297
+      LuciferSarvUp0006: -1651423771309095798
+      LuciferSarvUp0007: 7208248111052908887
+      LuciferSarvRight0007: -8197627884778227749
+      LuciferSarvRight0024: 860587213515473583
+      LuciferSarvDown0013: 8475074970263212683
+      LuciferSarvUp0020: -720582357646412149
+      LuciferSarvUp0028: 6192409005424082884
+      LuciferSarvLeft0011: -4505031956085820665
+      LuciferSarvUp0012: -8169572016711520042
+      LuciferSarvIdle0002: -5658512758840767024
+      LuciferSarvIdle0003: 654919071104811088
+      LuciferSarvRight0021: -7841018342230055835
+      LuciferSarvRight0025: 5636141146196048208
+      LuciferSarvLeft0013: -949775606618667862
+      LuciferSarvLeft0007: 6698297127337301599
+      LuciferSarvLeft0009: -2391935568826797916
+      LuciferSarvLeft0015: 7806866784418442020
+      LuciferSarvLeft0002: 4772978620857247831
+      LuciferSarvRight0041: 8116823139633154288
+      LuciferSarvRight0018: 6849285425181853708
+      LuciferSarvRight0032: 8048959991339782077
+      LuciferSarvRight0003: 7616767276900604256
+      LuciferSarvLeft0020: 651957110845632946
+      LuciferSarvUp0005: 6468363056590805324
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

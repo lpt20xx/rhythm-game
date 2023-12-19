@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3653901916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63332ceae5f7a72b3565d57cd08399ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/AssetBundles/Gacello/Inst-fading.mp3
+Dependencies: []

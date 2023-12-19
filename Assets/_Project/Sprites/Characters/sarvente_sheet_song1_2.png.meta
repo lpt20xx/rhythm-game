@@ -1,0 +1,4480 @@
+fileFormatVersion: 2
+guid: ae1607981d9c64d7a895b3342d23866c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3722859850887042203
+    second: note sing left0000
+  - first:
+      213: 1756403325179181713
+    second: note sing left0001
+  - first:
+      213: 7206845218170060399
+    second: note sing left0002
+  - first:
+      213: 6352395746440967927
+    second: note sing left0003
+  - first:
+      213: 6968838833639182704
+    second: note sing left0004
+  - first:
+      213: 7145526657463824720
+    second: note sing left0005
+  - first:
+      213: -5127772945007176177
+    second: note sing left0006
+  - first:
+      213: -6775752771736780017
+    second: note sing left0007
+  - first:
+      213: -5599081289628329558
+    second: note sing left0008
+  - first:
+      213: 7919642388103354750
+    second: note sing left0009
+  - first:
+      213: -7281592192836367867
+    second: note sing left0010
+  - first:
+      213: -4770298305856328309
+    second: note sing left0011
+  - first:
+      213: 904693252362900832
+    second: note sing left0012
+  - first:
+      213: -6222902286086336375
+    second: note sing left0013
+  - first:
+      213: -5489964063196398180
+    second: note sing left0014
+  - first:
+      213: 7996765757855146865
+    second: spooky DOWN note0000
+  - first:
+      213: -8187165934496859195
+    second: spooky DOWN note0001
+  - first:
+      213: -3042996662516404724
+    second: spooky DOWN note0002
+  - first:
+      213: 5416562580676730573
+    second: spooky DOWN note0003
+  - first:
+      213: 1629977143398310668
+    second: spooky DOWN note0004
+  - first:
+      213: -1108190865476211149
+    second: spooky DOWN note0005
+  - first:
+      213: -7828716399947690209
+    second: spooky DOWN note0006
+  - first:
+      213: 2918195122262295140
+    second: spooky DOWN note0007
+  - first:
+      213: -1150225664342070124
+    second: spooky DOWN note0008
+  - first:
+      213: 7854010589692599142
+    second: spooky DOWN note0009
+  - first:
+      213: 6772843525715024470
+    second: spooky DOWN note0010
+  - first:
+      213: 7893959979460837819
+    second: spooky DOWN note0011
+  - first:
+      213: -9159563355588699745
+    second: spooky DOWN note0012
+  - first:
+      213: 8157054348726303901
+    second: spooky DOWN note0013
+  - first:
+      213: 339567970831471811
+    second: spooky DOWN note0014
+  - first:
+      213: -3494806101637230090
+    second: spooky DOWN note0015
+  - first:
+      213: 6774053769429408107
+    second: spooky DOWN note0016
+  - first:
+      213: 4038678981561148507
+    second: spooky DOWN note0017
+  - first:
+      213: -7141350776287450984
+    second: spooky DOWN note0018
+  - first:
+      213: -954514598283423229
+    second: spooky DOWN note0019
+  - first:
+      213: -872342481007586181
+    second: spooky DOWN note0020
+  - first:
+      213: 5208200727446142477
+    second: spooky DOWN note0021
+  - first:
+      213: -940945946897266926
+    second: spooky DOWN note0022
+  - first:
+      213: 8361317574385297208
+    second: spooky DOWN note0023
+  - first:
+      213: -2375378887249929383
+    second: spooky DOWN note0024
+  - first:
+      213: -7517713118281029202
+    second: spooky UP NOTE0000
+  - first:
+      213: -513039295706706759
+    second: spooky UP NOTE0001
+  - first:
+      213: 5382957325604057361
+    second: spooky UP NOTE0002
+  - first:
+      213: 7175425087707475067
+    second: spooky UP NOTE0003
+  - first:
+      213: -4146523970126322045
+    second: spooky UP NOTE0004
+  - first:
+      213: 3637563644093418724
+    second: spooky dance idle0000
+  - first:
+      213: 1256842244123181661
+    second: spooky dance idle0001
+  - first:
+      213: 4059317925791232389
+    second: spooky dance idle0002
+  - first:
+      213: -9195117855849683092
+    second: spooky dance idle0003
+  - first:
+      213: -6542650467069337764
+    second: spooky dance idle0004
+  - first:
+      213: 4388112557011146419
+    second: spooky dance idle0005
+  - first:
+      213: -916051524741837373
+    second: spooky dance idle0006
+  - first:
+      213: -5409704600823810947
+    second: spooky dance idle0007
+  - first:
+      213: 939704918564982865
+    second: spooky dance idle0008
+  - first:
+      213: 5690796265693507392
+    second: spooky dance idle0009
+  - first:
+      213: 7091347234798579433
+    second: spooky dance idle0010
+  - first:
+      213: 2521747962996647313
+    second: spooky dance idle0011
+  - first:
+      213: 4681462359600462577
+    second: spooky dance idle0012
+  - first:
+      213: -2268620925408771187
+    second: spooky dance idle0013
+  - first:
+      213: 693306550530293350
+    second: spooky dance idle0014
+  - first:
+      213: 4831229306301617937
+    second: spooky dance idle0015
+  - first:
+      213: 2982035939280422837
+    second: spooky sing right0000
+  - first:
+      213: 7057987495600475059
+    second: spooky sing right0001
+  - first:
+      213: -4865512737865706340
+    second: spooky sing right0002
+  - first:
+      213: -5045623231909496046
+    second: spooky sing right0003
+  - first:
+      213: -989491685114704538
+    second: spooky sing right0004
+  - first:
+      213: -6750408810389571693
+    second: spooky sing right0005
+  - first:
+      213: 5612586968617229132
+    second: spooky sing right0006
+  - first:
+      213: 6465510403423884610
+    second: spooky sing right0007
+  - first:
+      213: 4126687866554030372
+    second: spooky sing right0008
+  - first:
+      213: 2239468479583206178
+    second: spooky sing right0009
+  - first:
+      213: 4891962141080402483
+    second: spooky sing right0010
+  - first:
+      213: -3454518500032561310
+    second: spooky sing right0011
+  - first:
+      213: -6955197613536236316
+    second: spooky sing right0012
+  - first:
+      213: -6699036789691587374
+    second: spooky sing right0013
+  - first:
+      213: -1912258797593879738
+    second: spooky sing right0014
+  - first:
+      213: -291681411746030967
+    second: spooky sing right0015
+  - first:
+      213: 2918175983060390478
+    second: spooky sing right0016
+  - first:
+      213: 7005095309722524153
+    second: spooky sing right0017
+  - first:
+      213: 6201385845868841983
+    second: spooky sing right0018
+  - first:
+      213: 2721980474599148313
+    second: spooky sing right0019
+  - first:
+      213: -498612835669642206
+    second: spooky sing right0020
+  - first:
+      213: -2855407930588669250
+    second: spooky sing right0021
+  - first:
+      213: 8994968004139260969
+    second: spooky sing right0022
+  - first:
+      213: 1513864459780170508
+    second: spooky sing right0023
+  - first:
+      213: -4007920796404452898
+    second: spooky sing right0024
+  - first:
+      213: -3605205225304281235
+    second: SarventeDown0000
+  - first:
+      213: -7556654727422116473
+    second: SarventeDown0001
+  - first:
+      213: -7809559971324669856
+    second: SarventeDown0002
+  - first:
+      213: 4018617657846598398
+    second: SarventeDown0003
+  - first:
+      213: 4193191268712142423
+    second: SarventeDown0004
+  - first:
+      213: 8187320370426769677
+    second: SarventeDown0005
+  - first:
+      213: -5466019965441718911
+    second: SarventeDown0006
+  - first:
+      213: 875526470454170939
+    second: SarventeDown0007
+  - first:
+      213: 5758759735428724913
+    second: SarventeDown0008
+  - first:
+      213: 61017808451704542
+    second: SarventeDown0009
+  - first:
+      213: 3170172012030651651
+    second: SarventeDown0010
+  - first:
+      213: 5206874134317652659
+    second: SarventeDown0011
+  - first:
+      213: 1253533913059650811
+    second: SarventeDown0012
+  - first:
+      213: 3786664628701290091
+    second: SarventeDown0013
+  - first:
+      213: 4511067253078512112
+    second: SarventeDown0014
+  - first:
+      213: -6718137086165496961
+    second: SarventeDown0015
+  - first:
+      213: -9188944147679892293
+    second: SarventeDown0016
+  - first:
+      213: 2740950366112772449
+    second: SarventeDown0017
+  - first:
+      213: -4894709151164704829
+    second: SarventeDown0018
+  - first:
+      213: 496710292652771067
+    second: SarventeDown0019
+  - first:
+      213: 2778932964288272302
+    second: SarventeDown0020
+  - first:
+      213: -2390853297987151465
+    second: SarventeDown0021
+  - first:
+      213: 2069809722027404064
+    second: SarventeDown0022
+  - first:
+      213: 4213160895870360772
+    second: SarventeDown0023
+  - first:
+      213: 119971938594291104
+    second: SarventeDown0024
+  - first:
+      213: -6109112594455812971
+    second: SarventeDown0025
+  - first:
+      213: -6299310826820596731
+    second: SarventeDown0026
+  - first:
+      213: -6133493649035760964
+    second: SarventeDown0027
+  - first:
+      213: -6036020633573416136
+    second: SarventeDown0028
+  - first:
+      213: 1132504851504177626
+    second: SarventeDown0029
+  - first:
+      213: 4003967235728020292
+    second: SarventeDown0030
+  - first:
+      213: -2176476468158408673
+    second: SarventeDown0031
+  - first:
+      213: 8128929121034873950
+    second: SarventeDown0032
+  - first:
+      213: -5756892678075164750
+    second: SarventeDown0033
+  - first:
+      213: -8702073199150074600
+    second: SarventeDown0034
+  - first:
+      213: 7813904905949404309
+    second: SarventeDown0035
+  - first:
+      213: 6081398565568239793
+    second: SarventeDown0036
+  - first:
+      213: 5186677852011891003
+    second: SarventeDown0037
+  - first:
+      213: -330487674380727103
+    second: SarventeDown0038
+  - first:
+      213: 5087098235943029290
+    second: SarventeDown0039
+  - first:
+      213: -2491521897901986736
+    second: SarventeDown0040
+  - first:
+      213: -4326025912519140786
+    second: SarventeDown0041
+  - first:
+      213: 9196497039808235256
+    second: SarventeDown0042
+  - first:
+      213: -7837104250653891681
+    second: SarventeDown0043
+  - first:
+      213: 926688128619677106
+    second: SarventeDown0044
+  - first:
+      213: 8538188469185616476
+    second: SarventeDown0045
+  - first:
+      213: 6905012474049238951
+    second: SarventeDown0046
+  - first:
+      213: 1006597144511539465
+    second: SarventeDown0047
+  - first:
+      213: 1157349419209583373
+    second: SarventeHey0000
+  - first:
+      213: 8207160611671966925
+    second: SarventeHey0001
+  - first:
+      213: 6967991961800770114
+    second: SarventeHey0002
+  - first:
+      213: 177139436453147338
+    second: SarventeHey0003
+  - first:
+      213: 2875761199240360291
+    second: SarventeHey0004
+  - first:
+      213: 8594114033707526637
+    second: SarventeIdle0000
+  - first:
+      213: 7437307189303237891
+    second: SarventeIdle0001
+  - first:
+      213: 5954566399722072129
+    second: SarventeIdle0002
+  - first:
+      213: 1046858469799201734
+    second: SarventeIdle0003
+  - first:
+      213: 3031594980195126857
+    second: SarventeIdle0004
+  - first:
+      213: 1420689581901025001
+    second: SarventeIdle0005
+  - first:
+      213: -27783353389670453
+    second: SarventeIdle0006
+  - first:
+      213: 5537453710166380147
+    second: SarventeIdle0007
+  - first:
+      213: 4772248266962123006
+    second: SarventeIdle0008
+  - first:
+      213: 339756950976501546
+    second: SarventeIdle0009
+  - first:
+      213: 4994107421459690029
+    second: SarventeIdle0010
+  - first:
+      213: 7507947977109366708
+    second: SarventeIdle0011
+  - first:
+      213: -9124242340009743560
+    second: SarventeIdle0012
+  - first:
+      213: 5175456006824204478
+    second: SarventeIdle0013
+  - first:
+      213: -5762880132378941627
+    second: SarventeLeft0000
+  - first:
+      213: -443057957849955369
+    second: SarventeLeft0001
+  - first:
+      213: -5449915728021025673
+    second: SarventeLeft0002
+  - first:
+      213: 3797439075531627
+    second: SarventeLeft0003
+  - first:
+      213: 4003184040666722370
+    second: SarventeLeft0004
+  - first:
+      213: -2219319348609417709
+    second: SarventeLeft0005
+  - first:
+      213: -3091736843765787939
+    second: SarventeLeft0006
+  - first:
+      213: 4777012797521233834
+    second: SarventeLeft0007
+  - first:
+      213: 8095325430870137931
+    second: SarventeLeft0008
+  - first:
+      213: -6403849337626378413
+    second: SarventeLeft0009
+  - first:
+      213: -7283394563695100922
+    second: SarventeLeft0010
+  - first:
+      213: -6919734365797789724
+    second: SarventeLeft0011
+  - first:
+      213: -4671174199230076356
+    second: SarventeLeft0012
+  - first:
+      213: 5111131622995151614
+    second: SarventeLeft0013
+  - first:
+      213: 1238378073654713237
+    second: SarventeLeft0014
+  - first:
+      213: -4118235752929401780
+    second: SarventeLeft0015
+  - first:
+      213: 1241069183746441095
+    second: SarventeLeft0016
+  - first:
+      213: -5048460238430779470
+    second: SarventeLeft0017
+  - first:
+      213: 1585868407547958777
+    second: SarventeLeft0018
+  - first:
+      213: 5270250239022070853
+    second: SarventeLeft0019
+  - first:
+      213: 2751242683949038250
+    second: SarventeLeft0020
+  - first:
+      213: 8343284462012127288
+    second: SarventeLeft0021
+  - first:
+      213: 4251068660911942050
+    second: SarventeLeft0022
+  - first:
+      213: 3112089373063784790
+    second: SarventeLeft0023
+  - first:
+      213: 2962220852108828610
+    second: SarventeRight0000
+  - first:
+      213: -4111073896775013546
+    second: SarventeRight0001
+  - first:
+      213: -8186024049388833885
+    second: SarventeRight0002
+  - first:
+      213: -1055416612187046807
+    second: SarventeRight0003
+  - first:
+      213: 9144760303573055296
+    second: SarventeRight0004
+  - first:
+      213: -7509892919431398210
+    second: SarventeRight0005
+  - first:
+      213: 7782651904029180833
+    second: SarventeRight0006
+  - first:
+      213: -5181434538225670944
+    second: SarventeRight0007
+  - first:
+      213: -3225224864018314596
+    second: SarventeRight0008
+  - first:
+      213: -7072504393239967485
+    second: SarventeRight0009
+  - first:
+      213: -4934342464526722683
+    second: SarventeRight0010
+  - first:
+      213: -5289387382496394462
+    second: SarventeRight0011
+  - first:
+      213: -235125127511413507
+    second: SarventeRight0012
+  - first:
+      213: 35770961415798419
+    second: SarventeRight0013
+  - first:
+      213: -1890092544021250630
+    second: SarventeRight0014
+  - first:
+      213: 6010172400829559361
+    second: SarventeRight0015
+  - first:
+      213: 1602514946261232425
+    second: SarventeRight0016
+  - first:
+      213: -6035458594710586280
+    second: SarventeRight0017
+  - first:
+      213: -1238288403435909834
+    second: SarventeRight0018
+  - first:
+      213: -6170126120711836411
+    second: SarventeRight0019
+  - first:
+      213: 1494976072663498245
+    second: SarventeRight0020
+  - first:
+      213: 6322112724609924471
+    second: SarventeRight0021
+  - first:
+      213: -5718459951725098762
+    second: SarventeRight0022
+  - first:
+      213: -720858502153637323
+    second: SarventeRight0023
+  - first:
+      213: 8826832227511520741
+    second: SarventeUp0000
+  - first:
+      213: -8049310877850391698
+    second: SarventeUp0001
+  - first:
+      213: 5198053795299183669
+    second: SarventeUp0002
+  - first:
+      213: -7984666961801365306
+    second: SarventeUp0003
+  - first:
+      213: 7194651702475212134
+    second: SarventeUp0004
+  - first:
+      213: -2265647708922436590
+    second: SarventeUp0005
+  - first:
+      213: 8723883219794870952
+    second: SarventeUp0006
+  - first:
+      213: 2286281485975647058
+    second: SarventeUp0007
+  - first:
+      213: -7650920924682492771
+    second: SarventeUp0008
+  - first:
+      213: 5115539145596946529
+    second: SarventeUp0009
+  - first:
+      213: -7791265306961769039
+    second: SarventeUp0010
+  - first:
+      213: -5996691190008871654
+    second: SarventeUp0011
+  - first:
+      213: -1477772463202223224
+    second: SarventeUp0012
+  - first:
+      213: -7883912665177306344
+    second: SarventeUp0013
+  - first:
+      213: 3674878284936353698
+    second: SarventeUp0014
+  - first:
+      213: -2596217436391230460
+    second: SarventeUp0015
+  - first:
+      213: 1043467969280520305
+    second: SarventeUp0016
+  - first:
+      213: 4571900030247408508
+    second: SarventeUp0017
+  - first:
+      213: 6188533296412766980
+    second: SarventeUp0018
+  - first:
+      213: -4555380133540174378
+    second: SarventeUp0019
+  - first:
+      213: -2187861268737380228
+    second: SarventeUp0020
+  - first:
+      213: 5342401560096318952
+    second: SarventeUp0021
+  - first:
+      213: 6260540073804974200
+    second: SarventeUp0022
+  - first:
+      213: -9176240176022684505
+    second: SarventeUp0023
+  - first:
+      213: 8437121912375040943
+    second: SarventeUp0024
+  - first:
+      213: -3171367146992789903
+    second: SarventeUp0025
+  - first:
+      213: 6302882241925398413
+    second: SarventeUp0026
+  - first:
+      213: -381832694968482525
+    second: SarventeUp0027
+  - first:
+      213: -8757076242750971155
+    second: SarventeUp0028
+  - first:
+      213: 7605766172809216721
+    second: SarventeUp0029
+  - first:
+      213: -6588573774309921623
+    second: SarventeUp0030
+  - first:
+      213: -7833839257211726058
+    second: SarventeUp0031
+  - first:
+      213: 7321179184060387538
+    second: SarventeUp0032
+  - first:
+      213: 2927136810472124660
+    second: SarventeUp0033
+  - first:
+      213: -6579178172713600882
+    second: SarventeUp0034
+  - first:
+      213: 732326269152227180
+    second: SarventeUp0035
+  - first:
+      213: 4640257115010200367
+    second: SarventeUp0036
+  - first:
+      213: 2425721122013587418
+    second: SarventeUp0037
+  - first:
+      213: -979035268866453720
+    second: SarventeUp0038
+  - first:
+      213: -4969835932695767605
+    second: SarventeUp0039
+  - first:
+      213: 8719205299896308770
+    second: SarventeUp0040
+  - first:
+      213: -2204798776405618985
+    second: SarventeUp0041
+  - first:
+      213: 4873407949571660450
+    second: SarventeUp0042
+  - first:
+      213: 2127848636818295683
+    second: SarventeUp0043
+  - first:
+      213: 7053017613571976994
+    second: SarventeUp0044
+  - first:
+      213: -5334684028475122830
+    second: SarventeUp0045
+  - first:
+      213: -3970370347494763731
+    second: SarventeUp0046
+  - first:
+      213: -7801292431902802556
+    second: SarventeUp0047
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SarventeDown0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f2b53e2fcb7fdc0800000000000000
+      internalID: -3605205225304281235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0001
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d7ab1ff8e512790800000000000000
+      internalID: -7556654727422116473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0002
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0605519359ede9390800000000000000
+      internalID: -7809559971324669856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0003
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa0f00e77ff4c730800000000000000
+      internalID: 4018617657846598398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0004
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7565bde0e35313a30800000000000000
+      internalID: 4193191268712142423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0005
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d017b95af743f9170800000000000000
+      internalID: 8187320370426769677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0006
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18547a83dcbc424b0800000000000000
+      internalID: -5466019965441718911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0007
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b355fd6afae762c00800000000000000
+      internalID: 875526470454170939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0008
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b83d09d7793bef40800000000000000
+      internalID: 5758759735428724913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0009
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed69cbd9f57c8d000800000000000000
+      internalID: 61017808451704542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0010
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30de8fd06a6befb20800000000000000
+      internalID: 3170172012030651651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0011
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba5c2e1078824840800000000000000
+      internalID: 5206874134317652659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0012
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc63d1d372756110800000000000000
+      internalID: 1253533913059650811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0013
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ed64dca6fec8430800000000000000
+      internalID: 3786664628701290091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0014
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f154a914c78a9e30800000000000000
+      internalID: 4511067253078512112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0015
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b4ab21ae164c2a0800000000000000
+      internalID: -6718137086165496961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0016
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbca2a89bff4a7080800000000000000
+      internalID: -9188944147679892293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0017
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161f027f5dfc90620800000000000000
+      internalID: 2740950366112772449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0018
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c759f5d5ff721cb0800000000000000
+      internalID: -4894709151164704829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0019
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf649d5216ba4e600800000000000000
+      internalID: 496710292652771067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0020
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7960fbec0c09620800000000000000
+      internalID: 2778932964288272302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0021
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799976fb79bf1ded0800000000000000
+      internalID: -2390853297987151465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0022
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02be712d9f079bc10800000000000000
+      internalID: 2069809722027404064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0023
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc5be33387287a30800000000000000
+      internalID: 4213160895870360772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0024
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad7deea7d93aa100800000000000000
+      internalID: 119971938594291104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0025
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594a89a7672183ba0800000000000000
+      internalID: -6109112594455812971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0026
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c069d9d2a5498a0800000000000000
+      internalID: -6299310826820596731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0027
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaeb19d50471eaa0800000000000000
+      internalID: -6133493649035760964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0028
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833ade6c63fbb3ca0800000000000000
+      internalID: -6036020633573416136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0029
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad12054892777bf00800000000000000
+      internalID: 1132504851504177626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0030
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4431fd9acf2f09730800000000000000
+      internalID: 4003967235728020292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0031
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18db650f2a9bc1e0800000000000000
+      internalID: -2176476468158408673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0032
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cac9777f1cfc070800000000000000
+      internalID: 8128929121034873950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0033
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b758415c986b10b0800000000000000
+      internalID: -5756892678075164750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0034
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815763be7860c3780800000000000000
+      internalID: -8702073199150074600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0035
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cdbc3bc11907c60800000000000000
+      internalID: 7813904905949404309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0036
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8d34656c7756450800000000000000
+      internalID: 6081398565568239793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0037
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b390e85b608caf740800000000000000
+      internalID: 5186677852011891003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0038
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc44ed063fd96bf0800000000000000
+      internalID: -330487674380727103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0039
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a86ea94e0099640800000000000000
+      internalID: 5087098235943029290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0040
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ce175d8065c6dd0800000000000000
+      internalID: -2491521897901986736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0041
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a59235a5ed6f3c0800000000000000
+      internalID: -4326025912519140786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0042
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f683b3255580af70800000000000000
+      internalID: 9196497039808235256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0043
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f932210f4330d3390800000000000000
+      internalID: -7837104250653891681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0044
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b582f371f14cdc00800000000000000
+      internalID: 926688128619677106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0045
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a152bec2dbd7670800000000000000
+      internalID: 8538188469185616476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0046
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a79855c24883df50800000000000000
+      internalID: 6905012474049238951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeDown0047
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3366
+        width: 548
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909688e05c628fd00800000000000000
+      internalID: 1006597144511539465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeHey0000
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 3336
+        width: 432
+        height: 760
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bedf43a2bbf0010800000000000000
+      internalID: 1157349419209583373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeHey0001
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 3336
+        width: 432
+        height: 760
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc40949c711b5e170800000000000000
+      internalID: 8207160611671966925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeHey0002
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 3336
+        width: 432
+        height: 760
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24289e075c743b060800000000000000
+      internalID: 6967991961800770114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeHey0003
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 3336
+        width: 432
+        height: 760
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2b0810163557200800000000000000
+      internalID: 177139436453147338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeHey0004
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 3336
+        width: 432
+        height: 760
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361b2930391c8e720800000000000000
+      internalID: 2875761199240360291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeIdle0000
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 3332
+        width: 455
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9265a1e2d644770800000000000000
+      internalID: 8594114033707526637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeIdle0001
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 3332
+        width: 455
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dd0efeb7f963760800000000000000
+      internalID: 7437307189303237891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeIdle0002
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 3332
+        width: 455
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14829e6879ed2a250800000000000000
+      internalID: 5954566399722072129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeIdle0003
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 3332
+        width: 455
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb8d765b30378e00800000000000000
+      internalID: 1046858469799201734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeIdle0004
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 3332
+        width: 455
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e43698293621a20800000000000000
+      internalID: 3031594980195126857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeIdle0005
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 3332
+        width: 455
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee0f49c5ad47b310800000000000000
+      internalID: 1420689581901025001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeIdle0006
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 3332
+        width: 455
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf1a82ff2b4d9ff0800000000000000
+      internalID: -27783353389670453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeIdle0007
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 3332
+        width: 455
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ec2aa8fccf8dc40800000000000000
+      internalID: 5537453710166380147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeIdle0008
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 3332
+        width: 455
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8304ca38e6a3240800000000000000
+      internalID: 4772248266962123006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeIdle0009
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 3332
+        width: 455
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a279ce4952f07b400800000000000000
+      internalID: 339756950976501546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeIdle0010
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 3332
+        width: 455
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d223f3a6d32ae4540800000000000000
+      internalID: 4994107421459690029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeIdle0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2568
+        width: 455
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b767b708e6913860800000000000000
+      internalID: 7507947977109366708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeIdle0012
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2568
+        width: 455
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83be32f1fed206180800000000000000
+      internalID: -9124242340009743560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeIdle0013
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2568
+        width: 455
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb81b6541d9e2d740800000000000000
+      internalID: 5175456006824204478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0000
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547a56a7d032600b0800000000000000
+      internalID: -5762880132378941627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0001
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3817f7221f9d9f0800000000000000
+      internalID: -443057957849955369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0002
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c0e7f25820e54b0800000000000000
+      internalID: -5449915728021025673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0003
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b372f20cd7d0000800000000000000
+      internalID: 3797439075531627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0004
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240f37adcaa2e8730800000000000000
+      internalID: 4003184040666722370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0005
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31efbf69fc46331e0800000000000000
+      internalID: -2219319348609417709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0006
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd25a58a8b1f715d0800000000000000
+      internalID: -3091736843765787939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0007
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa78fb364db5b4240800000000000000
+      internalID: 4777012797521233834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0008
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c5338a69f585070800000000000000
+      internalID: 8095325430870137931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0009
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fb8abd4f4f027a0800000000000000
+      internalID: -6403849337626378413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0010
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c31ffbb3f2cea90800000000000000
+      internalID: -7283394563695100922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0011
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef4f82b14a28ff90800000000000000
+      internalID: -6919734365797789724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0012
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3aebe290d7ac2fb0800000000000000
+      internalID: -4671174199230076356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0013
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa44e491236ee640800000000000000
+      internalID: 5111131622995151614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0014
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b52d9fb4a9f2110800000000000000
+      internalID: 1238378073654713237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0015
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44645de66619d6c0800000000000000
+      internalID: -4118235752929401780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0016
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ff3eed8d9293110800000000000000
+      internalID: 1241069183746441095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0017
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b746a9392440f9b0800000000000000
+      internalID: -5048460238430779470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0018
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f519641ae2220610800000000000000
+      internalID: 1585868407547958777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0019
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cf35e5ba0b32940800000000000000
+      internalID: 5270250239022070853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0020
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaabca3f4a06e2620800000000000000
+      internalID: 2751242683949038250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0021
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838d44a730d49c370800000000000000
+      internalID: 8343284462012127288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0022
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9a3798c64defa30800000000000000
+      internalID: 4251068660911942050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeLeft0023
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2574
+        width: 527
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6592cb6dbcc503b20800000000000000
+      internalID: 3112089373063784790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0000
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 2574
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf9334ab2ceb1920800000000000000
+      internalID: 2962220852108828610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b2851821882f6c0800000000000000
+      internalID: -4111073896775013546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0002
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3bf5d9f76656e80800000000000000
+      internalID: -8186024049388833885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0003
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c7b8cde286a51f0800000000000000
+      internalID: -1055416612187046807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0004
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047b09a8b07b8ee70800000000000000
+      internalID: 9144760303573055296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0005
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcf11ccd2087c790800000000000000
+      internalID: -7509892919431398210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0006
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a34d262ca8810c60800000000000000
+      internalID: 7782651904029180833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0007
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e46e1a6db8d718b0800000000000000
+      internalID: -5181434538225670944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0008
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a4e6bf213bd33d0800000000000000
+      internalID: -3225224864018314596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0009
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309ca80e9ba69dd90800000000000000
+      internalID: -7072504393239967485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0010
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58952c9fba1b58bb0800000000000000
+      internalID: -4934342464526722683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0011
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2238ed233325896b0800000000000000
+      internalID: -5289387382496394462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0012
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfce9e831faacbcf0800000000000000
+      internalID: -235125127511413507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0013
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e7678ff751f7000800000000000000
+      internalID: 35770961415798419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0014
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdbff868da05c5e0800000000000000
+      internalID: -1890092544021250630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0015
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1427d4e84fb686350800000000000000
+      internalID: 6010172400829559361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0016
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ba7276ad64d3610800000000000000
+      internalID: 1602514946261232425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0017
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c72b5a26ebd3ca0800000000000000
+      internalID: -6035458594710586280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0018
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d87bff147b0dee0800000000000000
+      internalID: -1238288403435909834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0019
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dac93ebfe4f5aa0800000000000000
+      internalID: -6170126120711836411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0020
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ef0de31d83fb410800000000000000
+      internalID: 1494976072663498245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0021
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77df95ce608acb750800000000000000
+      internalID: 6322112724609924471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0022
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8c02bb8f2f3a0b0800000000000000
+      internalID: -5718459951725098762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeRight0023
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1810
+        width: 511
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532ffc5f20ffef5f0800000000000000
+      internalID: -720858502153637323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0000
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed4bc4f4253f7a70800000000000000
+      internalID: 8826832227511520741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0001
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b2a07576a1b4090800000000000000
+      internalID: -8049310877850391698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0002
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ccd28e262332840800000000000000
+      internalID: 5198053795299183669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0003
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8380ce3b3c03190800000000000000
+      internalID: -7984666961801365306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0004
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665c1b0ca9988d360800000000000000
+      internalID: 7194651702475212134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0005
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2142083a96dce80e0800000000000000
+      internalID: -2265647708922436590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0006
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a24dd93195711970800000000000000
+      internalID: 8723883219794870952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0007
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2537124f5e08abf10800000000000000
+      internalID: 2286281485975647058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0008
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9462bf84f772d590800000000000000
+      internalID: -7650920924682492771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0009
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16849e7efbb0ef640800000000000000
+      internalID: 5115539145596946529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0010
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd08b3bb7ddfd390800000000000000
+      internalID: -7791265306961769039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0011
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a158ecf622977cca0800000000000000
+      internalID: -5996691190008871654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0012
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b3af736c5ed7be0800000000000000
+      internalID: -1477772463202223224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0013
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b47e7a337b69290800000000000000
+      internalID: -7883912665177306344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0014
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a79d6e645acff230800000000000000
+      internalID: 3674878284936353698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0015
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404b9383ff168fbd0800000000000000
+      internalID: -2596217436391230460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0016
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170b67be6942b7e00800000000000000
+      internalID: 1043467969280520305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0017
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c739e73cad6a27f30800000000000000
+      internalID: 4571900030247408508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0018
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4033c5dae3612e550800000000000000
+      internalID: 6188533296412766980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0019
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5677b67e908c0c0800000000000000
+      internalID: -4555380133540174378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0020
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70b21394c723a1e0800000000000000
+      internalID: -2187861268737380228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0021
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5a805e9e5042a40800000000000000
+      internalID: 5342401560096318952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0022
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8784e310708e1e650800000000000000
+      internalID: 6260540073804974200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0023
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acff7e7d2277a080800000000000000
+      internalID: -9176240176022684505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0024
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab57c17dada61570800000000000000
+      internalID: 8437121912375040943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0025
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1769627e16a0df3d0800000000000000
+      internalID: -3171367146992789903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0026
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fb4134106587750800000000000000
+      internalID: 6302882241925398413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0027
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32506ccdf2573baf0800000000000000
+      internalID: -381832694968482525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0028
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2e0dfdd8d987680800000000000000
+      internalID: -8757076242750971155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0029
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2c9fe790c1d8960800000000000000
+      internalID: 7605766172809216721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0030
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac6dcd5f0fa094a0800000000000000
+      internalID: -6588573774309921623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0031
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617926673bc984390800000000000000
+      internalID: -7833839257211726058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0032
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d057eabdad0a9560800000000000000
+      internalID: 7321179184060387538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0033
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f03925ab674f9820800000000000000
+      internalID: 2927136810472124660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0034
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88f6655f4012b4a0800000000000000
+      internalID: -6579178172713600882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0035
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f618c9cdeb92a00800000000000000
+      internalID: 732326269152227180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0036
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2379aec241856040800000000000000
+      internalID: 4640257115010200367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0037
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad728c92284e9a120800000000000000
+      internalID: 2425721122013587418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0038
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fc2a03c94c962f0800000000000000
+      internalID: -979035268866453720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0039
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc552bfec88970bb0800000000000000
+      internalID: -4969835932695767605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0040
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224d5002607d00970800000000000000
+      internalID: 8719205299896308770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0041
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de8023c13bf661e0800000000000000
+      internalID: -2204798776405618985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0042
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa98cfa5b2d1a340800000000000000
+      internalID: 4873407949571660450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0043
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b8a55bf03a78d10800000000000000
+      internalID: 2127848636818295683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0044
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fe78ba62a51e160800000000000000
+      internalID: 7053017613571976994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0045
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b5ac5f32567f5b0800000000000000
+      internalID: -5334684028475122830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0046
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2394d2743966e8c0800000000000000
+      internalID: -3970370347494763731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SarventeUp0047
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1811
+        width: 559
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d7d7fbddd3cb390800000000000000
+      internalID: -7801292431902802556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SarventeUp0024: 8437121912375040943
+      SarventeIdle0011: 7507947977109366708
+      SarventeDown0039: 5087098235943029290
+      SarventeUp0016: 1043467969280520305
+      SarventeRight0012: -235125127511413507
+      SarventeDown0037: 5186677852011891003
+      SarventeLeft0009: -6403849337626378413
+      SarventeLeft0007: 4777012797521233834
+      SarventeUp0012: -1477772463202223224
+      SarventeDown0022: 2069809722027404064
+      SarventeIdle0002: 5954566399722072129
+      SarventeLeft0005: -2219319348609417709
+      SarventeUp0011: -5996691190008871654
+      SarventeIdle0009: 339756950976501546
+      SarventeDown0047: 1006597144511539465
+      SarventeDown0028: -6036020633573416136
+      SarventeRight0006: 7782651904029180833
+      SarventeDown0017: 2740950366112772449
+      SarventeLeft0002: -5449915728021025673
+      SarventeDown0044: 926688128619677106
+      SarventeDown0024: 119971938594291104
+      SarventeDown0002: -7809559971324669856
+      SarventeDown0007: 875526470454170939
+      SarventeDown0045: 8538188469185616476
+      SarventeUp0043: 2127848636818295683
+      SarventeIdle0010: 4994107421459690029
+      SarventeRight0018: -1238288403435909834
+      SarventeUp0044: 7053017613571976994
+      SarventeUp0003: -7984666961801365306
+      SarventeLeft0022: 4251068660911942050
+      SarventeRight0016: 1602514946261232425
+      SarventeUp0046: -3970370347494763731
+      SarventeUp0001: -8049310877850391698
+      SarventeDown0006: -5466019965441718911
+      SarventeUp0013: -7883912665177306344
+      SarventeUp0010: -7791265306961769039
+      SarventeUp0042: 4873407949571660450
+      SarventeUp0045: -5334684028475122830
+      SarventeLeft0015: -4118235752929401780
+      SarventeDown0043: -7837104250653891681
+      SarventeUp0023: -9176240176022684505
+      SarventeUp0004: 7194651702475212134
+      SarventeDown0023: 4213160895870360772
+      SarventeDown0031: -2176476468158408673
+      SarventeDown0033: -5756892678075164750
+      SarventeIdle0005: 1420689581901025001
+      SarventeDown0008: 5758759735428724913
+      SarventeRight0003: -1055416612187046807
+      SarventeIdle0003: 1046858469799201734
+      SarventeRight0009: -7072504393239967485
+      SarventeUp0006: 8723883219794870952
+      SarventeDown0011: 5206874134317652659
+      SarventeHey0002: 6967991961800770114
+      SarventeUp0037: 2425721122013587418
+      SarventeRight0023: -720858502153637323
+      SarventeRight0013: 35770961415798419
+      SarventeDown0018: -4894709151164704829
+      SarventeUp0007: 2286281485975647058
+      SarventeUp0031: -7833839257211726058
+      SarventeIdle0013: 5175456006824204478
+      SarventeRight0022: -5718459951725098762
+      SarventeUp0034: -6579178172713600882
+      SarventeDown0016: -9188944147679892293
+      SarventeIdle0012: -9124242340009743560
+      SarventeLeft0017: -5048460238430779470
+      SarventeDown0034: -8702073199150074600
+      SarventeUp0032: 7321179184060387538
+      SarventeDown0035: 7813904905949404309
+      SarventeUp0028: -8757076242750971155
+      SarventeLeft0014: 1238378073654713237
+      SarventeLeft0006: -3091736843765787939
+      SarventeUp0022: 6260540073804974200
+      SarventeRight0005: -7509892919431398210
+      SarventeRight0010: -4934342464526722683
+      SarventeRight0011: -5289387382496394462
+      SarventeDown0042: 9196497039808235256
+      SarventeUp0047: -7801292431902802556
+      SarventeRight0014: -1890092544021250630
+      SarventeRight0008: -3225224864018314596
+      SarventeUp0014: 3674878284936353698
+      SarventeUp0018: 6188533296412766980
+      SarventeUp0015: -2596217436391230460
+      SarventeLeft0000: -5762880132378941627
+      SarventeUp0027: -381832694968482525
+      SarventeDown0004: 4193191268712142423
+      SarventeLeft0004: 4003184040666722370
+      SarventeDown0026: -6299310826820596731
+      SarventeLeft0001: -443057957849955369
+      SarventeLeft0003: 3797439075531627
+      SarventeDown0021: -2390853297987151465
+      SarventeUp0009: 5115539145596946529
+      SarventeUp0041: -2204798776405618985
+      SarventeUp0030: -6588573774309921623
+      SarventeLeft0013: 5111131622995151614
+      SarventeUp0029: 7605766172809216721
+      SarventeUp0019: -4555380133540174378
+      SarventeUp0002: 5198053795299183669
+      SarventeIdle0001: 7437307189303237891
+      SarventeIdle0007: 5537453710166380147
+      SarventeLeft0021: 8343284462012127288
+      SarventeUp0039: -4969835932695767605
+      SarventeDown0012: 1253533913059650811
+      SarventeDown0014: 4511067253078512112
+      SarventeIdle0000: 8594114033707526637
+      SarventeRight0007: -5181434538225670944
+      SarventeHey0001: 8207160611671966925
+      SarventeRight0017: -6035458594710586280
+      SarventeRight0004: 9144760303573055296
+      SarventeDown0000: -3605205225304281235
+      SarventeUp0005: -2265647708922436590
+      SarventeUp0038: -979035268866453720
+      SarventeLeft0010: -7283394563695100922
+      SarventeUp0017: 4571900030247408508
+      SarventeDown0038: -330487674380727103
+      SarventeLeft0012: -4671174199230076356
+      SarventeLeft0008: 8095325430870137931
+      SarventeUp0000: 8826832227511520741
+      SarventeDown0046: 6905012474049238951
+      SarventeDown0005: 8187320370426769677
+      SarventeIdle0006: -27783353389670453
+      SarventeDown0029: 1132504851504177626
+      SarventeHey0000: 1157349419209583373
+      SarventeIdle0008: 4772248266962123006
+      SarventeUp0025: -3171367146992789903
+      SarventeRight0020: 1494976072663498245
+      SarventeUp0026: 6302882241925398413
+      SarventeUp0035: 732326269152227180
+      SarventeDown0027: -6133493649035760964
+      SarventeUp0036: 4640257115010200367
+      SarventeDown0013: 3786664628701290091
+      SarventeUp0021: 5342401560096318952
+      SarventeLeft0023: 3112089373063784790
+      SarventeLeft0018: 1585868407547958777
+      SarventeRight0015: 6010172400829559361
+      SarventeDown0015: -6718137086165496961
+      SarventeRight0002: -8186024049388833885
+      SarventeDown0010: 3170172012030651651
+      SarventeDown0020: 2778932964288272302
+      SarventeLeft0019: 5270250239022070853
+      SarventeDown0040: -2491521897901986736
+      SarventeDown0025: -6109112594455812971
+      SarventeDown0036: 6081398565568239793
+      SarventeIdle0004: 3031594980195126857
+      SarventeUp0040: 8719205299896308770
+      SarventeLeft0011: -6919734365797789724
+      SarventeDown0030: 4003967235728020292
+      SarventeDown0001: -7556654727422116473
+      SarventeUp0033: 2927136810472124660
+      SarventeDown0009: 61017808451704542
+      SarventeDown0032: 8128929121034873950
+      SarventeRight0019: -6170126120711836411
+      SarventeRight0000: 2962220852108828610
+      SarventeDown0019: 496710292652771067
+      SarventeRight0001: -4111073896775013546
+      SarventeUp0020: -2187861268737380228
+      SarventeLeft0016: 1241069183746441095
+      SarventeRight0021: 6322112724609924471
+      SarventeHey0003: 177139436453147338
+      SarventeDown0003: 4018617657846598398
+      SarventeHey0004: 2875761199240360291
+      SarventeDown0041: -4326025912519140786
+      SarventeLeft0020: 2751242683949038250
+      SarventeUp0008: -7650920924682492771
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

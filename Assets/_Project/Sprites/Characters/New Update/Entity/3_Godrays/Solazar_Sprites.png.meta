@@ -1,0 +1,2372 @@
+fileFormatVersion: 2
+guid: 5bfd0751f74874c70a1291123cf2196d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3317546327041643153
+    second: Sol_Down0000
+  - first:
+      213: 1272992151628067424
+    second: Sol_Down0001
+  - first:
+      213: 3245206592902897258
+    second: Sol_Down0002
+  - first:
+      213: -2379301619100028961
+    second: Sol_Down0003
+  - first:
+      213: 7600284263318512569
+    second: Sol_Down0004
+  - first:
+      213: -2063727192411553060
+    second: Sol_Down0005
+  - first:
+      213: -2619172340437671065
+    second: Sol_Down0006
+  - first:
+      213: 2499580415149734288
+    second: Sol_Down0007
+  - first:
+      213: 7053393187317347485
+    second: Sol_Down0008
+  - first:
+      213: -8357964111137524673
+    second: Sol_Down0009
+  - first:
+      213: 6835544016014875813
+    second: Sol_Down0010
+  - first:
+      213: 4812235063301431162
+    second: Sol_Down0011
+  - first:
+      213: -6674105294668449501
+    second: Sol_Down0012
+  - first:
+      213: -5742151650208596699
+    second: Sol_Down0013
+  - first:
+      213: -1948924187572189581
+    second: Sol_Down0014
+  - first:
+      213: -2971515147255171530
+    second: Sol_Idle_20000
+  - first:
+      213: -760357065667597054
+    second: Sol_Idle_20001
+  - first:
+      213: -8065358372587245952
+    second: Sol_Idle_20002
+  - first:
+      213: 5028198369344416034
+    second: Sol_Idle_20003
+  - first:
+      213: -1597555724784034794
+    second: Sol_Idle_20004
+  - first:
+      213: -9196892482394031902
+    second: Sol_Idle_20005
+  - first:
+      213: -6207335148409458859
+    second: Sol_Idle_20006
+  - first:
+      213: 4479997746171522486
+    second: Sol_Idle_20007
+  - first:
+      213: 7286080219230448659
+    second: Sol_Idle_20008
+  - first:
+      213: 4542381082638490670
+    second: Sol_Idle_20009
+  - first:
+      213: 2385780496149855325
+    second: Sol_Idle_20010
+  - first:
+      213: -1395375965985143516
+    second: Sol_Idle_20011
+  - first:
+      213: 8107070256663076075
+    second: Sol_Idle_20012
+  - first:
+      213: -2607736856327853000
+    second: Sol_Idle_20013
+  - first:
+      213: -6777481176311683615
+    second: Sol_Idle_20014
+  - first:
+      213: -8389121876510675515
+    second: Sol_Idle_20015
+  - first:
+      213: -3435491788223155735
+    second: Sol_Idle_20016
+  - first:
+      213: 9033973276757995996
+    second: Sol_Idle_20017
+  - first:
+      213: -8564350663526915182
+    second: Sol_Idle_20018
+  - first:
+      213: -2857340811821340736
+    second: Sol_Idle_20019
+  - first:
+      213: -1577773353348567397
+    second: Sol_Idle_20020
+  - first:
+      213: -8018465045942122995
+    second: Sol_Idle_20021
+  - first:
+      213: -368684459831608379
+    second: Sol_Idle_20022
+  - first:
+      213: 6123610769060712108
+    second: Sol_Idle_20023
+  - first:
+      213: -6563579924220480606
+    second: Sol_Idle_20024
+  - first:
+      213: -2269419260989000668
+    second: Sol_Idle_20025
+  - first:
+      213: -8471270542559736668
+    second: Sol_Idle_20026
+  - first:
+      213: -7659755645892736015
+    second: Sol_Idle_20027
+  - first:
+      213: -2964410042445804940
+    second: Sol_Left0000
+  - first:
+      213: 1896878514786854467
+    second: Sol_Left0001
+  - first:
+      213: -8464766478153318026
+    second: Sol_Left0002
+  - first:
+      213: -8281119821814288808
+    second: Sol_Left0003
+  - first:
+      213: -6588902481173417760
+    second: Sol_Left0004
+  - first:
+      213: 4248358190629371162
+    second: Sol_Left0005
+  - first:
+      213: 9193980537859423831
+    second: Sol_Left0006
+  - first:
+      213: -8783618545827296950
+    second: Sol_Left0007
+  - first:
+      213: 5449107624423467204
+    second: Sol_Left0008
+  - first:
+      213: 898451111992969114
+    second: Sol_Left0009
+  - first:
+      213: 9047681186536368244
+    second: Sol_Left0010
+  - first:
+      213: 1632867211880403458
+    second: Sol_Left0011
+  - first:
+      213: 921060708343740231
+    second: Sol_Left0012
+  - first:
+      213: -8396970656274779925
+    second: Sol_Left0013
+  - first:
+      213: 62693883535889970
+    second: Sol_Left0014
+  - first:
+      213: 1564949969608027014
+    second: Sol_Right0000
+  - first:
+      213: 6539069258624530606
+    second: Sol_Right0001
+  - first:
+      213: -8470221021004461531
+    second: Sol_Right0002
+  - first:
+      213: 4519399593191389510
+    second: Sol_Right0003
+  - first:
+      213: -5949199770492703735
+    second: Sol_Right0004
+  - first:
+      213: 4834403191702892394
+    second: Sol_Right0005
+  - first:
+      213: 3171153087914297633
+    second: Sol_Right0006
+  - first:
+      213: 5482409263662774983
+    second: Sol_Right0007
+  - first:
+      213: 1990847821946607670
+    second: Sol_Right0008
+  - first:
+      213: 2285790070650187605
+    second: Sol_Right0009
+  - first:
+      213: -8011559803056583296
+    second: Sol_Right0010
+  - first:
+      213: 8836206219635245522
+    second: Sol_Right0011
+  - first:
+      213: -2005348245040542841
+    second: Sol_Right0012
+  - first:
+      213: 1173979136952188365
+    second: Sol_Right0013
+  - first:
+      213: 5516331326133780853
+    second: Sol_Right0014
+  - first:
+      213: 6484777465634641828
+    second: Sol_Up0000
+  - first:
+      213: 5171625303631095634
+    second: Sol_Up0001
+  - first:
+      213: 2964552669927524487
+    second: Sol_Up0002
+  - first:
+      213: 1514700753954888193
+    second: Sol_Up0003
+  - first:
+      213: 6572086311269269064
+    second: Sol_Up0004
+  - first:
+      213: -1103914511417684507
+    second: Sol_Up0005
+  - first:
+      213: -6396952875047156832
+    second: Sol_Up0006
+  - first:
+      213: -4976119561423806879
+    second: Sol_Up0007
+  - first:
+      213: 1634822395886010472
+    second: Sol_Up0008
+  - first:
+      213: -2460042251748445667
+    second: Sol_Up0009
+  - first:
+      213: -5781871793280482623
+    second: Sol_Up0010
+  - first:
+      213: 4541311254074092057
+    second: Sol_Up0011
+  - first:
+      213: 1575724708282882278
+    second: Sol_Up0012
+  - first:
+      213: 7878285194188487889
+    second: Sol_Up0013
+  - first:
+      213: -1539966002259935995
+    second: Sol_Up0014
+  - first:
+      213: 3556080988469066592
+    second: Sol_Up0015
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 235
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sol_Down0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7119
+        width: 1001
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6de7c25135b5f1d0800000000000000
+      internalID: -3317546327041643153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Down0001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7119
+        width: 1001
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062b6a70e939aa110800000000000000
+      internalID: 1272992151628067424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Down0002
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 7119
+        width: 1001
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e9bb0d33a490d20800000000000000
+      internalID: 3245206592902897258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Down0003
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 7119
+        width: 1001
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfe70498c50bfed0800000000000000
+      internalID: -2379301619100028961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Down0004
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 7119
+        width: 1001
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3671bf442a97960800000000000000
+      internalID: 7600284263318512569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Down0005
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 7119
+        width: 1001
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2cef67d0b2c53e0800000000000000
+      internalID: -2063727192411553060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Down0006
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 7119
+        width: 1001
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7632fa222a4d6abd0800000000000000
+      internalID: -2619172340437671065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Down0007
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 7119
+        width: 1001
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099f58ce42b40b220800000000000000
+      internalID: 2499580415149734288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Down0008
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 7119
+        width: 1001
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94f53fbbbfa2e160800000000000000
+      internalID: 7053393187317347485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Down0009
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 7119
+        width: 1001
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f343f2e5ceb820c80800000000000000
+      internalID: -8357964111137524673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Down0010
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 7119
+        width: 1001
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac1d19f01bbcde50800000000000000
+      internalID: 6835544016014875813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Down0011
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 7119
+        width: 1001
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fd2c33b4e78c240800000000000000
+      internalID: 4812235063301431162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Down0012
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 7119
+        width: 1001
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329bbbd6890d063a0800000000000000
+      internalID: -6674105294668449501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Down0013
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 7119
+        width: 1001
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52db4e25f77cf40b0800000000000000
+      internalID: -5742151650208596699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Down0014
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 7119
+        width: 1001
+        height: 1073
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376c799f6c704f4e0800000000000000
+      internalID: -1948924187572189581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20000
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 7130
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636b923a7be03c6d0800000000000000
+      internalID: -2971515147255171530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20001
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 7130
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dac6ef64ba275f0800000000000000
+      internalID: -760357065667597054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20002
+      rect:
+        serializedVersion: 2
+        x: 5596
+        y: 7130
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ee6bfca47121090800000000000000
+      internalID: -8065358372587245952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20003
+      rect:
+        serializedVersion: 2
+        x: 5596
+        y: 7130
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229e8f0c6cfb7c540800000000000000
+      internalID: 5028198369344416034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20004
+      rect:
+        serializedVersion: 2
+        x: 6187
+        y: 7130
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c1b53588754d9e0800000000000000
+      internalID: -1597555724784034794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20005
+      rect:
+        serializedVersion: 2
+        x: 6187
+        y: 7130
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e87175b3031e5080800000000000000
+      internalID: -9196892482394031902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20006
+      rect:
+        serializedVersion: 2
+        x: 6778
+        y: 7130
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fe145029d1bd9a0800000000000000
+      internalID: -6207335148409458859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20007
+      rect:
+        serializedVersion: 2
+        x: 6778
+        y: 7130
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdaa1fc6362c2e30800000000000000
+      internalID: 4479997746171522486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20008
+      rect:
+        serializedVersion: 2
+        x: 7369
+        y: 7130
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c2b382b5b5d1560800000000000000
+      internalID: 7286080219230448659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20009
+      rect:
+        serializedVersion: 2
+        x: 7369
+        y: 7130
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c1f113787c90f30800000000000000
+      internalID: 4542381082638490670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c311988befb1120800000000000000
+      internalID: 2385780496149855325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4258653b3f0a2ace0800000000000000
+      internalID: -1395375965985143516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20012
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec99810279128070800000000000000
+      internalID: 8107070256663076075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20013
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c62e245257fcbd0800000000000000
+      internalID: -2607736856327853000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20014
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5ab0e57cc81f1a0800000000000000
+      internalID: -6777481176311683615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20015
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd6f1dc91ad39b80800000000000000
+      internalID: -8389121876510675515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20016
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1ff2eab6ea250d0800000000000000
+      internalID: -3435491788223155735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20017
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd13887c4de1f5d70800000000000000
+      internalID: 9033973276757995996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20018
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293e8988270552980800000000000000
+      internalID: -8564350663526915182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20019
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7a925abafa858d0800000000000000
+      internalID: -2857340811821340736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20020
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ee4999e7f9a1ae0800000000000000
+      internalID: -1577773353348567397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20021
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06cbbc3680b8b090800000000000000
+      internalID: -8018465045942122995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20022
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbb789ef6b22eaf0800000000000000
+      internalID: -368684459831608379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20023
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caece98dc8f6bf450800000000000000
+      internalID: 6123610769060712108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20024
+      rect:
+        serializedVersion: 2
+        x: 4137
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3f3f195da79e4a0800000000000000
+      internalID: -6563579924220480606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20025
+      rect:
+        serializedVersion: 2
+        x: 4137
+        y: 6057
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424325eb4376180e0800000000000000
+      internalID: -2269419260989000668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20026
+      rect:
+        serializedVersion: 2
+        x: 7369
+        y: 7130
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac0f720350007a80800000000000000
+      internalID: -8471270542559736668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Idle_20027
+      rect:
+        serializedVersion: 2
+        x: 7369
+        y: 7130
+        width: 591
+        height: 1062
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb454cb2d413b590800000000000000
+      internalID: -7659755645892736015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Left0000
+      rect:
+        serializedVersion: 2
+        x: 4728
+        y: 6070
+        width: 971
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47aca63c5cc4cd6d0800000000000000
+      internalID: -2964410042445804940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Left0001
+      rect:
+        serializedVersion: 2
+        x: 4728
+        y: 6070
+        width: 971
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346e0f785f0135a10800000000000000
+      internalID: 1896878514786854467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Left0002
+      rect:
+        serializedVersion: 2
+        x: 5699
+        y: 6070
+        width: 971
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67189038cbb178a80800000000000000
+      internalID: -8464766478153318026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Left0003
+      rect:
+        serializedVersion: 2
+        x: 5699
+        y: 6070
+        width: 971
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e2056b56d831d80800000000000000
+      internalID: -8281119821814288808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Left0004
+      rect:
+        serializedVersion: 2
+        x: 6670
+        y: 6070
+        width: 971
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0f7f55a148f84a0800000000000000
+      internalID: -6588902481173417760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Left0005
+      rect:
+        serializedVersion: 2
+        x: 6670
+        y: 6070
+        width: 971
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1db51ff34335fa30800000000000000
+      internalID: 4248358190629371162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Left0006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5008
+        width: 971
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e37fe5694979f70800000000000000
+      internalID: 9193980537859423831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Left0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5008
+        width: 971
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a494e6d58715a1680800000000000000
+      internalID: -8783618545827296950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Left0008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5008
+        width: 971
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c822a8838e1f9b40800000000000000
+      internalID: 5449107624423467204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Left0009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5008
+        width: 971
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a974562b680f77c00800000000000000
+      internalID: 898451111992969114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Left0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5008
+        width: 971
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4782c7c3a12df8d70800000000000000
+      internalID: 9047681186536368244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Left0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5008
+        width: 971
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2029381f31c19a610800000000000000
+      internalID: 1632867211880403458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Left0012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5008
+        width: 971
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747f56195d348cc00800000000000000
+      internalID: 921060708343740231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Left0013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5008
+        width: 971
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0fc5b5da7f77b80800000000000000
+      internalID: -8396970656274779925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Left0014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5008
+        width: 971
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2361fb141cbbed000800000000000000
+      internalID: 62693883535889970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Right0000
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 5019
+        width: 1062
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68baeb5b4b1d7b510800000000000000
+      internalID: 1564949969608027014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Right0001
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 5019
+        width: 1062
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8fdf168d07fba50800000000000000
+      internalID: 6539069258624530606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Right0002
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 5019
+        width: 1062
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a8bf9cbdab37a80800000000000000
+      internalID: -8470221021004461531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Right0003
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 5019
+        width: 1062
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649b7363cf128be30800000000000000
+      internalID: 4519399593191389510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Right0004
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 5019
+        width: 1062
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c62f53452307da0800000000000000
+      internalID: -5949199770492703735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Right0005
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 5019
+        width: 1062
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f277ec610471340800000000000000
+      internalID: 4834403191702892394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Right0006
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 5019
+        width: 1062
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129c3859ee2320c20800000000000000
+      internalID: 3171153087914297633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Right0007
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 5019
+        width: 1062
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca3ee1ad2e651c40800000000000000
+      internalID: 5482409263662774983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Right0008
+      rect:
+        serializedVersion: 2
+        x: 5219
+        y: 5019
+        width: 1062
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638dcfccb89e0ab10800000000000000
+      internalID: 1990847821946607670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Right0009
+      rect:
+        serializedVersion: 2
+        x: 5219
+        y: 5019
+        width: 1062
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f283865f1c8bf10800000000000000
+      internalID: 2285790070650187605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Right0010
+      rect:
+        serializedVersion: 2
+        x: 5219
+        y: 5019
+        width: 1062
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d83026ec831d090800000000000000
+      internalID: -8011559803056583296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Right0011
+      rect:
+        serializedVersion: 2
+        x: 5219
+        y: 5019
+        width: 1062
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1c4739db280aa70800000000000000
+      internalID: 8836206219635245522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Right0012
+      rect:
+        serializedVersion: 2
+        x: 5219
+        y: 5019
+        width: 1062
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bc76b55629b24e0800000000000000
+      internalID: -2005348245040542841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Right0013
+      rect:
+        serializedVersion: 2
+        x: 5219
+        y: 5019
+        width: 1062
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd31c71ecfca4010800000000000000
+      internalID: 1173979136952188365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Right0014
+      rect:
+        serializedVersion: 2
+        x: 5219
+        y: 5019
+        width: 1062
+        height: 1038
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57140954d12fd8c40800000000000000
+      internalID: 5516331326133780853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0000
+      rect:
+        serializedVersion: 2
+        x: 6281
+        y: 4931
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a75c964fbe8ef950800000000000000
+      internalID: 6484777465634641828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0001
+      rect:
+        serializedVersion: 2
+        x: 6281
+        y: 4931
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2576a5e20dd45c740800000000000000
+      internalID: 5171625303631095634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0002
+      rect:
+        serializedVersion: 2
+        x: 6902
+        y: 4931
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78847f842f4342920800000000000000
+      internalID: 2964552669927524487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0003
+      rect:
+        serializedVersion: 2
+        x: 6902
+        y: 4931
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a5f7c7f4c450510800000000000000
+      internalID: 1514700753954888193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0004
+      rect:
+        serializedVersion: 2
+        x: 7523
+        y: 4931
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e79600eadb43b50800000000000000
+      internalID: 6572086311269269064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0005
+      rect:
+        serializedVersion: 2
+        x: 7523
+        y: 4931
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edcc84c99b1ea0f0800000000000000
+      internalID: -1103914511417684507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3805
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a386eda0457937a0800000000000000
+      internalID: -6396952875047156832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3805
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e167d9f9541fab0800000000000000
+      internalID: -4976119561423806879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0008
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 3805
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86083a1be4e00b610800000000000000
+      internalID: 1634822395886010472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0009
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 3805
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12f41c1b9c2cddd0800000000000000
+      internalID: -2460042251748445667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0010
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 3805
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c28aa8dc3aa2cfa0800000000000000
+      internalID: -5781871793280482623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0011
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 3805
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ae191568af50f30800000000000000
+      internalID: 4541311254074092057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0012
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 3805
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8d10d06491ed510800000000000000
+      internalID: 1575724708282882278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0013
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 3805
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcf2d6a4aa455d60800000000000000
+      internalID: 7878285194188487889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0014
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 3805
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d3e1d7411f0aae0800000000000000
+      internalID: -1539966002259935995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol_Up0015
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 3805
+        width: 621
+        height: 1126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bf73e61dcb95130800000000000000
+      internalID: 3556080988469066592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sol_Up0005: -1103914511417684507
+      Sol_Down0005: -2063727192411553060
+      Sol_Idle_20009: 4542381082638490670
+      Sol_Right0012: -2005348245040542841
+      Sol_Right0006: 3171153087914297633
+      Sol_Idle_20006: -6207335148409458859
+      Sol_Idle_20000: -2971515147255171530
+      Sol_Down0007: 2499580415149734288
+      Sol_Left0009: 898451111992969114
+      Sol_Idle_20021: -8018465045942122995
+      Sol_Left0008: 5449107624423467204
+      Sol_Up0004: 6572086311269269064
+      Sol_Up0011: 4541311254074092057
+      Sol_Up0008: 1634822395886010472
+      Sol_Left0003: -8281119821814288808
+      Sol_Idle_20024: -6563579924220480606
+      Sol_Left0004: -6588902481173417760
+      Sol_Up0015: 3556080988469066592
+      Sol_Left0000: -2964410042445804940
+      Sol_Idle_20022: -368684459831608379
+      Sol_Idle_20015: -8389121876510675515
+      Sol_Left0006: 9193980537859423831
+      Sol_Right0007: 5482409263662774983
+      Sol_Left0011: 1632867211880403458
+      Sol_Down0002: 3245206592902897258
+      Sol_Right0002: -8470221021004461531
+      Sol_Down0006: -2619172340437671065
+      Sol_Down0009: -8357964111137524673
+      Sol_Down0008: 7053393187317347485
+      Sol_Right0011: 8836206219635245522
+      Sol_Up0007: -4976119561423806879
+      Sol_Idle_20012: 8107070256663076075
+      Sol_Idle_20016: -3435491788223155735
+      Sol_Right0013: 1173979136952188365
+      Sol_Right0014: 5516331326133780853
+      Sol_Up0009: -2460042251748445667
+      Sol_Up0012: 1575724708282882278
+      Sol_Left0002: -8464766478153318026
+      Sol_Left0013: -8396970656274779925
+      Sol_Right0009: 2285790070650187605
+      Sol_Idle_20011: -1395375965985143516
+      Sol_Down0000: -3317546327041643153
+      Sol_Down0014: -1948924187572189581
+      Sol_Down0003: -2379301619100028961
+      Sol_Idle_20014: -6777481176311683615
+      Sol_Down0012: -6674105294668449501
+      Sol_Idle_20013: -2607736856327853000
+      Sol_Idle_20020: -1577773353348567397
+      Sol_Up0014: -1539966002259935995
+      Sol_Idle_20008: 7286080219230448659
+      Sol_Idle_20017: 9033973276757995996
+      Sol_Up0013: 7878285194188487889
+      Sol_Idle_20010: 2385780496149855325
+      Sol_Up0001: 5171625303631095634
+      Sol_Down0013: -5742151650208596699
+      Sol_Right0004: -5949199770492703735
+      Sol_Idle_20018: -8564350663526915182
+      Sol_Right0003: 4519399593191389510
+      Sol_Up0003: 1514700753954888193
+      Sol_Right0001: 6539069258624530606
+      Sol_Idle_20005: -9196892482394031902
+      Sol_Right0000: 1564949969608027014
+      Sol_Idle_20003: 5028198369344416034
+      Sol_Left0010: 9047681186536368244
+      Sol_Down0001: 1272992151628067424
+      Sol_Idle_20026: -8471270542559736668
+      Sol_Up0010: -5781871793280482623
+      Sol_Up0006: -6396952875047156832
+      Sol_Left0005: 4248358190629371162
+      Sol_Idle_20007: 4479997746171522486
+      Sol_Up0002: 2964552669927524487
+      Sol_Right0010: -8011559803056583296
+      Sol_Left0007: -8783618545827296950
+      Sol_Left0012: 921060708343740231
+      Sol_Right0008: 1990847821946607670
+      Sol_Idle_20023: 6123610769060712108
+      Sol_Idle_20025: -2269419260989000668
+      Sol_Left0014: 62693883535889970
+      Sol_Idle_20002: -8065358372587245952
+      Sol_Down0004: 7600284263318512569
+      Sol_Idle_20004: -1597555724784034794
+      Sol_Idle_20019: -2857340811821340736
+      Sol_Idle_20001: -760357065667597054
+      Sol_Right0005: 4834403191702892394
+      Sol_Down0011: 4812235063301431162
+      Sol_Left0001: 1896878514786854467
+      Sol_Down0010: 6835544016014875813
+      Sol_Up0000: 6484777465634641828
+      Sol_Idle_20027: -7659755645892736015
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

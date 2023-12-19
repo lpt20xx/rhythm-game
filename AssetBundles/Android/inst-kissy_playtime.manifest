@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 886950823
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 426bdcc7ab4fdbc948f8e9cc72303a59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/AssetBundles/Vs Kissy Missy/inst-kissy_playtime.mp3
+Dependencies: []

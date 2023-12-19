@@ -1,0 +1,1997 @@
+fileFormatVersion: 2
+guid: f5d2ec6a6a50c40169866ad04518182c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4429683507616273132
+    second: Agoti_Down0000
+  - first:
+      213: 4149245465930990475
+    second: Agoti_Down0001
+  - first:
+      213: -5278752293582693
+    second: Agoti_Down0002
+  - first:
+      213: 345137680713233491
+    second: Agoti_Down0003
+  - first:
+      213: 4218397742342659904
+    second: Agoti_Down0004
+  - first:
+      213: 6709368827575489874
+    second: Agoti_Down0005
+  - first:
+      213: -4658569505160454728
+    second: Agoti_Down0006
+  - first:
+      213: 8521611848194473324
+    second: Agoti_Down0007
+  - first:
+      213: -8333875967169346830
+    second: Agoti_Down0008
+  - first:
+      213: -8733581921874252802
+    second: Agoti_Down0009
+  - first:
+      213: 3295717153632107145
+    second: Agoti_Down0010
+  - first:
+      213: 8913171577094705399
+    second: Agoti_Down0011
+  - first:
+      213: 2526134162543483929
+    second: Agoti_Down0012
+  - first:
+      213: -244370036784973480
+    second: Agoti_Down0013
+  - first:
+      213: 5147099323170263251
+    second: Agoti_Down0014
+  - first:
+      213: -4772967408285899132
+    second: Agoti_Idle0000
+  - first:
+      213: 2645406966998058015
+    second: Agoti_Idle0001
+  - first:
+      213: 7925607996610312584
+    second: Agoti_Idle0002
+  - first:
+      213: 4600401552676259341
+    second: Agoti_Idle0003
+  - first:
+      213: -6037237841025185160
+    second: Agoti_Idle0004
+  - first:
+      213: 3048368355391190960
+    second: Agoti_Idle0005
+  - first:
+      213: 1128551704933372296
+    second: Agoti_Idle0006
+  - first:
+      213: -6024215960206141772
+    second: Agoti_Idle0007
+  - first:
+      213: 8769289775587410852
+    second: Agoti_Idle0008
+  - first:
+      213: 7917172024392966241
+    second: Agoti_Idle0009
+  - first:
+      213: 523311508024388818
+    second: Agoti_Idle0010
+  - first:
+      213: 4916405391716463150
+    second: Agoti_Idle0011
+  - first:
+      213: 7528711543552384037
+    second: Agoti_Idle0012
+  - first:
+      213: -4061467169344872772
+    second: Agoti_Idle0013
+  - first:
+      213: -496071689043179974
+    second: Agoti_Left0000
+  - first:
+      213: -9168369810675058175
+    second: Agoti_Left0001
+  - first:
+      213: 4276982466704646149
+    second: Agoti_Left0002
+  - first:
+      213: -4020769427596824287
+    second: Agoti_Left0003
+  - first:
+      213: 8699159911142940744
+    second: Agoti_Left0004
+  - first:
+      213: -6681698922884095728
+    second: Agoti_Left0005
+  - first:
+      213: -2515289777459437538
+    second: Agoti_Left0006
+  - first:
+      213: 8883312763570498679
+    second: Agoti_Left0007
+  - first:
+      213: 8866472538581413711
+    second: Agoti_Left0008
+  - first:
+      213: 3213499587877261571
+    second: Agoti_Left0009
+  - first:
+      213: -7175726837391194984
+    second: Agoti_Left0010
+  - first:
+      213: -7490050563469576265
+    second: Agoti_Left0011
+  - first:
+      213: -4578545384132826154
+    second: Agoti_Left0012
+  - first:
+      213: 3347997576941621868
+    second: Agoti_Left0013
+  - first:
+      213: 1337268774203748943
+    second: Agoti_Left0014
+  - first:
+      213: 1191962421323293060
+    second: Agoti_Right0000
+  - first:
+      213: 7946819390423284831
+    second: Agoti_Right0001
+  - first:
+      213: -2056329127893167436
+    second: Agoti_Right0002
+  - first:
+      213: 7359760541536744224
+    second: Agoti_Right0003
+  - first:
+      213: -5019185706237646695
+    second: Agoti_Right0004
+  - first:
+      213: -5350442341627035970
+    second: Agoti_Right0005
+  - first:
+      213: -161581859573727551
+    second: Agoti_Right0006
+  - first:
+      213: -4618025210500636451
+    second: Agoti_Right0007
+  - first:
+      213: 6305937551374343034
+    second: Agoti_Right0008
+  - first:
+      213: -6038991453742757188
+    second: Agoti_Right0009
+  - first:
+      213: 6157510148989605256
+    second: Agoti_Right0010
+  - first:
+      213: -3123479729290148558
+    second: Agoti_Right0011
+  - first:
+      213: -7761398569954543806
+    second: Agoti_Right0012
+  - first:
+      213: -2522805549143673921
+    second: Agoti_Right0013
+  - first:
+      213: -5131930402160151969
+    second: Agoti_Right0014
+  - first:
+      213: 54837398894428025
+    second: Agoti_Up0000
+  - first:
+      213: -878929527212282496
+    second: Agoti_Up0001
+  - first:
+      213: -8217397086086938078
+    second: Agoti_Up0002
+  - first:
+      213: 6886740697044129717
+    second: Agoti_Up0003
+  - first:
+      213: -6785347509110081624
+    second: Agoti_Up0004
+  - first:
+      213: 1941631726698656205
+    second: Agoti_Up0005
+  - first:
+      213: 474299645680709598
+    second: Agoti_Up0006
+  - first:
+      213: -2861722910125569794
+    second: Agoti_Up0007
+  - first:
+      213: 8752549642880747540
+    second: Agoti_Up0008
+  - first:
+      213: 5120372695259733688
+    second: Agoti_Up0009
+  - first:
+      213: 742339486992439648
+    second: Agoti_Up0010
+  - first:
+      213: -5597463594213498132
+    second: Agoti_Up0011
+  - first:
+      213: 7507268940520411971
+    second: Agoti_Up0012
+  - first:
+      213: 4811285246785966564
+    second: Agoti_Up0013
+  - first:
+      213: -2724858502535088451
+    second: Agoti_Up0014
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 215
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Agoti_Down0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3441
+        width: 603
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2dfd24ea5697d30800000000000000
+      internalID: 4429683507616273132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Down0001
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 3441
+        width: 603
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8387b284c4159930800000000000000
+      internalID: 4149245465930990475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Down0002
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 3441
+        width: 603
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b980fa4b00f3deff0800000000000000
+      internalID: -5278752293582693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Down0003
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 3441
+        width: 603
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354b38954ec2ac400800000000000000
+      internalID: 345137680713233491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Down0004
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 3441
+        width: 603
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fd4a98562ca8a30800000000000000
+      internalID: 4218397742342659904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Down0005
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 3441
+        width: 603
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25557b2a6677c1d50800000000000000
+      internalID: 6709368827575489874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Down0006
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 3441
+        width: 603
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd917b97bf695fb0800000000000000
+      internalID: -4658569505160454728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Down0007
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 3441
+        width: 603
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d346593d8d24670800000000000000
+      internalID: 8521611848194473324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Down0008
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 3441
+        width: 603
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2c4be66ff185c80800000000000000
+      internalID: -8333875967169346830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Down0009
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 3441
+        width: 603
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb69e9b3851cc680800000000000000
+      internalID: -8733581921874252802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Down0010
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 3441
+        width: 603
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a376e2a4dbcbd20800000000000000
+      internalID: 3295717153632107145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Down0011
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 3441
+        width: 603
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f096da4352f1bb70800000000000000
+      internalID: 8913171577094705399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Down0012
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 3441
+        width: 603
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c126503a1ae0320800000000000000
+      internalID: 2526134162543483929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Down0013
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 3441
+        width: 603
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859beab0fb2db9cf0800000000000000
+      internalID: -244370036784973480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Down0014
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 3441
+        width: 603
+        height: 655
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0973d509b2e6740800000000000000
+      internalID: 5147099323170263251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Idle0000
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 3245
+        width: 466
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4862a903e6303cdb0800000000000000
+      internalID: -4772967408285899132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Idle0001
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 3245
+        width: 466
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14434ade9f56b420800000000000000
+      internalID: 2645406966998058015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Idle0002
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 3245
+        width: 466
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889f3f23b7a6dfd60800000000000000
+      internalID: 7925607996610312584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Idle0003
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 3245
+        width: 466
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d068c6396d8e7df30800000000000000
+      internalID: 4600401552676259341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Idle0004
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 3245
+        width: 466
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ac5259b2c673ca0800000000000000
+      internalID: -6037237841025185160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Idle0005
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 3245
+        width: 466
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b732a74edafd4a20800000000000000
+      internalID: 3048368355391190960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Idle0006
+      rect:
+        serializedVersion: 2
+        x: 4413
+        y: 3245
+        width: 466
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881173bdbcb69af00800000000000000
+      internalID: 1128551704933372296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Idle0007
+      rect:
+        serializedVersion: 2
+        x: 4413
+        y: 3245
+        width: 466
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b69ca9708fa56ca0800000000000000
+      internalID: -6024215960206141772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Idle0008
+      rect:
+        serializedVersion: 2
+        x: 4879
+        y: 3245
+        width: 466
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a34a56d696c2b970800000000000000
+      internalID: 8769289775587410852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Idle0009
+      rect:
+        serializedVersion: 2
+        x: 4879
+        y: 3245
+        width: 466
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1606a9b52027fdd60800000000000000
+      internalID: 7917172024392966241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Idle0010
+      rect:
+        serializedVersion: 2
+        x: 4879
+        y: 3245
+        width: 466
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dceaae3b0d234700800000000000000
+      internalID: 523311508024388818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Idle0011
+      rect:
+        serializedVersion: 2
+        x: 4879
+        y: 3245
+        width: 466
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e223311d7a49a3440800000000000000
+      internalID: 4916405391716463150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Idle0012
+      rect:
+        serializedVersion: 2
+        x: 4879
+        y: 3245
+        width: 466
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c92d1924b5b7860800000000000000
+      internalID: 7528711543552384037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Idle0013
+      rect:
+        serializedVersion: 2
+        x: 4879
+        y: 3245
+        width: 466
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe9948c025c2a7c0800000000000000
+      internalID: -4061467169344872772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Left0000
+      rect:
+        serializedVersion: 2
+        x: 5345
+        y: 3214
+        width: 809
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3604775d699d19f0800000000000000
+      internalID: -496071689043179974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Left0001
+      rect:
+        serializedVersion: 2
+        x: 6154
+        y: 3214
+        width: 809
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a3c49bb3863c080800000000000000
+      internalID: -9168369810675058175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Left0002
+      rect:
+        serializedVersion: 2
+        x: 6154
+        y: 3214
+        width: 809
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500218e94e4ea5b30800000000000000
+      internalID: 4276982466704646149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Left0003
+      rect:
+        serializedVersion: 2
+        x: 6963
+        y: 3214
+        width: 809
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1213750328b5338c0800000000000000
+      internalID: -4020769427596824287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Left0004
+      rect:
+        serializedVersion: 2
+        x: 6963
+        y: 3214
+        width: 809
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8406efb59df99b870800000000000000
+      internalID: 8699159911142940744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Left0005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2332
+        width: 809
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01122651b36d543a0800000000000000
+      internalID: -6681698922884095728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Left0006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2332
+        width: 809
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10eb532645e71dd0800000000000000
+      internalID: -2515289777459437538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Left0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2332
+        width: 809
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c205584edd74b70800000000000000
+      internalID: 8883312763570498679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Left0008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2332
+        width: 809
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fa6e81cc90c0b70800000000000000
+      internalID: 8866472538581413711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Left0009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2332
+        width: 809
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301d94d69d4a89c20800000000000000
+      internalID: 3213499587877261571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Left0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2332
+        width: 809
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8948f04c572ba6c90800000000000000
+      internalID: -7175726837391194984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Left0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2332
+        width: 809
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b77eae42befd0890800000000000000
+      internalID: -7490050563469576265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Left0012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2332
+        width: 809
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db22c63b3db570c0800000000000000
+      internalID: -4578545384132826154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Left0013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2332
+        width: 809
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62597ace0a767e20800000000000000
+      internalID: 3347997576941621868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Left0014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2332
+        width: 809
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42f2af6ddeee8210800000000000000
+      internalID: 1337268774203748943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Right0000
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2409
+        width: 794
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481e694c183ba8010800000000000000
+      internalID: 1191962421323293060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Right0001
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 2409
+        width: 794
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cbd5ca126c84e60800000000000000
+      internalID: 7946819390423284831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Right0002
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 2409
+        width: 794
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b293a69d837673e0800000000000000
+      internalID: -2056329127893167436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Right0003
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 2409
+        width: 794
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023fb36083f132660800000000000000
+      internalID: 7359760541536744224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Right0004
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 2409
+        width: 794
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998acf56135485ab0800000000000000
+      internalID: -5019185706237646695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Right0005
+      rect:
+        serializedVersion: 2
+        x: 4779
+        y: 2409
+        width: 794
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe7c14c9096fb5b0800000000000000
+      internalID: -5350442341627035970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Right0006
+      rect:
+        serializedVersion: 2
+        x: 5573
+        y: 2409
+        width: 794
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cef5f1a722f1cdf0800000000000000
+      internalID: -161581859573727551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Right0007
+      rect:
+        serializedVersion: 2
+        x: 6367
+        y: 2409
+        width: 794
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0af44d98a79efb0800000000000000
+      internalID: -4618025210500636451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Right0008
+      rect:
+        serializedVersion: 2
+        x: 6367
+        y: 2409
+        width: 794
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bd67deac0338750800000000000000
+      internalID: 6305937551374343034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Right0009
+      rect:
+        serializedVersion: 2
+        x: 6367
+        y: 2409
+        width: 794
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba0b0ec441313ca0800000000000000
+      internalID: -6038991453742757188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Right0010
+      rect:
+        serializedVersion: 2
+        x: 6367
+        y: 2409
+        width: 794
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885536b4bded37550800000000000000
+      internalID: 6157510148989605256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Right0011
+      rect:
+        serializedVersion: 2
+        x: 6367
+        y: 2409
+        width: 794
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23507803cbb27a4d0800000000000000
+      internalID: -3123479729290148558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Right0012
+      rect:
+        serializedVersion: 2
+        x: 6367
+        y: 2409
+        width: 794
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24772ad4f19f94490800000000000000
+      internalID: -7761398569954543806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Right0013
+      rect:
+        serializedVersion: 2
+        x: 6367
+        y: 2409
+        width: 794
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb338ed28b13dfcd0800000000000000
+      internalID: -2522805549143673921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Right0014
+      rect:
+        serializedVersion: 2
+        x: 6367
+        y: 2409
+        width: 794
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5277374d78b7c8b0800000000000000
+      internalID: -5131930402160151969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Up0000
+      rect:
+        serializedVersion: 2
+        x: 7161
+        y: 2287
+        width: 511
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f3281e252d2c000800000000000000
+      internalID: 54837398894428025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Up0001
+      rect:
+        serializedVersion: 2
+        x: 7672
+        y: 2287
+        width: 511
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08de8e3704a6dc3f0800000000000000
+      internalID: -878929527212282496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Up0002
+      rect:
+        serializedVersion: 2
+        x: 7672
+        y: 2287
+        width: 511
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222457943e0f5fd80800000000000000
+      internalID: -8217397086086938078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Up0003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 511
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b79a8b2d2e929f50800000000000000
+      internalID: 6886740697044129717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Up0004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 511
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a779e9046a95d1a0800000000000000
+      internalID: -6785347509110081624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Up0005
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1360
+        width: 511
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1708aa4cf02fa10800000000000000
+      internalID: 1941631726698656205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Up0006
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1360
+        width: 511
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf64e9c30d059600800000000000000
+      internalID: 474299645680709598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Up0007
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1360
+        width: 511
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef84e50ec2e1948d0800000000000000
+      internalID: -2861722910125569794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Up0008
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1360
+        width: 511
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41801e6f68d477970800000000000000
+      internalID: 8752549642880747540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Up0009
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1360
+        width: 511
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bed09266d73f0740800000000000000
+      internalID: 5120372695259733688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Up0010
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1360
+        width: 511
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0691ee094d15d4a00800000000000000
+      internalID: 742339486992439648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Up0011
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1360
+        width: 511
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce229b78480d152b0800000000000000
+      internalID: -5597463594213498132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Up0012
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1360
+        width: 511
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343da01835d2f2860800000000000000
+      internalID: 7507268940520411971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Up0013
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1360
+        width: 511
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e151cfc07e15c240800000000000000
+      internalID: 4811285246785966564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agoti_Up0014
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1360
+        width: 511
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6713df0ab5f2ad0800000000000000
+      internalID: -2724858502535088451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Agoti_Left0008: 8866472538581413711
+      Agoti_Idle0012: 7528711543552384037
+      Agoti_Idle0001: 2645406966998058015
+      Agoti_Left0004: 8699159911142940744
+      Agoti_Down0010: 3295717153632107145
+      Agoti_Idle0005: 3048368355391190960
+      Agoti_Idle0006: 1128551704933372296
+      Agoti_Down0002: -5278752293582693
+      Agoti_Left0006: -2515289777459437538
+      Agoti_Up0007: -2861722910125569794
+      Agoti_Left0009: 3213499587877261571
+      Agoti_Up0012: 7507268940520411971
+      Agoti_Up0001: -878929527212282496
+      Agoti_Right0011: -3123479729290148558
+      Agoti_Right0013: -2522805549143673921
+      Agoti_Left0013: 3347997576941621868
+      Agoti_Left0002: 4276982466704646149
+      Agoti_Idle0010: 523311508024388818
+      Agoti_Right0001: 7946819390423284831
+      Agoti_Idle0000: -4772967408285899132
+      Agoti_Right0002: -2056329127893167436
+      Agoti_Up0003: 6886740697044129717
+      Agoti_Right0012: -7761398569954543806
+      Agoti_Up0011: -5597463594213498132
+      Agoti_Idle0003: 4600401552676259341
+      Agoti_Down0014: 5147099323170263251
+      Agoti_Idle0008: 8769289775587410852
+      Agoti_Left0007: 8883312763570498679
+      Agoti_Idle0009: 7917172024392966241
+      Agoti_Idle0013: -4061467169344872772
+      Agoti_Down0000: 4429683507616273132
+      Agoti_Down0003: 345137680713233491
+      Agoti_Idle0011: 4916405391716463150
+      Agoti_Left0011: -7490050563469576265
+      Agoti_Left0014: 1337268774203748943
+      Agoti_Down0013: -244370036784973480
+      Agoti_Down0001: 4149245465930990475
+      Agoti_Left0010: -7175726837391194984
+      Agoti_Up0008: 8752549642880747540
+      Agoti_Left0003: -4020769427596824287
+      Agoti_Up0013: 4811285246785966564
+      Agoti_Right0007: -4618025210500636451
+      Agoti_Left0012: -4578545384132826154
+      Agoti_Up0002: -8217397086086938078
+      Agoti_Left0000: -496071689043179974
+      Agoti_Idle0007: -6024215960206141772
+      Agoti_Right0008: 6305937551374343034
+      Agoti_Up0010: 742339486992439648
+      Agoti_Down0004: 4218397742342659904
+      Agoti_Right0009: -6038991453742757188
+      Agoti_Down0008: -8333875967169346830
+      Agoti_Right0014: -5131930402160151969
+      Agoti_Down0011: 8913171577094705399
+      Agoti_Down0007: 8521611848194473324
+      Agoti_Left0001: -9168369810675058175
+      Agoti_Right0005: -5350442341627035970
+      Agoti_Idle0004: -6037237841025185160
+      Agoti_Right0004: -5019185706237646695
+      Agoti_Down0006: -4658569505160454728
+      Agoti_Down0005: 6709368827575489874
+      Agoti_Down0009: -8733581921874252802
+      Agoti_Up0000: 54837398894428025
+      Agoti_Right0003: 7359760541536744224
+      Agoti_Up0004: -6785347509110081624
+      Agoti_Right0006: -161581859573727551
+      Agoti_Right0010: 6157510148989605256
+      Agoti_Down0012: 2526134162543483929
+      Agoti_Right0000: 1191962421323293060
+      Agoti_Idle0002: 7925607996610312584
+      Agoti_Left0005: -6681698922884095728
+      Agoti_Up0009: 5120372695259733688
+      Agoti_Up0014: -2724858502535088451
+      Agoti_Up0005: 1941631726698656205
+      Agoti_Up0006: 474299645680709598
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2936537169
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d96ecc1c2a4c678c76933efc1f83b4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/AssetBundles/Cassette/Inst-ukiyo.mp3
+Dependencies: []

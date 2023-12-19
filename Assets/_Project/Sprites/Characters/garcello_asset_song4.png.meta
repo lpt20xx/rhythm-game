@@ -1,0 +1,1684 @@
+fileFormatVersion: 2
+guid: 186a132cbc8594b00961a3cba68d995a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2798407724855104445
+    second: garcello_asset_song4_0
+  - first:
+      213: 6741399610946296212
+    second: garcello_asset_song4_1
+  - first:
+      213: -1789904370506632015
+    second: garcello_asset_song4_2
+  - first:
+      213: 5945819007988881795
+    second: garcello_asset_song4_3
+  - first:
+      213: -8351621475307834856
+    second: garcello_asset_song4_4
+  - first:
+      213: -4878652001179741003
+    second: garcello_asset_song4_5
+  - first:
+      213: 5269497107201176856
+    second: garcello_asset_song4_6
+  - first:
+      213: -8802404616260675471
+    second: garcello_asset_song4_7
+  - first:
+      213: 5110851106826623903
+    second: garcello_asset_song4_8
+  - first:
+      213: 2087381479311498215
+    second: garcello_asset_song4_9
+  - first:
+      213: 6461346218146394401
+    second: garcello_asset_song4_10
+  - first:
+      213: 8453133936062816830
+    second: garcello_asset_song4_11
+  - first:
+      213: 6697177445087881652
+    second: garcello_asset_song4_12
+  - first:
+      213: -3176118222932854674
+    second: garcello_asset_song4_13
+  - first:
+      213: -495304107204597274
+    second: garcello_asset_song4_14
+  - first:
+      213: 1756210897185165295
+    second: garcello_asset_song4_15
+  - first:
+      213: -7583486079268562706
+    second: garcello_asset_song4_16
+  - first:
+      213: -7554683202776955469
+    second: garcello_asset_song4_17
+  - first:
+      213: -1299579922522684640
+    second: garcello_asset_song4_18
+  - first:
+      213: -411989112882186402
+    second: garcello_asset_song4_19
+  - first:
+      213: -1038812601551734884
+    second: garcello_asset_song4_20
+  - first:
+      213: 6679454394631961208
+    second: garcello_asset_song4_21
+  - first:
+      213: 7593951814173946389
+    second: garcello_asset_song4_22
+  - first:
+      213: -3913525260142471848
+    second: garcello_asset_song4_23
+  - first:
+      213: 652505258094666707
+    second: garcello_asset_song4_24
+  - first:
+      213: -3597683697485084111
+    second: garcello_asset_song4_25
+  - first:
+      213: -1117105801108736022
+    second: garcello_asset_song4_26
+  - first:
+      213: -8597405067414953447
+    second: garcello_asset_song4_27
+  - first:
+      213: 2959708268864821673
+    second: garcello_asset_song4_28
+  - first:
+      213: -8489319859162116839
+    second: garcello_asset_song4_29
+  - first:
+      213: 7758314730774714658
+    second: garcello_asset_song4_30
+  - first:
+      213: 8821985084818273507
+    second: garcello_asset_song4_31
+  - first:
+      213: -8590699328465138896
+    second: garcello_asset_song4_32
+  - first:
+      213: -8253589815110995367
+    second: garcello_asset_song4_33
+  - first:
+      213: 808820036958199086
+    second: garcello_asset_song4_34
+  - first:
+      213: 7010571982850532958
+    second: garcello_asset_song4_35
+  - first:
+      213: 7633920485047802829
+    second: garcello_asset_song4_36
+  - first:
+      213: -2388389069690233561
+    second: garcello_asset_song4_37
+  - first:
+      213: -4554697180666538266
+    second: garcello_asset_song4_38
+  - first:
+      213: 8564089758764857540
+    second: garcello_asset_song4_39
+  - first:
+      213: -7077690058225071217
+    second: garcello_asset_song4_40
+  - first:
+      213: 1008173817981032924
+    second: garcello_asset_song4_41
+  - first:
+      213: 1369106188300955709
+    second: garcello_asset_song4_42
+  - first:
+      213: 15262303897640581
+    second: garcello_asset_song4_43
+  - first:
+      213: 430469938568512747
+    second: garcello_asset_song4_44
+  - first:
+      213: 3139895840150151145
+    second: garcello_asset_song4_45
+  - first:
+      213: -263473273114820730
+    second: garcello_asset_song4_46
+  - first:
+      213: 612649058400664053
+    second: garcello_asset_song4_47
+  - first:
+      213: -5204806182055470086
+    second: garcello_asset_song4_48
+  - first:
+      213: -2535745521418337328
+    second: garcello_asset_song4_49
+  - first:
+      213: 4145658286466280524
+    second: garcello_asset_song4_50
+  - first:
+      213: 1047337621357513133
+    second: garcello_asset_song4_51
+  - first:
+      213: -4659795377535439139
+    second: garcello_asset_song4_52
+  - first:
+      213: -5106421425807118663
+    second: garcello_asset_song4_53
+  - first:
+      213: -7428781332662103476
+    second: garcello_asset_song4_54
+  - first:
+      213: 4019562764419114884
+    second: garcello_asset_song4_55
+  - first:
+      213: -8215568289673883917
+    second: garcello_asset_song4_56
+  - first:
+      213: 7869155609772613277
+    second: garcello_asset_song4_57
+  - first:
+      213: -7477074351473432461
+    second: garcello_asset_song4_58
+  - first:
+      213: -5097662473765307587
+    second: garcello_asset_song4_59
+  - first:
+      213: 4549186141495642825
+    second: garcello_asset_song4_60
+  - first:
+      213: -4931090801088899106
+    second: garcello_asset_song4_61
+  - first:
+      213: 3928924720029203365
+    second: garcello_asset_song4_62
+  - first:
+      213: -7437019474451130522
+    second: garcello_asset_song4_63
+  - first:
+      213: -2585086619593864505
+    second: garcello_asset_song4_64
+  - first:
+      213: -9042335652964034312
+    second: garcello_asset_song4_65
+  - first:
+      213: -2308446255654998205
+    second: garcello_asset_song4_66
+  - first:
+      213: 3409840890836647301
+    second: garcello_asset_song4_67
+  - first:
+      213: 5167119469055360282
+    second: garcello_asset_song4_68
+  - first:
+      213: -6011706178838654881
+    second: garcello_asset_song4_69
+  - first:
+      213: 1422874509554494399
+    second: garcello_asset_song4_70
+  - first:
+      213: -124442810862279338
+    second: garcello_asset_song4_71
+  - first:
+      213: 7190423379213672298
+    second: garcello_asset_song4_72
+  - first:
+      213: -8574467057703286902
+    second: garcello_asset_song4_73
+  - first:
+      213: -5223225510682122306
+    second: garcello_asset_song4_74
+  - first:
+      213: 6855315284301313669
+    second: garcello_asset_song4_75
+  - first:
+      213: -2261053153118162410
+    second: garcello_asset_song4_76
+  - first:
+      213: -1798445791163817189
+    second: garcello_asset_song4_77
+  - first:
+      213: 5597477383016188745
+    second: garcello_asset_song4_78
+  - first:
+      213: -5335626818981139769
+    second: garcello_asset_song4_79
+  - first:
+      213: -5580010500496719871
+    second: garcello_asset_song4_80
+  - first:
+      213: 1006371954514518892
+    second: garcello_asset_song4_81
+  - first:
+      213: -5093932964840597180
+    second: garcello_asset_song4_82
+  - first:
+      213: 1956923093224310104
+    second: garcello_asset_song4_83
+  - first:
+      213: -7708911657027073513
+    second: garcello_asset_song4_84
+  - first:
+      213: 2256784201150786066
+    second: garcello_asset_song4_85
+  - first:
+      213: -7412588566032005066
+    second: garcello_asset_song4_86
+  - first:
+      213: -2500124006443077493
+    second: garcello_asset_song4_87
+  - first:
+      213: -8881891360435832270
+    second: garcello_asset_song4_88
+  - first:
+      213: -8680667871356341542
+    second: garcello_asset_song4_89
+  - first:
+      213: 2836834549929254318
+    second: garcello_asset_song4_90
+  - first:
+      213: -1415993939553596538
+    second: garcello_asset_song4_91
+  - first:
+      213: 2055102043085410774
+    second: garcello_asset_song4_92
+  - first:
+      213: -2595340907672068567
+    second: garcello_asset_song4_93
+  - first:
+      213: -1774490422253368083
+    second: garcello_asset_song4_94
+  - first:
+      213: 4069158850737497702
+    second: garcello_asset_song4_95
+  - first:
+      213: -6708290805527568208
+    second: garcello_asset_song4_96
+  - first:
+      213: 5878425451360084677
+    second: garcello_asset_song4_97
+  - first:
+      213: 8700237192745059201
+    second: garcello_asset_song4_98
+  - first:
+      213: -7120964855732041409
+    second: garcello_asset_song4_99
+  - first:
+      213: 1975156676679867416
+    second: garcello_asset_song4_100
+  - first:
+      213: 4017686898750334891
+    second: garcello_asset_song4_101
+  - first:
+      213: -1711108242909165601
+    second: garcello_asset_song4_102
+  - first:
+      213: -7871515900605854753
+    second: garcello_asset_song4_103
+  - first:
+      213: 3577053738757323881
+    second: garcello_asset_song4_104
+  - first:
+      213: 753249949490270010
+    second: garcello_asset_song4_105
+  - first:
+      213: -8811902832344623211
+    second: garcello_asset_song4_106
+  - first:
+      213: -1287202030029985161
+    second: garcello_asset_song4_107
+  - first:
+      213: -3575437996621984958
+    second: garcello_asset_song4_108
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: garcello_asset_song4_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3426
+        width: 340
+        height: 607
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499196b8a334e8d50800000000000000
+      internalID: 6741399610946296212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_3
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 3423
+        width: 340
+        height: 603
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38951fda2eac38250800000000000000
+      internalID: 5945819007988881795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_5
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3426
+        width: 344
+        height: 600
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4dee66adb8b4cb0800000000000000
+      internalID: -4878652001179741003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_7
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 3426
+        width: 344
+        height: 606
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178168e73a397d580800000000000000
+      internalID: -8802404616260675471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_9
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 3426
+        width: 344
+        height: 600
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb5711656ed7fc10800000000000000
+      internalID: 2087381479311498215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_11
+      rect:
+        serializedVersion: 2
+        x: 3662
+        y: 3426
+        width: 344
+        height: 600
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32e2d937809f4570800000000000000
+      internalID: 8453133936062816830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_13
+      rect:
+        serializedVersion: 2
+        x: 4362
+        y: 3423
+        width: 348
+        height: 603
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e683175dd492ce3d0800000000000000
+      internalID: -3176118222932854674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_15
+      rect:
+        serializedVersion: 2
+        x: 5066
+        y: 3424
+        width: 348
+        height: 602
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef446591805f5810800000000000000
+      internalID: 1756210897185165295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_17
+      rect:
+        serializedVersion: 2
+        x: 5770
+        y: 3426
+        width: 348
+        height: 600
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b58edb47af582790800000000000000
+      internalID: -7554683202776955469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_19
+      rect:
+        serializedVersion: 2
+        x: 6474
+        y: 3426
+        width: 348
+        height: 596
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57345ba512584af0800000000000000
+      internalID: -411989112882186402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_21
+      rect:
+        serializedVersion: 2
+        x: 7178
+        y: 3426
+        width: 348
+        height: 596
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ab575f16032bc50800000000000000
+      internalID: 6679454394631961208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_22
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 2710
+        width: 344
+        height: 652
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5127545c0f2236960800000000000000
+      internalID: 7593951814173946389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_24
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 2714
+        width: 344
+        height: 648
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3aeca331a2e0900800000000000000
+      internalID: 652505258094666707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_25
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 2706
+        width: 328
+        height: 652
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a003d0db5721ec0800000000000000
+      internalID: -3597683697485084111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_26
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 2706
+        width: 340
+        height: 655
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7b26c413e3f70f0800000000000000
+      internalID: -1117105801108736022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_27
+      rect:
+        serializedVersion: 2
+        x: 5766
+        y: 2706
+        width: 328
+        height: 671
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912a69664a1efa880800000000000000
+      internalID: -8597405067414953447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_28
+      rect:
+        serializedVersion: 2
+        x: 6454
+        y: 2710
+        width: 340
+        height: 664
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a959744dfef21920800000000000000
+      internalID: 2959708268864821673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_29
+      rect:
+        serializedVersion: 2
+        x: 7170
+        y: 2708
+        width: 328
+        height: 666
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d09f10190ef2a80800000000000000
+      internalID: -8489319859162116839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2726
+        width: 355
+        height: 592
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229d18f64221bab60800000000000000
+      internalID: 7758314730774714658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_31
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2726
+        width: 356
+        height: 592
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4336a91bcfd6a70800000000000000
+      internalID: 8821985084818273507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_33
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2714
+        width: 340
+        height: 624
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952f684eacb557d80800000000000000
+      internalID: -8253589815110995367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_34
+      rect:
+        serializedVersion: 2
+        x: 5070
+        y: 2730
+        width: 368
+        height: 572
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d9c1ec981893b00800000000000000
+      internalID: 808820036958199086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_43
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2006
+        width: 328
+        height: 667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ed54a0cf8363000800000000000000
+      internalID: 15262303897640581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_45
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2006
+        width: 328
+        height: 664
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef50e771a6239b20800000000000000
+      internalID: 3139895840150151145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_46
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 2006
+        width: 340
+        height: 668
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f7e2c3474f75cf0800000000000000
+      internalID: -263473273114820730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_48
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2006
+        width: 328
+        height: 668
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb93d98a50d4c7b0800000000000000
+      internalID: -5204806182055470086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_50
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 2006
+        width: 328
+        height: 668
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c2af43f36588930800000000000000
+      internalID: 4145658286466280524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_52
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 2002
+        width: 328
+        height: 676
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde2ef3fac4155fb0800000000000000
+      internalID: -4659795377535439139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_53
+      rect:
+        serializedVersion: 2
+        x: 4338
+        y: 2010
+        width: 344
+        height: 636
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bea259a4c85229b0800000000000000
+      internalID: -5106421425807118663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_54
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 2010
+        width: 343
+        height: 636
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c425f90ccbaa7e890800000000000000
+      internalID: -7428781332662103476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_55
+      rect:
+        serializedVersion: 2
+        x: 5746
+        y: 2010
+        width: 340
+        height: 636
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487a695a90b58c730800000000000000
+      internalID: 4019562764419114884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_56
+      rect:
+        serializedVersion: 2
+        x: 6448
+        y: 2014
+        width: 342
+        height: 632
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe46022b207cfd80800000000000000
+      internalID: -8215568289673883917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_57
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 2014
+        width: 344
+        height: 628
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ed4c2a55bd43d60800000000000000
+      internalID: 7869155609772613277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_58
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1310
+        width: 344
+        height: 628
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378ed391e781c3890800000000000000
+      internalID: -7477074351473432461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_59
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1310
+        width: 344
+        height: 628
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b316a1df67149b0800000000000000
+      internalID: -5097662473765307587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_60
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1310
+        width: 351
+        height: 628
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca4afc61b4f12f30800000000000000
+      internalID: 4549186141495642825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_61
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 1310
+        width: 348
+        height: 628
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed756edda0f319bb0800000000000000
+      internalID: -4931090801088899106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_62
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 1306
+        width: 344
+        height: 647
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab779e6738568630800000000000000
+      internalID: 3928924720029203365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_63
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 1306
+        width: 344
+        height: 644
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6679da5e0366ac890800000000000000
+      internalID: -7437019474451130522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_65
+      rect:
+        serializedVersion: 2
+        x: 4378
+        y: 1306
+        width: 344
+        height: 646
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f89a39c1ab238280800000000000000
+      internalID: -9042335652964034312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_67
+      rect:
+        serializedVersion: 2
+        x: 5082
+        y: 1306
+        width: 344
+        height: 646
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d7bee5930325f20800000000000000
+      internalID: 3409840890836647301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_69
+      rect:
+        serializedVersion: 2
+        x: 5786
+        y: 1306
+        width: 364
+        height: 644
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f501d4ce411229ca0800000000000000
+      internalID: -6011706178838654881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_70
+      rect:
+        serializedVersion: 2
+        x: 6490
+        y: 1306
+        width: 360
+        height: 647
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb24f5e3d01fb310800000000000000
+      internalID: 1422874509554494399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_71
+      rect:
+        serializedVersion: 2
+        x: 7194
+        y: 1306
+        width: 356
+        height: 647
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655e3bf3ce3e54ef0800000000000000
+      internalID: -124442810862279338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_87
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 602
+        width: 352
+        height: 647
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80b88d5676cd4dd0800000000000000
+      internalID: -2500124006443077493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_88
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 598
+        width: 328
+        height: 651
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a7c9fadde2db480800000000000000
+      internalID: -8881891360435832270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_89
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 598
+        width: 340
+        height: 651
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2b8aa2092188780800000000000000
+      internalID: -8680667871356341542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_90
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 598
+        width: 340
+        height: 651
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead96133ef57e5720800000000000000
+      internalID: 2836834549929254318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_91
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 598
+        width: 328
+        height: 650
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b4dc4a301695ce0800000000000000
+      internalID: -1415993939553596538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_92
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 602
+        width: 332
+        height: 644
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d119477b60358c10800000000000000
+      internalID: 2055102043085410774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_93
+      rect:
+        serializedVersion: 2
+        x: 4366
+        y: 618
+        width: 360
+        height: 588
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e9a27f13f7bfbd0800000000000000
+      internalID: -2595340907672068567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_95
+      rect:
+        serializedVersion: 2
+        x: 5066
+        y: 618
+        width: 360
+        height: 590
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66668d85a6e887830800000000000000
+      internalID: 4069158850737497702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_97
+      rect:
+        serializedVersion: 2
+        x: 5774
+        y: 622
+        width: 364
+        height: 580
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2eee28dcc549150800000000000000
+      internalID: 5878425451360084677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_98
+      rect:
+        serializedVersion: 2
+        x: 6474
+        y: 622
+        width: 380
+        height: 580
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183063781a37db870800000000000000
+      internalID: 8700237192745059201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garcello_asset_song4_99
+      rect:
+        serializedVersion: 2
+        x: 7178
+        y: 618
+        width: 380
+        height: 588
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f390d0431304d2d90800000000000000
+      internalID: -7120964855732041409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      garcello_asset_song4_1: 6741399610946296212
+      garcello_asset_song4_53: -5106421425807118663
+      garcello_asset_song4_21: 6679454394631961208
+      garcello_asset_song4_52: -4659795377535439139
+      garcello_asset_song4_5: -4878652001179741003
+      garcello_asset_song4_69: -6011706178838654881
+      garcello_asset_song4_11: 8453133936062816830
+      garcello_asset_song4_67: 3409840890836647301
+      garcello_asset_song4_31: 8821985084818273507
+      garcello_asset_song4_33: -8253589815110995367
+      garcello_asset_song4_87: -2500124006443077493
+      garcello_asset_song4_57: 7869155609772613277
+      garcello_asset_song4_98: 8700237192745059201
+      garcello_asset_song4_24: 652505258094666707
+      garcello_asset_song4_43: 15262303897640581
+      garcello_asset_song4_9: 2087381479311498215
+      garcello_asset_song4_56: -8215568289673883917
+      garcello_asset_song4_55: 4019562764419114884
+      garcello_asset_song4_17: -7554683202776955469
+      garcello_asset_song4_22: 7593951814173946389
+      garcello_asset_song4_91: -1415993939553596538
+      garcello_asset_song4_89: -8680667871356341542
+      garcello_asset_song4_54: -7428781332662103476
+      garcello_asset_song4_70: 1422874509554494399
+      garcello_asset_song4_97: 5878425451360084677
+      garcello_asset_song4_15: 1756210897185165295
+      garcello_asset_song4_60: 4549186141495642825
+      garcello_asset_song4_28: 2959708268864821673
+      garcello_asset_song4_61: -4931090801088899106
+      garcello_asset_song4_95: 4069158850737497702
+      garcello_asset_song4_48: -5204806182055470086
+      garcello_asset_song4_13: -3176118222932854674
+      garcello_asset_song4_26: -1117105801108736022
+      garcello_asset_song4_3: 5945819007988881795
+      garcello_asset_song4_93: -2595340907672068567
+      garcello_asset_song4_46: -263473273114820730
+      garcello_asset_song4_99: -7120964855732041409
+      garcello_asset_song4_45: 3139895840150151145
+      garcello_asset_song4_30: 7758314730774714658
+      garcello_asset_song4_34: 808820036958199086
+      garcello_asset_song4_58: -7477074351473432461
+      garcello_asset_song4_62: 3928924720029203365
+      garcello_asset_song4_50: 4145658286466280524
+      garcello_asset_song4_88: -8881891360435832270
+      garcello_asset_song4_7: -8802404616260675471
+      garcello_asset_song4_65: -9042335652964034312
+      garcello_asset_song4_59: -5097662473765307587
+      garcello_asset_song4_27: -8597405067414953447
+      garcello_asset_song4_19: -411989112882186402
+      garcello_asset_song4_92: 2055102043085410774
+      garcello_asset_song4_29: -8489319859162116839
+      garcello_asset_song4_25: -3597683697485084111
+      garcello_asset_song4_63: -7437019474451130522
+      garcello_asset_song4_71: -124442810862279338
+      garcello_asset_song4_90: 2836834549929254318
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

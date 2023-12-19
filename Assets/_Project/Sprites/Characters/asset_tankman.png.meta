@@ -1,0 +1,1047 @@
+fileFormatVersion: 2
+guid: 5c9e1648bd86b1843a42e61567810c21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8899860247010510037
+    second: up_1
+  - first:
+      213: 8189974285599939585
+    second: up_2
+  - first:
+      213: 4275466872683063670
+    second: idle_7
+  - first:
+      213: -4139243943928462263
+    second: idle_7
+  - first:
+      213: -2988019780651147990
+    second: tankman_assets 1_13
+  - first:
+      213: -692337784622245764
+    second: idle_7
+  - first:
+      213: -6021665066380791228
+    second: tankman_assets 1_13
+  - first:
+      213: 4040598620322972621
+    second: tankman_assets 1_7
+  - first:
+      213: -3337469184881486131
+    second: idle_7
+  - first:
+      213: 4397210884775840105
+    second: tankman_assets 1_13
+  - first:
+      213: -8675924763148326355
+    second: idle_6
+  - first:
+      213: -4225561307922240578
+    second: idle_7
+  - first:
+      213: 5903340668602253082
+    second: tankman_assets 1_13
+  - first:
+      213: -7402723276831439534
+    second: tankman_assets 1_13
+  - first:
+      213: -7015869792047686800
+    second: down_1
+  - first:
+      213: 4340222289634764680
+    second: left
+  - first:
+      213: -7285367175723911134
+    second: tankman_assets 1_16
+  - first:
+      213: 9139073722184201373
+    second: left_1
+  - first:
+      213: 6951782116822669463
+    second: down_2
+  - first:
+      213: 7773399120366215862
+    second: tankman_assets 1_19
+  - first:
+      213: 3622101779018327478
+    second: tankman_assets 1_20
+  - first:
+      213: -5705202875590106525
+    second: left_2
+  - first:
+      213: -7666857370262137867
+    second: tankman_assets 1_22
+  - first:
+      213: -7732009933034414066
+    second: tankman_assets 1_23
+  - first:
+      213: -2646944042415509870
+    second: tankman_assets 1_24
+  - first:
+      213: -236676171215321517
+    second: tankman_assets 1_25
+  - first:
+      213: 580657394330407479
+    second: tankman_assets 1_26
+  - first:
+      213: -322721165789133818
+    second: tankman_assets 1_27
+  - first:
+      213: 5281267968573505961
+    second: tankman_assets 1_28
+  - first:
+      213: -16651718221512726
+    second: tankman_assets 1_29
+  - first:
+      213: 2601650590494965457
+    second: tankman_assets 1_30
+  - first:
+      213: -4054467199416332060
+    second: tankman_assets 1_31
+  - first:
+      213: -6382996095504411163
+    second: tankman_assets 1_32
+  - first:
+      213: 1512795420306907602
+    second: tankman_assets 1_33
+  - first:
+      213: -7755088121487767822
+    second: tankman_assets 1_34
+  - first:
+      213: -6306645070474888815
+    second: tankman_assets 1_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: up_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 198
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b715242485d7480800000000000000
+      internalID: -8899860247010510037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: up_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 872
+        width: 201
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c94cc6832a8a170800000000000000
+      internalID: 8189974285599939585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 892
+        width: 212
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6796933e772855b30800000000000000
+      internalID: 6084859605308855041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_2
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 892
+        width: 211
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944057b40937e86c0800000000000000
+      internalID: 8603369663158992956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_3
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 892
+        width: 210
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d927837db6886d0800000000000000
+      internalID: -5906421172241655209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_4
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 892
+        width: 211
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78920bf3725466f0800000000000000
+      internalID: 5704420531145803721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_5
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 892
+        width: 210
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4427ef9b68fbe6ca0800000000000000
+      internalID: -148617073940163930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_7
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 892
+        width: 171
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3c8448907131830800000000000000
+      internalID: 4040598620322972621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 194
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc69352857deea1d0800000000000000
+      internalID: 6507350358835803604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 646
+        width: 194
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9698b859008060d30800000000000000
+      internalID: -5790000775740618815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 666
+        width: 211
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a678a156ce89780800000000000000
+      internalID: -8675924763148326355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_7
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 666
+        width: 210
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbe8a0e06acb55c0800000000000000
+      internalID: 4275466872683063670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_8
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 666
+        width: 211
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f77249f01ece150800000000000000
+      internalID: 512795395688303107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_13
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 666
+        width: 210
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25542f9a66e344990800000000000000
+      internalID: -2988019780651147990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: down_1
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 702
+        width: 233
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b9a96889f92ae90800000000000000
+      internalID: -7015869792047686800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 173
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887a9eb4d219b3c30800000000000000
+      internalID: 4340222289634764680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 419
+        width: 173
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2287fa8372d25ea90800000000000000
+      internalID: -7285367175723911134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 447
+        width: 195
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9475e2212384de70800000000000000
+      internalID: 9139073722184201373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: down_2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 483
+        width: 227
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798d02dc001b97060800000000000000
+      internalID: 6951782116822669463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_19
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 435
+        width: 172
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b223c29059a0eb60800000000000000
+      internalID: 7773399120366215862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_20
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 435
+        width: 172
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5a2b6906a444230800000000000000
+      internalID: 3622101779018327478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_2
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 491
+        width: 202
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3622aec463c03d0b0800000000000000
+      internalID: -5705202875590106525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_22
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 472
+        width: 173
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f390fda7d9d99590800000000000000
+      internalID: -7666857370262137867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 162
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0021bd8ee162b490800000000000000
+      internalID: -7732009933034414066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 185
+        width: 163
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eac73ea6a244bd0800000000000000
+      internalID: -2646944042415509870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_25
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 224
+        width: 171
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35649e7b64827bcf0800000000000000
+      internalID: -236676171215321517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_26
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 245
+        width: 163
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732944dd2d8ee0800800000000000000
+      internalID: 580657394330407479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_27
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 201
+        width: 163
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60483af3fc6758bf0800000000000000
+      internalID: -322721165789133818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_28
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 201
+        width: 162
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1097e6c35da4940800000000000000
+      internalID: 5281267968573505961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_29
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 267
+        width: 172
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefb18ab957d4cff0800000000000000
+      internalID: -16651718221512726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_30
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 234
+        width: 162
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de332c8d6bea1420800000000000000
+      internalID: 2601650590494965457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 157
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e011594093abb7c0800000000000000
+      internalID: -4054467199416332060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_32
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 21
+        width: 164
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e511c4aeda0b67a0800000000000000
+      internalID: -6382996095504411163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_33
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 39
+        width: 162
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d12b3d6b678ef410800000000000000
+      internalID: 1512795420306907602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_34
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 10
+        width: 164
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6ced41174606490800000000000000
+      internalID: -7755088121487767822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankman_assets 1_35
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 8
+        width: 162
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19930e1f8bb4a78a0800000000000000
+      internalID: -6306645070474888815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tankman_assets 1_27: -322721165789133818
+      right_1: 6507350358835803604
+      tankman_assets 1_31: -4054467199416332060
+      tankman_assets 1_20: 3622101779018327478
+      tankman_assets 1_34: -7755088121487767822
+      idle_4: 5704420531145803721
+      left_1: 9139073722184201373
+      idle_3: -5906421172241655209
+      idle_1: 6084859605308855041
+      idle_8: 512795395688303107
+      down_1: -7015869792047686800
+      tankman_assets 1_33: 1512795420306907602
+      left_2: -5705202875590106525
+      up_1: -8899860247010510037
+      down_2: 6951782116822669463
+      tankman_assets 1_13: -2988019780651147990
+      idle_6: -8675924763148326355
+      right_2: -5790000775740618815
+      idle_7: 4275466872683063670
+      idle_2: 8603369663158992956
+      up_2: 8189974285599939585
+      tankman_assets 1_22: -7666857370262137867
+      tankman_assets 1_25: -236676171215321517
+      tankman_assets 1_24: -2646944042415509870
+      tankman_assets 1_26: 580657394330407479
+      idle_5: -148617073940163930
+      tankman_assets 1_16: -7285367175723911134
+      tankman_assets 1_19: 7773399120366215862
+      tankman_assets 1_30: 2601650590494965457
+      tankman_assets 1_23: -7732009933034414066
+      tankman_assets 1_32: -6382996095504411163
+      tankman_assets 1_7: 4040598620322972621
+      tankman_assets 1_28: 5281267968573505961
+      tankman_assets 1_35: -6306645070474888815
+      tankman_assets 1_29: -16651718221512726
+      left: 4340222289634764680
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

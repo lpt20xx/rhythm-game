@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4053829649
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 987e603f4d9f4eea9e4a4ab65fca1e79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/AssetBundles/Wuggy/Inst-playground.mp3
+Dependencies: []

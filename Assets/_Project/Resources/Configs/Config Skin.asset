@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c73dc08bc75348d4e96f2c8b4658eb2b, type: 3}
+  m_Name: Config Skin
+  m_EditorClassIdentifier: 
+  dataBoys:
+  - id: 0
+    skinAnimator: {fileID: 0}
+    coin: 0
+    spriteSkin: {fileID: 2930494915222055470, guid: 45c986fc27c604ab6b85b64d8ed7cc24, type: 3}
+  - id: 1
+    skinAnimator: {fileID: 0}
+    coin: 1000
+    spriteSkin: {fileID: 2930494915222055470, guid: 3c38289e8313640fe9205aed3cd46c78, type: 3}
+  - id: 2
+    skinAnimator: {fileID: 0}
+    coin: 1000
+    spriteSkin: {fileID: 2930494915222055470, guid: d3db16b6c091f424081ba877f733ee71, type: 3}
+  - id: 3
+    skinAnimator: {fileID: 0}
+    coin: 1000
+    spriteSkin: {fileID: -4153761269051166831, guid: 14b1f072ff56444bf9e76438eea0394b, type: 3}
+  - id: 4
+    skinAnimator: {fileID: 0}
+    coin: 1000
+    spriteSkin: {fileID: 2930494915222055470, guid: bf4173fca656e471bbebccd9dfc13f64, type: 3}
+  - id: 5
+    skinAnimator: {fileID: 0}
+    coin: 1000
+    spriteSkin: {fileID: 4430658574457229241, guid: 97e5f14d008924f7cb615287b571632f, type: 3}
+  - id: 6
+    skinAnimator: {fileID: 0}
+    coin: 1000
+    spriteSkin: {fileID: 2930494915222055470, guid: df42b8a7e6246471eb1b9179fba758ae, type: 3}
+  - id: 7
+    skinAnimator: {fileID: 0}
+    coin: 1000
+    spriteSkin: {fileID: 2930494915222055470, guid: 68b343b8de6b9484986979cfdb926f77, type: 3}
+  dataGirls:
+  - id: 0
+    skinAnimator: {fileID: 0}
+    coin: 0
+    spriteSkin: {fileID: 8431491585289067547, guid: fd793dcec0cca4ca092251184b166633, type: 3}
+  - id: 1
+    skinAnimator: {fileID: 0}
+    coin: 1000
+    spriteSkin: {fileID: 8431491585289067547, guid: fa49e38e0bca048438bf42e7208f2bc8, type: 3}
+  - id: 2
+    skinAnimator: {fileID: 0}
+    coin: 1000
+    spriteSkin: {fileID: 8431491585289067547, guid: fd6e3b26d9153440283f8deb8a01d668, type: 3}
+  - id: 3
+    skinAnimator: {fileID: 0}
+    coin: 1000
+    spriteSkin: {fileID: 8431491585289067547, guid: 60d4fcdc8ea6843b59d7bc6dae06cb76, type: 3}
+  - id: 4
+    skinAnimator: {fileID: 0}
+    coin: 1000
+    spriteSkin: {fileID: 8431491585289067547, guid: 64e3788aca1b541cea847ee09912efd9, type: 3}
+  - id: 5
+    skinAnimator: {fileID: 0}
+    coin: 1000
+    spriteSkin: {fileID: 8431491585289067547, guid: b14b117d11f7d4d9eb0b594e5cc2a9e7, type: 3}
+  - id: 6
+    skinAnimator: {fileID: 0}
+    coin: 1000
+    spriteSkin: {fileID: 8431491585289067547, guid: a6126dffa66724b819144779f4043085, type: 3}
+  - id: 7
+    skinAnimator: {fileID: 0}
+    coin: 1000
+    spriteSkin: {fileID: -7984360189194582129, guid: a525a35e0d0564b179fa5e94456688bd, type: 3}

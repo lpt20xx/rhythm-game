@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 538965648
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8368965f922a9545e9b9a85df5666585
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/AssetBundles/Whitty/Inst-lo-fight.mp3
+Dependencies: []

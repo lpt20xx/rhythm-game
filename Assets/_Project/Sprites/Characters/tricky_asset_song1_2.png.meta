@@ -1,0 +1,2472 @@
+fileFormatVersion: 2
+guid: c3c1657ead7f84891be5fcced89fb034
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6407836488882758852
+    second: tricky_asset_song1_2_0
+  - first:
+      213: -5438353017628000076
+    second: tricky_asset_song1_2_1
+  - first:
+      213: 4966092706729935208
+    second: tricky_asset_song1_2_2
+  - first:
+      213: 8768222167223548109
+    second: tricky_asset_song1_2_3
+  - first:
+      213: -1259085504216756131
+    second: tricky_asset_song1_2_4
+  - first:
+      213: -3135394903574773285
+    second: tricky_asset_song1_2_5
+  - first:
+      213: 3949177167481778068
+    second: tricky_asset_song1_2_6
+  - first:
+      213: -197325780475985860
+    second: tricky_asset_song1_2_7
+  - first:
+      213: 3917261475500520740
+    second: tricky_asset_song1_2_8
+  - first:
+      213: -7269849495132687246
+    second: tricky_asset_song1_2_9
+  - first:
+      213: 1496682595396294786
+    second: tricky_asset_song1_2_10
+  - first:
+      213: 3853284139942853689
+    second: tricky_asset_song1_2_11
+  - first:
+      213: -836601420523170267
+    second: tricky_asset_song1_2_12
+  - first:
+      213: -3354297797715048737
+    second: tricky_asset_song1_2_13
+  - first:
+      213: -7407080103797989735
+    second: tricky_asset_song1_2_14
+  - first:
+      213: -417138641418496250
+    second: tricky_asset_song1_2_15
+  - first:
+      213: -5487001817201264736
+    second: tricky_asset_song1_2_16
+  - first:
+      213: -4154693537663693444
+    second: tricky_asset_song1_2_17
+  - first:
+      213: -8800789078256585544
+    second: tricky_asset_song1_2_18
+  - first:
+      213: -4741586608297689874
+    second: tricky_asset_song1_2_19
+  - first:
+      213: -2884144230751599694
+    second: tricky_asset_song1_2_20
+  - first:
+      213: 4937111800937091820
+    second: tricky_asset_song1_2_21
+  - first:
+      213: 5673554657243162069
+    second: tricky_asset_song1_2_22
+  - first:
+      213: 7207084929702527264
+    second: tricky_asset_song1_2_23
+  - first:
+      213: 988231735378812990
+    second: tricky_asset_song1_2_24
+  - first:
+      213: -2200833647063714083
+    second: tricky_asset_song1_2_25
+  - first:
+      213: -2887793216183431417
+    second: tricky_asset_song1_2_26
+  - first:
+      213: 6523922974752960085
+    second: tricky_asset_song1_2_27
+  - first:
+      213: -8261594629653568706
+    second: tricky_asset_song1_2_28
+  - first:
+      213: 7169546550919050755
+    second: tricky_asset_song1_2_29
+  - first:
+      213: 5783827256356890572
+    second: tricky_asset_song1_2_30
+  - first:
+      213: -3745424098554554577
+    second: tricky_asset_song1_2_31
+  - first:
+      213: 5516500991982070807
+    second: tricky_asset_song1_2_32
+  - first:
+      213: 3117244432392988757
+    second: tricky_asset_song1_2_33
+  - first:
+      213: -4352996628815987988
+    second: tricky_asset_song1_2_34
+  - first:
+      213: -8070005010618452418
+    second: tricky_asset_song1_2_35
+  - first:
+      213: 8364447610159763128
+    second: tricky_asset_song1_2_36
+  - first:
+      213: -8109814622378556721
+    second: tricky_asset_song1_2_37
+  - first:
+      213: -7026432337373608717
+    second: tricky_asset_song1_2_38
+  - first:
+      213: -130399515708958912
+    second: tricky_asset_song1_2_39
+  - first:
+      213: 5021725321204024047
+    second: tricky_asset_song1_2_40
+  - first:
+      213: -3607584935366745657
+    second: tricky_asset_song1_2_41
+  - first:
+      213: -1018587133062218941
+    second: tricky_asset_song1_2_42
+  - first:
+      213: 7950304633406461584
+    second: tricky_asset_song1_2_43
+  - first:
+      213: -8185415532807550449
+    second: tricky_asset_song1_2_44
+  - first:
+      213: 6587580926234566415
+    second: tricky_asset_song1_2_45
+  - first:
+      213: 6806005458500458294
+    second: tricky_asset_song1_2_46
+  - first:
+      213: 8896230187882701600
+    second: tricky_asset_song1_2_47
+  - first:
+      213: 7910184886003385006
+    second: tricky_asset_song1_2_48
+  - first:
+      213: 4938418192034046202
+    second: tricky_asset_song1_2_49
+  - first:
+      213: 5175436808585985504
+    second: tricky_asset_song1_2_50
+  - first:
+      213: -9070660919766104083
+    second: tricky_asset_song1_2_51
+  - first:
+      213: 2145552266597360549
+    second: tricky_asset_song1_2_52
+  - first:
+      213: 1474957844461902317
+    second: tricky_asset_song1_2_53
+  - first:
+      213: 1635473061607663609
+    second: tricky_asset_song1_2_54
+  - first:
+      213: 42943496402343052
+    second: tricky_asset_song1_2_55
+  - first:
+      213: -1343700844016449953
+    second: tricky_asset_song1_2_56
+  - first:
+      213: 3115813926869315389
+    second: tricky_asset_song1_2_57
+  - first:
+      213: 8208219006191367154
+    second: tricky_asset_song1_2_58
+  - first:
+      213: 7748053420217153390
+    second: tricky_asset_song1_2_59
+  - first:
+      213: -2210240912895626378
+    second: tricky_asset_song1_2_60
+  - first:
+      213: -6763363737336422288
+    second: tricky_asset_song1_2_61
+  - first:
+      213: 4036474671081143975
+    second: tricky_asset_song1_2_62
+  - first:
+      213: 5631383691542146204
+    second: tricky_asset_song1_2_63
+  - first:
+      213: -5302560367366933909
+    second: tricky_asset_song1_2_64
+  - first:
+      213: 4576423479709671373
+    second: tricky_asset_song1_2_65
+  - first:
+      213: -5163708619489189435
+    second: tricky_asset_song1_2_66
+  - first:
+      213: 5380378802945880791
+    second: tricky_asset_song1_2_67
+  - first:
+      213: 6030732107193925790
+    second: tricky_asset_song1_2_68
+  - first:
+      213: -9136434491520619319
+    second: tricky_asset_song1_2_69
+  - first:
+      213: 8589302197444038296
+    second: tricky_asset_song1_2_70
+  - first:
+      213: 2107370605100876762
+    second: tricky_asset_song1_2_71
+  - first:
+      213: -7602258000979715820
+    second: tricky_asset_song1_2_72
+  - first:
+      213: 7337351413295105257
+    second: tricky_asset_song1_2_73
+  - first:
+      213: -5873163162030582781
+    second: tricky_asset_song1_2_74
+  - first:
+      213: -902847152108432719
+    second: tricky_asset_song1_2_75
+  - first:
+      213: -8771342882560645167
+    second: tricky_asset_song1_2_76
+  - first:
+      213: 5941372594577841730
+    second: tricky_asset_song1_2_77
+  - first:
+      213: 3555562547909900164
+    second: tricky_asset_song1_2_78
+  - first:
+      213: -7262604622289466225
+    second: tricky_asset_song1_2_79
+  - first:
+      213: 127157345950134081
+    second: tricky_asset_song1_2_80
+  - first:
+      213: -7015972274680253439
+    second: tricky_asset_song1_2_81
+  - first:
+      213: 7093552149608806473
+    second: tricky_asset_song1_2_82
+  - first:
+      213: 1255550148599291872
+    second: tricky_asset_song1_2_83
+  - first:
+      213: 2133907870972578512
+    second: tricky_asset_song1_2_84
+  - first:
+      213: 3446470791080594076
+    second: tricky_asset_song1_2_85
+  - first:
+      213: -533056832869024924
+    second: tricky_asset_song1_2_86
+  - first:
+      213: -1206686237112013752
+    second: tricky_asset_song1_2_87
+  - first:
+      213: -1332183346829833241
+    second: tricky_asset_song1_2_88
+  - first:
+      213: -6943992267523217750
+    second: tricky_asset_song1_2_89
+  - first:
+      213: -5689521974930571122
+    second: tricky_asset_song1_2_90
+  - first:
+      213: -1278548015912415136
+    second: tricky_asset_song1_2_91
+  - first:
+      213: -1654950203860097808
+    second: tricky_asset_song1_2_92
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7534
+        width: 630
+        height: 658
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b5b5dd9aac217a0800000000000000
+      internalID: -6407836488882758852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 7504
+        width: 632
+        height: 688
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b00c1d7eb61784b0800000000000000
+      internalID: -5438353017628000076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_2
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 7504
+        width: 640
+        height: 686
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861cb4a510b1be440800000000000000
+      internalID: 4966092706729935208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_3
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 7498
+        width: 640
+        height: 694
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8b015ea9bfea970800000000000000
+      internalID: 8768222167223548109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_4
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 7503
+        width: 1884
+        height: 689
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d501153a764d68ee0800000000000000
+      internalID: -1259085504216756131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_5
+      rect:
+        serializedVersion: 2
+        x: 5678
+        y: 7498
+        width: 2514
+        height: 694
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd10bdd72f6dc74d0800000000000000
+      internalID: -3135394903574773285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6814
+        width: 1270
+        height: 684
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fa5dec5bb4ec630800000000000000
+      internalID: 3949177167481778068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_7
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 6802
+        width: 2539
+        height: 696
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30c3b58f35f24df0800000000000000
+      internalID: -197325780475985860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_8
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 6814
+        width: 1256
+        height: 684
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425f783be88ec5630800000000000000
+      internalID: 3917261475500520740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_9
+      rect:
+        serializedVersion: 2
+        x: 5058
+        y: 6802
+        width: 2532
+        height: 696
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2743018c66e4c1b90800000000000000
+      internalID: -7269849495132687246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_10
+      rect:
+        serializedVersion: 2
+        x: 7050
+        y: 6160
+        width: 748
+        height: 636
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2881b1804e845c410800000000000000
+      internalID: 1496682595396294786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5455
+        width: 1254
+        height: 1347
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cb0fb728d997530800000000000000
+      internalID: 3853284139942853689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_12
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 6150
+        width: 728
+        height: 652
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5261127c07bc364f0800000000000000
+      internalID: -836601420523170267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_13
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 6143
+        width: 724
+        height: 659
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6c150cce32371d0800000000000000
+      internalID: -3354297797715048737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_14
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 6126
+        width: 724
+        height: 676
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ed146d3e3c43990800000000000000
+      internalID: -7407080103797989735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_15
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 6126
+        width: 720
+        height: 676
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6075920ad96063af0800000000000000
+      internalID: -417138641418496250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_16
+      rect:
+        serializedVersion: 2
+        x: 4150
+        y: 6142
+        width: 730
+        height: 660
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7bbcb2be04ad3b0800000000000000
+      internalID: -5487001817201264736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_17
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 6150
+        width: 724
+        height: 652
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dc1f07d309756c0800000000000000
+      internalID: -4154693537663693444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_18
+      rect:
+        serializedVersion: 2
+        x: 5602
+        y: 6150
+        width: 720
+        height: 652
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4f06f36f05dd580800000000000000
+      internalID: -8800789078256585544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_19
+      rect:
+        serializedVersion: 2
+        x: 6320
+        y: 6158
+        width: 730
+        height: 644
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecbaac0a10823eb0800000000000000
+      internalID: -4741586608297689874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_20
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 5466
+        width: 724
+        height: 652
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b30f0d5a1679f7d0800000000000000
+      internalID: -2884144230751599694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_21
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 5466
+        width: 724
+        height: 652
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce29e376605248440800000000000000
+      internalID: 4937111800937091820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_22
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 5471
+        width: 720
+        height: 647
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5edb6a6e38cbe40800000000000000
+      internalID: 5673554657243162069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_23
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 5472
+        width: 728
+        height: 646
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0218dfc0f85b40460800000000000000
+      internalID: 7207084929702527264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_24
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 5455
+        width: 724
+        height: 663
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30a5070787e6bd00800000000000000
+      internalID: 988231735378812990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_25
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 5466
+        width: 720
+        height: 652
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd63a0165711571e0800000000000000
+      internalID: -2200833647063714083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_26
+      rect:
+        serializedVersion: 2
+        x: 5066
+        y: 5466
+        width: 728
+        height: 652
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f8a9cbe5f7ce7d0800000000000000
+      internalID: -2887793216183431417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_27
+      rect:
+        serializedVersion: 2
+        x: 5794
+        y: 5472
+        width: 720
+        height: 646
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ee82c5161a98a50800000000000000
+      internalID: 6523922974752960085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_28
+      rect:
+        serializedVersion: 2
+        x: 6514
+        y: 5430
+        width: 788
+        height: 688
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e336935c47be85d80800000000000000
+      internalID: -8261594629653568706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_29
+      rect:
+        serializedVersion: 2
+        x: 7286
+        y: 4734
+        width: 906
+        height: 1384
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30638282a985f7360800000000000000
+      internalID: 7169546550919050755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4735
+        width: 742
+        height: 695
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7ef51ee38444050800000000000000
+      internalID: 5783827256356890572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_31
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 4735
+        width: 712
+        height: 695
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27d77060a4950cc0800000000000000
+      internalID: -3745424098554554577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_32
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 4746
+        width: 744
+        height: 684
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c6e2eac6c8e8c40800000000000000
+      internalID: 5516500991982070807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_33
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 4738
+        width: 728
+        height: 692
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55829de9b4da24b20800000000000000
+      internalID: 3117244432392988757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_34
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 4738
+        width: 732
+        height: 692
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea33f611ac0793c0800000000000000
+      internalID: -4352996628815987988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_35
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 4734
+        width: 722
+        height: 696
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36f6761335910090800000000000000
+      internalID: -8070005010618452418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_36
+      rect:
+        serializedVersion: 2
+        x: 4370
+        y: 4738
+        width: 720
+        height: 692
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be00f1e8cc741470800000000000000
+      internalID: 8364447610159763128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_37
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 4750
+        width: 736
+        height: 680
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc28bde8196247f80800000000000000
+      internalID: -8109814622378556721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_38
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 4738
+        width: 719
+        height: 692
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4478c44091d7e90800000000000000
+      internalID: -7026432337373608717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_39
+      rect:
+        serializedVersion: 2
+        x: 6542
+        y: 4736
+        width: 744
+        height: 694
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047d843d45ab03ef0800000000000000
+      internalID: -130399515708958912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4042
+        width: 714
+        height: 692
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe243f9c290c0b540800000000000000
+      internalID: 5021725321204024047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_41
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 4054
+        width: 744
+        height: 683
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c12a667d984fedc0800000000000000
+      internalID: -3607584935366745657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_42
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 4050
+        width: 740
+        height: 684
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bfa0136604dd1f0800000000000000
+      internalID: -1018587133062218941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_43
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 4047
+        width: 732
+        height: 687
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096955a01f7255e60800000000000000
+      internalID: 7950304633406461584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_44
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 4046
+        width: 728
+        height: 691
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a8a0ce0ff876e80800000000000000
+      internalID: -8185415532807550449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_45
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 4046
+        width: 740
+        height: 688
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f995d23f9cb6b50800000000000000
+      internalID: 6587580926234566415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_46
+      rect:
+        serializedVersion: 2
+        x: 4394
+        y: 4362
+        width: 268
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6371a4d97e9c37e50800000000000000
+      internalID: 6806005458500458294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_47
+      rect:
+        serializedVersion: 2
+        x: 4510
+        y: 4176
+        width: 840
+        height: 558
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023eadcb832c57b70800000000000000
+      internalID: 8896230187882701600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_48
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 4170
+        width: 916
+        height: 564
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea245ed6e3f96cd60800000000000000
+      internalID: 7910184886003385006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_49
+      rect:
+        serializedVersion: 2
+        x: 6266
+        y: 4151
+        width: 884
+        height: 585
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af024884e29c88440800000000000000
+      internalID: 4938418192034046202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_50
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 4150
+        width: 1042
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edbf355b58d2d740800000000000000
+      internalID: 5175436808585985504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2874
+        width: 886
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7c25fa3f98e1280800000000000000
+      internalID: -9070660919766104083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3455
+        width: 878
+        height: 587
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3e1993b6886cd10800000000000000
+      internalID: 2145552266597360549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_53
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 3456
+        width: 888
+        height: 586
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9d3d9485a187410800000000000000
+      internalID: 1474957844461902317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_54
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2874
+        width: 888
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f768dc951e52b610800000000000000
+      internalID: 1635473061607663609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_55
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 3456
+        width: 888
+        height: 586
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c849978e1e0989000800000000000000
+      internalID: 42943496402343052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_56
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 2874
+        width: 876
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56c10c93373a5de0800000000000000
+      internalID: -1343700844016449953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_57
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 2874
+        width: 892
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fa24912489d3b20800000000000000
+      internalID: 3115813926869315389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_58
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 3456
+        width: 876
+        height: 586
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f375a672b379e170800000000000000
+      internalID: 8208219006191367154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_59
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 3456
+        width: 880
+        height: 586
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e673bc4e88d968b60800000000000000
+      internalID: 7748053420217153390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_60
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 2874
+        width: 876
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67332de9995a351e0800000000000000
+      internalID: -2210240912895626378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_61
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 3455
+        width: 892
+        height: 587
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070ed45c384b322a0800000000000000
+      internalID: -6763363737336422288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_62
+      rect:
+        serializedVersion: 2
+        x: 4414
+        y: 2864
+        width: 884
+        height: 594
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae37a2c350740830800000000000000
+      internalID: 4036474671081143975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_63
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 2874
+        width: 876
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c2c4091a1b62e40800000000000000
+      internalID: 5631383691542146204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_64
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 3456
+        width: 884
+        height: 586
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b627707a0758966b0800000000000000
+      internalID: -5302560367366933909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_65
+      rect:
+        serializedVersion: 2
+        x: 6174
+        y: 2874
+        width: 880
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf1ad968e8b28f30800000000000000
+      internalID: 4576423479709671373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_66
+      rect:
+        serializedVersion: 2
+        x: 6182
+        y: 3455
+        width: 876
+        height: 587
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c169bb7e52d658b0800000000000000
+      internalID: -5163708619489189435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_67
+      rect:
+        serializedVersion: 2
+        x: 7054
+        y: 2864
+        width: 1138
+        height: 594
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d271aac302faaa40800000000000000
+      internalID: 5380378802945880791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_68
+      rect:
+        serializedVersion: 2
+        x: 7058
+        y: 3456
+        width: 1134
+        height: 586
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9046d836e671b350800000000000000
+      internalID: 6030732107193925790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2294
+        width: 886
+        height: 580
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc6943ac3dd43180800000000000000
+      internalID: -9136434491520619319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_70
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 7986
+        height: 2874
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e422b27d4533770800000000000000
+      internalID: 8589302197444038296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_71
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2288
+        width: 880
+        height: 586
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad343276662ee3d10800000000000000
+      internalID: 2107370605100876762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_72
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 2287
+        width: 884
+        height: 587
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4199bb860aa5f7690800000000000000
+      internalID: -7602258000979715820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_73
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 2176
+        width: 608
+        height: 698
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e44aa54c3283d560800000000000000
+      internalID: 7337351413295105257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_74
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 2186
+        width: 612
+        height: 688
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304d143b8355e7ea0800000000000000
+      internalID: -5873163162030582781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_75
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 2176
+        width: 596
+        height: 698
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b29a147c417873f0800000000000000
+      internalID: -902847152108432719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_76
+      rect:
+        serializedVersion: 2
+        x: 4462
+        y: 2186
+        width: 632
+        height: 688
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d762d1fe1ee54680800000000000000
+      internalID: -8771342882560645167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_77
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 2298
+        width: 204
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e9d0265eef37250800000000000000
+      internalID: 5941372594577841730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_78
+      rect:
+        serializedVersion: 2
+        x: 5098
+        y: 2190
+        width: 584
+        height: 684
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4873ad49c45e75130800000000000000
+      internalID: 3555562547909900164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_79
+      rect:
+        serializedVersion: 2
+        x: 5682
+        y: 2198
+        width: 604
+        height: 682
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c8350339b063b90800000000000000
+      internalID: -7262604622289466225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_80
+      rect:
+        serializedVersion: 2
+        x: 6286
+        y: 2176
+        width: 592
+        height: 698
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f60f3bee0c3c100800000000000000
+      internalID: 127157345950134081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_81
+      rect:
+        serializedVersion: 2
+        x: 6878
+        y: 2182
+        width: 588
+        height: 692
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104b1bd636242ae90800000000000000
+      internalID: -7015972274680253439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1503
+        width: 606
+        height: 679
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9483429c81c517260800000000000000
+      internalID: 7093552149608806473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_83
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1602
+        width: 208
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef13fc353c9c6110800000000000000
+      internalID: 1255550148599291872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_84
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1494
+        width: 584
+        height: 688
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da0bb817e92d9d10800000000000000
+      internalID: 2133907870972578512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_85
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1490
+        width: 596
+        height: 692
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a4e1f9ce254df20800000000000000
+      internalID: 3446470791080594076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_86
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1498
+        width: 588
+        height: 684
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b3fbf72a33a98f0800000000000000
+      internalID: -533056832869024924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_87
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 1504
+        width: 604
+        height: 678
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ce599b24df04fe0800000000000000
+      internalID: -1206686237112013752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_88
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1494
+        width: 588
+        height: 688
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb4484ed42238de0800000000000000
+      internalID: -1332183346829833241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_89
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 1490
+        width: 592
+        height: 692
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa62833d2dbf1af90800000000000000
+      internalID: -6943992267523217750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_90
+      rect:
+        serializedVersion: 2
+        x: 4162
+        y: 1498
+        width: 592
+        height: 684
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e800c7e78e1ca01b0800000000000000
+      internalID: -5689521974930571122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_91
+      rect:
+        serializedVersion: 2
+        x: 4754
+        y: 1503
+        width: 608
+        height: 679
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06092438a5fa14ee0800000000000000
+      internalID: -1278548015912415136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricky_asset_song1_2_92
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 7502
+        width: 626
+        height: 686
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f465f1de8f6809e0800000000000000
+      internalID: -1654950203860097808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tricky_asset_song1_2_82: 7093552149608806473
+      tricky_asset_song1_2_66: -5163708619489189435
+      tricky_asset_song1_2_22: 5673554657243162069
+      tricky_asset_song1_2_16: -5487001817201264736
+      tricky_asset_song1_2_49: 4938418192034046202
+      tricky_asset_song1_2_87: -1206686237112013752
+      tricky_asset_song1_2_5: -3135394903574773285
+      tricky_asset_song1_2_23: 7207084929702527264
+      tricky_asset_song1_2_35: -8070005010618452418
+      tricky_asset_song1_2_28: -8261594629653568706
+      tricky_asset_song1_2_84: 2133907870972578512
+      tricky_asset_song1_2_65: 4576423479709671373
+      tricky_asset_song1_2_41: -3607584935366745657
+      tricky_asset_song1_2_91: -1278548015912415136
+      tricky_asset_song1_2_74: -5873163162030582781
+      tricky_asset_song1_2_50: 5175436808585985504
+      tricky_asset_song1_2_76: -8771342882560645167
+      tricky_asset_song1_2_13: -3354297797715048737
+      tricky_asset_song1_2_1: -5438353017628000076
+      tricky_asset_song1_2_60: -2210240912895626378
+      tricky_asset_song1_2_26: -2887793216183431417
+      tricky_asset_song1_2_18: -8800789078256585544
+      tricky_asset_song1_2_83: 1255550148599291872
+      tricky_asset_song1_2_29: 7169546550919050755
+      tricky_asset_song1_2_73: 7337351413295105257
+      tricky_asset_song1_2_54: 1635473061607663609
+      tricky_asset_song1_2_53: 1474957844461902317
+      tricky_asset_song1_2_2: 4966092706729935208
+      tricky_asset_song1_2_56: -1343700844016449953
+      tricky_asset_song1_2_79: -7262604622289466225
+      tricky_asset_song1_2_4: -1259085504216756131
+      tricky_asset_song1_2_71: 2107370605100876762
+      tricky_asset_song1_2_24: 988231735378812990
+      tricky_asset_song1_2_21: 4937111800937091820
+      tricky_asset_song1_2_78: 3555562547909900164
+      tricky_asset_song1_2_44: -8185415532807550449
+      tricky_asset_song1_2_10: 1496682595396294786
+      tricky_asset_song1_2_43: 7950304633406461584
+      tricky_asset_song1_2_55: 42943496402343052
+      tricky_asset_song1_2_70: 8589302197444038296
+      tricky_asset_song1_2_34: -4352996628815987988
+      tricky_asset_song1_2_42: -1018587133062218941
+      tricky_asset_song1_2_46: 6806005458500458294
+      tricky_asset_song1_2_63: 5631383691542146204
+      tricky_asset_song1_2_69: -9136434491520619319
+      tricky_asset_song1_2_48: 7910184886003385006
+      tricky_asset_song1_2_17: -4154693537663693444
+      tricky_asset_song1_2_88: -1332183346829833241
+      tricky_asset_song1_2_6: 3949177167481778068
+      tricky_asset_song1_2_51: -9070660919766104083
+      tricky_asset_song1_2_36: 8364447610159763128
+      tricky_asset_song1_2_72: -7602258000979715820
+      tricky_asset_song1_2_52: 2145552266597360549
+      tricky_asset_song1_2_33: 3117244432392988757
+      tricky_asset_song1_2_8: 3917261475500520740
+      tricky_asset_song1_2_80: 127157345950134081
+      tricky_asset_song1_2_14: -7407080103797989735
+      tricky_asset_song1_2_61: -6763363737336422288
+      tricky_asset_song1_2_92: -1654950203860097808
+      tricky_asset_song1_2_75: -902847152108432719
+      tricky_asset_song1_2_85: 3446470791080594076
+      tricky_asset_song1_2_64: -5302560367366933909
+      tricky_asset_song1_2_25: -2200833647063714083
+      tricky_asset_song1_2_67: 5380378802945880791
+      tricky_asset_song1_2_32: 5516500991982070807
+      tricky_asset_song1_2_47: 8896230187882701600
+      tricky_asset_song1_2_30: 5783827256356890572
+      tricky_asset_song1_2_38: -7026432337373608717
+      tricky_asset_song1_2_59: 7748053420217153390
+      tricky_asset_song1_2_37: -8109814622378556721
+      tricky_asset_song1_2_45: 6587580926234566415
+      tricky_asset_song1_2_90: -5689521974930571122
+      tricky_asset_song1_2_0: -6407836488882758852
+      tricky_asset_song1_2_12: -836601420523170267
+      tricky_asset_song1_2_11: 3853284139942853689
+      tricky_asset_song1_2_27: 6523922974752960085
+      tricky_asset_song1_2_39: -130399515708958912
+      tricky_asset_song1_2_86: -533056832869024924
+      tricky_asset_song1_2_57: 3115813926869315389
+      tricky_asset_song1_2_77: 5941372594577841730
+      tricky_asset_song1_2_68: 6030732107193925790
+      tricky_asset_song1_2_31: -3745424098554554577
+      tricky_asset_song1_2_9: -7269849495132687246
+      tricky_asset_song1_2_89: -6943992267523217750
+      tricky_asset_song1_2_7: -197325780475985860
+      tricky_asset_song1_2_19: -4741586608297689874
+      tricky_asset_song1_2_40: 5021725321204024047
+      tricky_asset_song1_2_3: 8768222167223548109
+      tricky_asset_song1_2_58: 8208219006191367154
+      tricky_asset_song1_2_15: -417138641418496250
+      tricky_asset_song1_2_62: 4036474671081143975
+      tricky_asset_song1_2_81: -7015972274680253439
+      tricky_asset_song1_2_20: -2884144230751599694
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 139317762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bacce35cef74f04a52554d1a7120445f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/AssetBundles/FiveNight/Inst-fired.mp3
+Dependencies: []

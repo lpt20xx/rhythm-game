@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2878622354
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7120ea2c146188c88d9110b06678670f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/AssetBundles/Tricky/Inst-improbable-outset.mp3
+Dependencies: []

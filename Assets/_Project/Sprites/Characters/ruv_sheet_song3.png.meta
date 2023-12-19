@@ -1,0 +1,2922 @@
+fileFormatVersion: 2
+guid: 59ae730acf5f94e94a8aecde7c59b6f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -872010122181151356
+    second: RuvDown0000
+  - first:
+      213: 4957103886689962296
+    second: RuvDown0001
+  - first:
+      213: 4764267461643434950
+    second: RuvDown0002
+  - first:
+      213: -5600173794152197794
+    second: RuvDown0003
+  - first:
+      213: 1548404501283183452
+    second: RuvDown0004
+  - first:
+      213: 7800462903055126386
+    second: RuvDown0005
+  - first:
+      213: -7228492118616713701
+    second: RuvDown0006
+  - first:
+      213: -5076248036137167466
+    second: RuvDown0007
+  - first:
+      213: 7423896059364179737
+    second: RuvDown0008
+  - first:
+      213: -3712563648755749652
+    second: RuvDown0009
+  - first:
+      213: 3313849306237269187
+    second: RuvDown0010
+  - first:
+      213: 2500503808820881116
+    second: RuvDown0011
+  - first:
+      213: 3964404255795708037
+    second: RuvDown0012
+  - first:
+      213: -1010302748740427285
+    second: RuvDown0013
+  - first:
+      213: 2636847099928247118
+    second: RuvDown0014
+  - first:
+      213: -5521913921685371810
+    second: RuvDown0015
+  - first:
+      213: 7660852675121641430
+    second: RuvDown0016
+  - first:
+      213: -7186139835889350746
+    second: RuvDown0017
+  - first:
+      213: -1923984253432666776
+    second: RuvDown0018
+  - first:
+      213: 3560147256718856850
+    second: RuvDown0019
+  - first:
+      213: 6872973997932973016
+    second: RuvDown0020
+  - first:
+      213: 7077314136927582188
+    second: RuvDown0021
+  - first:
+      213: 7190704198959001748
+    second: RuvDown0022
+  - first:
+      213: 2082953712799106908
+    second: RuvDown0023
+  - first:
+      213: 5216339843684408178
+    second: RuvIdle0000
+  - first:
+      213: 5514830053372841605
+    second: RuvIdle0001
+  - first:
+      213: 5511317520253950201
+    second: RuvIdle0002
+  - first:
+      213: 5945883747810528195
+    second: RuvIdle0003
+  - first:
+      213: -1841484226887543585
+    second: RuvIdle0004
+  - first:
+      213: -26577773360737524
+    second: RuvIdle0005
+  - first:
+      213: 7226556564163734442
+    second: RuvIdle0006
+  - first:
+      213: -3633413655631537936
+    second: RuvIdle0007
+  - first:
+      213: 1884057663176795602
+    second: RuvIdle0008
+  - first:
+      213: -5560219310478286587
+    second: RuvIdle0009
+  - first:
+      213: -4370585697359028320
+    second: RuvIdle0010
+  - first:
+      213: 9067392117879667797
+    second: RuvIdle0011
+  - first:
+      213: -2291889041145128526
+    second: RuvIdle0012
+  - first:
+      213: -3795893265218694286
+    second: RuvIdle0013
+  - first:
+      213: 6865984579562188137
+    second: RuvIdle0014
+  - first:
+      213: 3879182827159043926
+    second: RuvLeft0000
+  - first:
+      213: -8886810705211819300
+    second: RuvLeft0001
+  - first:
+      213: -3336106214779814902
+    second: RuvLeft0002
+  - first:
+      213: -4691088167770397982
+    second: RuvLeft0003
+  - first:
+      213: 7866101116157569866
+    second: RuvLeft0004
+  - first:
+      213: -5027657696912803460
+    second: RuvLeft0005
+  - first:
+      213: 6656995071076212221
+    second: RuvLeft0006
+  - first:
+      213: -2536431836930083738
+    second: RuvLeft0007
+  - first:
+      213: -1516604891380753223
+    second: RuvLeft0008
+  - first:
+      213: -6417495520509610853
+    second: RuvLeft0009
+  - first:
+      213: 7985829620829793364
+    second: RuvLeft0010
+  - first:
+      213: -7508974997352271238
+    second: RuvLeft0011
+  - first:
+      213: -3466083230991223665
+    second: RuvLeft0012
+  - first:
+      213: -8191994978323392752
+    second: RuvLeft0013
+  - first:
+      213: 2923243245363872976
+    second: RuvLeft0014
+  - first:
+      213: -6857598965639900766
+    second: RuvLeft0015
+  - first:
+      213: -5743263250271691653
+    second: RuvLeft0016
+  - first:
+      213: -348287355696006239
+    second: RuvLeft0017
+  - first:
+      213: 2551572563005771870
+    second: RuvLeft0018
+  - first:
+      213: 6407663945014544596
+    second: RuvLeft0019
+  - first:
+      213: -2676344259145013262
+    second: RuvLeft0020
+  - first:
+      213: -9158316256383068845
+    second: RuvLeft0021
+  - first:
+      213: -7493290684341757828
+    second: RuvLeft0022
+  - first:
+      213: -5902935900444414187
+    second: RuvLeft0023
+  - first:
+      213: -6132523334080594759
+    second: RuvRight0000
+  - first:
+      213: 2492669778148981974
+    second: RuvRight0001
+  - first:
+      213: 2069433139385870017
+    second: RuvRight0002
+  - first:
+      213: -3094892016763070624
+    second: RuvRight0003
+  - first:
+      213: -2790967990288092347
+    second: RuvRight0004
+  - first:
+      213: 1976358698984911215
+    second: RuvRight0005
+  - first:
+      213: -1002442630779619797
+    second: RuvRight0006
+  - first:
+      213: -2028771073922530709
+    second: RuvRight0007
+  - first:
+      213: 5901056159955917752
+    second: RuvRight0008
+  - first:
+      213: 89130305807564480
+    second: RuvRight0009
+  - first:
+      213: -333618347333520128
+    second: RuvRight0010
+  - first:
+      213: -2951378461431885376
+    second: RuvRight0011
+  - first:
+      213: -4695866137763831955
+    second: RuvRight0012
+  - first:
+      213: -2183858357057007967
+    second: RuvRight0013
+  - first:
+      213: -5839649503317044274
+    second: RuvRight0014
+  - first:
+      213: 5371321081967481155
+    second: RuvRight0015
+  - first:
+      213: -2518757246517771695
+    second: RuvRight0016
+  - first:
+      213: 6361607772230066240
+    second: RuvRight0017
+  - first:
+      213: 7834984635914311406
+    second: RuvRight0018
+  - first:
+      213: 9837329132738298
+    second: RuvRight0019
+  - first:
+      213: -4835091948637166600
+    second: RuvRight0020
+  - first:
+      213: 1101595262900452314
+    second: RuvRight0021
+  - first:
+      213: 4545840444983089386
+    second: RuvRight0022
+  - first:
+      213: 3192604549973211681
+    second: RuvRight0023
+  - first:
+      213: -4151105774716531379
+    second: RuvUp0000
+  - first:
+      213: -5479606829788536233
+    second: RuvUp0001
+  - first:
+      213: 544456494573339463
+    second: RuvUp0002
+  - first:
+      213: 6215334379248377995
+    second: RuvUp0003
+  - first:
+      213: 9110296933826660175
+    second: RuvUp0004
+  - first:
+      213: -684788460442352805
+    second: RuvUp0005
+  - first:
+      213: -1610614158726101980
+    second: RuvUp0006
+  - first:
+      213: 4183763647015558306
+    second: RuvUp0007
+  - first:
+      213: -8354890452466658426
+    second: RuvUp0008
+  - first:
+      213: 6481460458340511338
+    second: RuvUp0009
+  - first:
+      213: -497546520194800584
+    second: RuvUp0010
+  - first:
+      213: 4717594230673129015
+    second: RuvUp0011
+  - first:
+      213: -8465370587281054453
+    second: RuvUp0012
+  - first:
+      213: -5566011533076271088
+    second: RuvUp0013
+  - first:
+      213: -2212413843628249184
+    second: RuvUp0014
+  - first:
+      213: -621450952544027343
+    second: RuvUp0015
+  - first:
+      213: 2589587355343138760
+    second: RuvUp0016
+  - first:
+      213: 8843467798708013708
+    second: RuvUp0017
+  - first:
+      213: 992657789501446751
+    second: RuvUp0018
+  - first:
+      213: -1608685713981552170
+    second: RuvUp0019
+  - first:
+      213: -8956983241820886492
+    second: RuvUp0020
+  - first:
+      213: 2309793334586462575
+    second: RuvUp0021
+  - first:
+      213: 5971340066933326798
+    second: RuvUp0022
+  - first:
+      213: -1989412720812867893
+    second: RuvUp0023
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RuvDown0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485f8daf96ff5e3f0800000000000000
+      internalID: -872010122181151356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0001
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8390dd898bb2bc440800000000000000
+      internalID: 4957103886689962296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0002
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb7532a3041e1240800000000000000
+      internalID: 4764267461643434950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0003
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e515b1fea9f2842b0800000000000000
+      internalID: -5600173794152197794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0004
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b999ba0b90d7510800000000000000
+      internalID: 1548404501283183452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0005
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f86348eafc04c60800000000000000
+      internalID: 7800462903055126386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0006
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16d32067bc3fab90800000000000000
+      internalID: -7228492118616713701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0007
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69515466e4b8d89b0800000000000000
+      internalID: -5076248036137167466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0008
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ff2dbe12af60760800000000000000
+      internalID: 7423896059364179737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0009
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceca2ed08035a7cc0800000000000000
+      internalID: -3712563648755749652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0010
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c47271f2682dfd20800000000000000
+      internalID: 3313849306237269187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0011
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6a74447f293b220800000000000000
+      internalID: 2500503808820881116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0012
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58000c49aa4640730800000000000000
+      internalID: 3964404255795708037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0013
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1e9b9b00faaf1f0800000000000000
+      internalID: -1010302748740427285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0014
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bfd3e7776f79420800000000000000
+      internalID: 2636847099928247118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0015
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54c8a96b883e53b0800000000000000
+      internalID: -5521913921685371810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0016
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7f9394be0d05a60800000000000000
+      internalID: 7660852675121641430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0017
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7088f94e3b54c90800000000000000
+      internalID: -7186139835889350746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0018
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86563b4e382ac45e0800000000000000
+      internalID: -1923984253432666776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0019
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2921fc8411f286130800000000000000
+      internalID: 3560147256718856850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0020
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db8a41cf65b16f50800000000000000
+      internalID: 6872973997932973016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0021
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce73b67d5bba73260800000000000000
+      internalID: 7077314136927582188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0022
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4907cd7fe538ac360800000000000000
+      internalID: 7190704198959001748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvDown0023
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3310
+        width: 497
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57c8f6ad5328ec10800000000000000
+      internalID: 2082953712799106908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvIdle0000
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3267
+        width: 442
+        height: 829
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b96825379246840800000000000000
+      internalID: 5216339843684408178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvIdle0001
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3267
+        width: 442
+        height: 829
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ecfe7f6bc988c40800000000000000
+      internalID: 5514830053372841605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvIdle0002
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3267
+        width: 442
+        height: 829
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f89f1f95122c7c40800000000000000
+      internalID: 5511317520253950201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvIdle0003
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3267
+        width: 442
+        height: 829
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbc30814c5048250800000000000000
+      internalID: 5945883747810528195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvIdle0004
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3267
+        width: 442
+        height: 829
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd412ec2adbb176e0800000000000000
+      internalID: -1841484226887543585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvIdle0005
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3267
+        width: 442
+        height: 829
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0399ebe7a391aff0800000000000000
+      internalID: -26577773360737524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvIdle0006
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 3267
+        width: 442
+        height: 829
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab2f3c38e2e94460800000000000000
+      internalID: 7226556564163734442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvIdle0007
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 3267
+        width: 442
+        height: 829
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f85706e785839dc0800000000000000
+      internalID: -3633413655631537936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvIdle0008
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 3267
+        width: 442
+        height: 829
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d561066674852a10800000000000000
+      internalID: 1884057663176795602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvIdle0009
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 3267
+        width: 442
+        height: 829
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501aca51ff126d2b0800000000000000
+      internalID: -5560219310478286587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvIdle0010
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 3267
+        width: 442
+        height: 829
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af1380f67f8853c0800000000000000
+      internalID: -4370585697359028320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvIdle0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2438
+        width: 442
+        height: 829
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cf4611719d5dd70800000000000000
+      internalID: 9067392117879667797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvIdle0012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2438
+        width: 442
+        height: 829
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b91fed5f039130e0800000000000000
+      internalID: -2291889041145128526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvIdle0013
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3267
+        width: 442
+        height: 829
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2739751df27425bc0800000000000000
+      internalID: -3795893265218694286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvIdle0014
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3267
+        width: 442
+        height: 829
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d2d1af890e84f50800000000000000
+      internalID: 6865984579562188137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0000
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f3c9f7a30a5d530800000000000000
+      internalID: 3879182827159043926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0001
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdaf5b97fb4bba480800000000000000
+      internalID: -8886810705211819300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0002
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c7317b215c3b1d0800000000000000
+      internalID: -3336106214779814902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0003
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2e1067a28e5eeb0800000000000000
+      internalID: -4691088167770397982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0004
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b20ebe9410a2d60800000000000000
+      internalID: 7866101116157569866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0005
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79f04b56fb2a3ab0800000000000000
+      internalID: -5027657696912803460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0006
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd16033fb5626c50800000000000000
+      internalID: 6656995071076212221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0007
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6647ac2dea8ccccd0800000000000000
+      internalID: -2536431836930083738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0008
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc51a8f2efe3fae0800000000000000
+      internalID: -1516604891380753223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0009
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b943d5053d970f6a0800000000000000
+      internalID: -6417495520509610853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0010
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c2a5ababd53de60800000000000000
+      internalID: 7985829620829793364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0011
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72378f2603cac790800000000000000
+      internalID: -7508974997352271238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0012
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8474de5aaff5efc0800000000000000
+      internalID: -3466083230991223665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0013
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017104368ff205e80800000000000000
+      internalID: -8191994978323392752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0014
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d449ff5e32719820800000000000000
+      internalID: 2923243245363872976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0015
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a192f8e21ae4d0a0800000000000000
+      internalID: -6857598965639900766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0016
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c1004c084db40b0800000000000000
+      internalID: -5743263250271691653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0017
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abbafbce72aa2bf0800000000000000
+      internalID: -348287355696006239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0018
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50979c2ab1096320800000000000000
+      internalID: 2551572563005771870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0019
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d88ba2a8689ce850800000000000000
+      internalID: 6407663945014544596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0020
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f761018317bbdad0800000000000000
+      internalID: -2676344259145013262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0021
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3551a9d33ef17e080800000000000000
+      internalID: -9158316256383068845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0022
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78d011e2db720890800000000000000
+      internalID: -7493290684341757828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvLeft0023
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2535
+        width: 474
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f2c1ad21f841ea0800000000000000
+      internalID: -5902935900444414187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0000
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcf457e486e4eaa0800000000000000
+      internalID: -6132523334080594759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0001
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcfbecd4fdb79220800000000000000
+      internalID: 2492669778148981974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0002
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c62487d97a18bc10800000000000000
+      internalID: 2069433139385870017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0003
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06715a2bb1cbc05d0800000000000000
+      internalID: -3094892016763070624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0004
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5437467666d7449d0800000000000000
+      internalID: -2790967990288092347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0005
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61bfb9f3cf6d6b10800000000000000
+      internalID: 1976358698984911215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0006
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b263cac0dbb9612f0800000000000000
+      internalID: -1002442630779619797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0007
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b628248057b58d3e0800000000000000
+      internalID: -2028771073922530709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0008
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb9dc5ff43c4e150800000000000000
+      internalID: 5901056159955917752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0009
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceb1687a87ac3100800000000000000
+      internalID: 89130305807564480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0010
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005f1a471efbe5bf0800000000000000
+      internalID: -333618347333520128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0011
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c11d982de89a07d0800000000000000
+      internalID: -2951378461431885376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0012
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f1dc1a0aee4deb0800000000000000
+      internalID: -4695866137763831955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0013
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae49d3156061b1e0800000000000000
+      internalID: -2183858357057007967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0014
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3500e67b565fea0800000000000000
+      internalID: -5839649503317044274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0015
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3411d39c014ca8a40800000000000000
+      internalID: 5371321081967481155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0016
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1520ed511a39b0dd0800000000000000
+      internalID: -2518757246517771695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0017
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04023284098f84850800000000000000
+      internalID: 6361607772230066240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0018
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6d05cc3057bbc60800000000000000
+      internalID: 7834984635914311406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0019
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6de7caff2f22000800000000000000
+      internalID: 9837329132738298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0020
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f361297d7d46ecb0800000000000000
+      internalID: -4835091948637166600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0021
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb3f6b1e07a94f00800000000000000
+      internalID: 1101595262900452314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0022
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae812d0ccc1161f30800000000000000
+      internalID: 4545840444983089386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvRight0023
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2479
+        width: 422
+        height: 788
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12af27d4ce86e4c20800000000000000
+      internalID: 3192604549973211681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dc2f89a4f4466c0800000000000000
+      internalID: -4151105774716531379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0001
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75266a9de9684f3b0800000000000000
+      internalID: -5479606829788536233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0002
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743c2b21c4c4e8700800000000000000
+      internalID: 544456494573339463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0003
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b806f5b00bd414650800000000000000
+      internalID: 6215334379248377995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0004
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47811bfac64e6e70800000000000000
+      internalID: 9110296933826660175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0005
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b530c0df5842f76f0800000000000000
+      internalID: -684788460442352805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0006
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4248aeeb4f2f5a9e0800000000000000
+      internalID: -1610614158726101980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0007
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac1e84ded6bf0a30800000000000000
+      internalID: 4183763647015558306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0008
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6831c6b46677d0c80800000000000000
+      internalID: -8354890452466658426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0009
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e602552f5c2f950800000000000000
+      internalID: 6481460458340511338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0010
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834ae84731c5819f0800000000000000
+      internalID: -497546520194800584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0011
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e34b935f2487140800000000000000
+      internalID: 4717594230673129015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0012
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05a2156d46f48a80800000000000000
+      internalID: -8465370587281054453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0013
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010f24b200e81c2b0800000000000000
+      internalID: -5566011533076271088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0014
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afa162c45deb41e0800000000000000
+      internalID: -2212413843628249184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0015
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13df848b6a92067f0800000000000000
+      internalID: -621450952544027343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0016
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf221ebaff00f320800000000000000
+      internalID: 2589587355343138760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0017
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ac894bb1f4aba70800000000000000
+      internalID: 8843467798708013708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0018
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a12ce0001a6cd00800000000000000
+      internalID: 992657789501446751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0019
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d942e6cddccca9e0800000000000000
+      internalID: -1608685713981552170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0020
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aa32c923762b380800000000000000
+      internalID: -8956983241820886492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0021
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61579cccc80e0020800000000000000
+      internalID: 2309793334586462575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0022
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec34e9247267ed250800000000000000
+      internalID: 5971340066933326798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuvUp0023
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1652
+        width: 455
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce3e48bbaf2464e0800000000000000
+      internalID: -1989412720812867893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RuvDown0017: -7186139835889350746
+      RuvDown0023: 2082953712799106908
+      RuvDown0002: 4764267461643434950
+      RuvDown0003: -5600173794152197794
+      RuvDown0011: 2500503808820881116
+      RuvLeft0000: 3879182827159043926
+      RuvRight0019: 9837329132738298
+      RuvRight0015: 5371321081967481155
+      RuvRight0001: 2492669778148981974
+      RuvDown0010: 3313849306237269187
+      RuvUp0016: 2589587355343138760
+      RuvIdle0004: -1841484226887543585
+      RuvRight0021: 1101595262900452314
+      RuvUp0009: 6481460458340511338
+      RuvUp0013: -5566011533076271088
+      RuvIdle0014: 6865984579562188137
+      RuvLeft0017: -348287355696006239
+      RuvUp0010: -497546520194800584
+      RuvIdle0006: 7226556564163734442
+      RuvLeft0023: -5902935900444414187
+      RuvIdle0011: 9067392117879667797
+      RuvDown0015: -5521913921685371810
+      RuvRight0014: -5839649503317044274
+      RuvUp0007: 4183763647015558306
+      RuvLeft0008: -1516604891380753223
+      RuvLeft0007: -2536431836930083738
+      RuvDown0008: 7423896059364179737
+      RuvDown0019: 3560147256718856850
+      RuvRight0008: 5901056159955917752
+      RuvRight0011: -2951378461431885376
+      RuvUp0019: -1608685713981552170
+      RuvIdle0013: -3795893265218694286
+      RuvLeft0001: -8886810705211819300
+      RuvLeft0022: -7493290684341757828
+      RuvDown0007: -5076248036137167466
+      RuvRight0012: -4695866137763831955
+      RuvIdle0003: 5945883747810528195
+      RuvRight0020: -4835091948637166600
+      RuvIdle0009: -5560219310478286587
+      RuvLeft0003: -4691088167770397982
+      RuvLeft0019: 6407663945014544596
+      RuvLeft0021: -9158316256383068845
+      RuvLeft0015: -6857598965639900766
+      RuvUp0005: -684788460442352805
+      RuvDown0005: 7800462903055126386
+      RuvRight0009: 89130305807564480
+      RuvLeft0016: -5743263250271691653
+      RuvLeft0018: 2551572563005771870
+      RuvLeft0020: -2676344259145013262
+      RuvRight0004: -2790967990288092347
+      RuvRight0005: 1976358698984911215
+      RuvRight0016: -2518757246517771695
+      RuvUp0002: 544456494573339463
+      RuvLeft0005: -5027657696912803460
+      RuvIdle0008: 1884057663176795602
+      RuvRight0010: -333618347333520128
+      RuvUp0000: -4151105774716531379
+      RuvIdle0002: 5511317520253950201
+      RuvRight0022: 4545840444983089386
+      RuvDown0016: 7660852675121641430
+      RuvDown0020: 6872973997932973016
+      RuvUp0011: 4717594230673129015
+      RuvLeft0004: 7866101116157569866
+      RuvLeft0009: -6417495520509610853
+      RuvRight0013: -2183858357057007967
+      RuvDown0018: -1923984253432666776
+      RuvDown0006: -7228492118616713701
+      RuvRight0006: -1002442630779619797
+      RuvLeft0011: -7508974997352271238
+      RuvIdle0007: -3633413655631537936
+      RuvUp0015: -621450952544027343
+      RuvIdle0005: -26577773360737524
+      RuvDown0022: 7190704198959001748
+      RuvUp0020: -8956983241820886492
+      RuvIdle0012: -2291889041145128526
+      RuvUp0004: 9110296933826660175
+      RuvLeft0012: -3466083230991223665
+      RuvRight0002: 2069433139385870017
+      RuvUp0022: 5971340066933326798
+      RuvDown0000: -872010122181151356
+      RuvDown0004: 1548404501283183452
+      RuvUp0012: -8465370587281054453
+      RuvDown0012: 3964404255795708037
+      RuvIdle0001: 5514830053372841605
+      RuvLeft0006: 6656995071076212221
+      RuvIdle0000: 5216339843684408178
+      RuvUp0021: 2309793334586462575
+      RuvUp0006: -1610614158726101980
+      RuvUp0018: 992657789501446751
+      RuvLeft0014: 2923243245363872976
+      RuvUp0008: -8354890452466658426
+      RuvDown0001: 4957103886689962296
+      RuvLeft0013: -8191994978323392752
+      RuvLeft0010: 7985829620829793364
+      RuvRight0003: -3094892016763070624
+      RuvIdle0010: -4370585697359028320
+      RuvRight0017: 6361607772230066240
+      RuvRight0007: -2028771073922530709
+      RuvUp0014: -2212413843628249184
+      RuvDown0009: -3712563648755749652
+      RuvDown0021: 7077314136927582188
+      RuvLeft0002: -3336106214779814902
+      RuvRight0000: -6132523334080594759
+      RuvDown0014: 2636847099928247118
+      RuvRight0018: 7834984635914311406
+      RuvUp0001: -5479606829788536233
+      RuvRight0023: 3192604549973211681
+      RuvUp0003: 6215334379248377995
+      RuvUp0023: -1989412720812867893
+      RuvUp0017: 8843467798708013708
+      RuvDown0013: -1010302748740427285
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

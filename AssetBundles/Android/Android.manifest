@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1941991576
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: inst-play
+      Dependencies: {}
+    Info_1:
+      Name: inst-playground
+      Dependencies: {}
+    Info_2:
+      Name: inst-playtime
+      Dependencies: {}
